@@ -412,7 +412,7 @@
     "orders": {
       "title": "Bestillingshistorikk",
       "order_number": "Bestilling",
-      "order_number_link": "Ordrenummer {{ number }}",
+      "order_number_link": "Bestillingsnummer {{ number }}",
       "date": "Dato",
       "payment_status": "Betalingsstatus",
       "fulfillment_status": "Distribusjonsstatus",

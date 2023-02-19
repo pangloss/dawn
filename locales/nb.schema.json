@@ -544,7 +544,7 @@
       }
     },
     "collection-list": {
-      "name": "Liste over samlinger",
+      "name": "Samlingsliste",
       "settings": {
         "title": {
           "label": "Overskrift"
@@ -595,7 +595,7 @@
         }
       },
       "presets": {
-        "name": "Liste over samlinger"
+        "name": "Samlingsliste"
       }
     },
     "contact-form": {
@@ -650,7 +650,7 @@
       }
     },
     "featured-collection": {
-      "name": "Fremhevet samling",
+      "name": "Utvalgt samling",
       "settings": {
         "title": {
           "label": "Overskrift"
@@ -749,7 +749,7 @@
         }
       },
       "presets": {
-        "name": "Fremhevet samling"
+        "name": "Utvalgt samling"
       }
     },
     "footer": {
@@ -903,6 +903,9 @@
           "options__2": {
             "label": "Venstre"
           }
+        },
+        "logo_header": {
+          "content": "Logo"
         },
         "logo_help": {
           "content": "Rediger logoen i [temainnstillingene](/editor?context=theme&category=logo)."

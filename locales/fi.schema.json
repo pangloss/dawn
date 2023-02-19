@@ -650,7 +650,7 @@
       }
     },
     "featured-collection": {
-      "name": "Esittelykokoelma",
+      "name": "Esittelyssä oleva kokoelma",
       "settings": {
         "title": {
           "label": "Otsikko"
@@ -749,7 +749,7 @@
         }
       },
       "presets": {
-        "name": "Esittelykokoelma"
+        "name": "Esittelyssä oleva kokoelma"
       }
     },
     "footer": {
@@ -903,6 +903,9 @@
           "options__2": {
             "label": "Vasen"
           }
+        },
+        "logo_header": {
+          "content": "Logo"
         },
         "logo_help": {
           "content": "Muokkaa logoa [teeman asetuksissa](/editor?context=theme&category=logo)."

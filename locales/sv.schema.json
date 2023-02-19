@@ -904,6 +904,9 @@
             "label": "Vänster"
           }
         },
+        "logo_header": {
+          "content": "Logotyp"
+        },
         "logo_help": {
           "content": "Redigera din logotyp i [temainställningarna](/editor?context=theme&category=logo)."
         },

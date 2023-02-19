@@ -904,6 +904,9 @@
             "label": "Esquerda"
           }
         },
+        "logo_header": {
+          "content": "Logótipo"
+        },
         "logo_help": {
           "content": "Edite o seu logótipo em [definições de tema](/editor?context=theme&category=logo)."
         },
