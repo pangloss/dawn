@@ -57,7 +57,7 @@
           "settings": {
             "heading": "Size and Materials",
             "icon": "ruler",
-            "content": "",
+            "content": "<p>{{ product.metafields.custom.size_and_materials | metafield_tag }}<\/p>",
             "page": ""
           }
         }
