@@ -43,6 +43,13 @@
           "settings": {
           }
         },
+        "f665b114-a1d2-41f2-ad0b-71132620abe5": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.product.medium.value }}, {{ product.metafields.product.width.value }}\" 𝗑 {{ product.metafields.product.height.value }}\"",
+            "text_style": "body"
+          }
+        },
         "6d6429fe-5002-4fdb-b375-f7f6175a98b8": {
           "type": "collapsible_tab",
           "settings": {
@@ -70,6 +77,7 @@
         "buy_buttons",
         "share",
         "description",
+        "f665b114-a1d2-41f2-ad0b-71132620abe5",
         "6d6429fe-5002-4fdb-b375-f7f6175a98b8",
         "88525f08-fee8-4c16-b1c7-0c77a1aaeb2d"
       ],
