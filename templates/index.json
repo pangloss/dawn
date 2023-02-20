@@ -291,10 +291,10 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "accent-1",
+        "color_scheme": "accent-2",
         "full_width": true,
         "padding_top": 84,
-        "padding_bottom": 84
+        "padding_bottom": 40
       }
     },
     "c16b8956-c9d1-45e2-b920-6a922ed63946": {
@@ -327,60 +327,13 @@
       ],
       "settings": {
         "heading": "",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "desktop_layout": "left",
-        "mobile_layout": "column",
+        "mobile_layout": "collage",
         "card_styles": "product-card-wrapper",
-        "color_scheme": "background-1",
-        "padding_top": 36,
+        "color_scheme": "accent-2",
+        "padding_top": 8,
         "padding_bottom": 36
-      }
-    },
-    "collection-list": {
-      "type": "collection-list",
-      "blocks": {
-        "collection-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "italian-espresso-maker"
-          }
-        },
-        "collection-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "collection-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "collection-3": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection-0",
-        "collection-1",
-        "collection-2",
-        "collection-3"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 2,
-        "color_scheme": "accent-1",
-        "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 68
       }
     },
     "multicolumn": {
@@ -506,7 +459,6 @@
     "featured-collection-1",
     "rich-text-3",
     "c16b8956-c9d1-45e2-b920-6a922ed63946",
-    "collection-list",
     "multicolumn",
     "newslettter",
     "image-with-text-2"
