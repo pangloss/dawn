@@ -290,13 +290,52 @@
         "padding_bottom": 84
       }
     },
+    "c16b8956-c9d1-45e2-b920-6a922ed63946": {
+      "type": "collage",
+      "blocks": {
+        "template--17932971475229__c16b8956-c9d1-45e2-b920-6a922ed63946-167687880861581e06-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_5722.jpg"
+          }
+        },
+        "template--17932971475229__c16b8956-c9d1-45e2-b920-6a922ed63946-167687880861581e06-1": {
+          "type": "product",
+          "settings": {
+            "product": "still-life-with-a-red-ribbon",
+            "second_image": false
+          }
+        },
+        "template--17932971475229__c16b8956-c9d1-45e2-b920-6a922ed63946-167687880861581e06-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "italian-espresso-maker"
+          }
+        }
+      },
+      "block_order": [
+        "template--17932971475229__c16b8956-c9d1-45e2-b920-6a922ed63946-167687880861581e06-0",
+        "template--17932971475229__c16b8956-c9d1-45e2-b920-6a922ed63946-167687880861581e06-1",
+        "template--17932971475229__c16b8956-c9d1-45e2-b920-6a922ed63946-167687880861581e06-2"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "collection-list": {
       "type": "collection-list",
       "blocks": {
         "collection-0": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "italian-espresso-maker"
           }
         },
         "collection-1": {
@@ -459,6 +498,7 @@
     "rich-text-2",
     "featured-collection-1",
     "rich-text-3",
+    "c16b8956-c9d1-45e2-b920-6a922ed63946",
     "collection-list",
     "multicolumn",
     "newslettter",
