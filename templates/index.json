@@ -85,13 +85,13 @@
         "slide-2"
       ],
       "settings": {
-        "layout": "grid",
-        "slide_height": "small",
+        "layout": "full_bleed",
+        "slide_height": "medium",
         "slider_visual": "dots",
         "auto_rotate": true,
-        "change_slides_speed": 3,
+        "change_slides_speed": 9,
         "show_text_below": false,
-        "accessibility_info": "Slideshow about our brand."
+        "accessibility_info": ""
       }
     },
     "rich-text-1": {
