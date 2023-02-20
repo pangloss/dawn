@@ -331,7 +331,7 @@
         "desktop_layout": "left",
         "mobile_layout": "collage",
         "card_styles": "product-card-wrapper",
-        "color_scheme": "accent-2",
+        "color_scheme": "background-2",
         "padding_top": 8,
         "padding_bottom": 36
       }
