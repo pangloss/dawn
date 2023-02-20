@@ -184,6 +184,13 @@
             "heading_size": "h2"
           }
         },
+        "fd67951e-b346-4029-9849-8ddf7877510d": {
+          "type": "text",
+          "settings": {
+            "text": "<p><\/p><p><\/p>",
+            "text_style": "body"
+          }
+        },
         "button": {
           "type": "button",
           "settings": {
@@ -194,6 +201,7 @@
       },
       "block_order": [
         "heading",
+        "fd67951e-b346-4029-9849-8ddf7877510d",
         "button"
       ],
       "settings": {
