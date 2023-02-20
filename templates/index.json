@@ -275,11 +275,18 @@
             "heading": "<p>Some objects recur in Eliza's paintings<\/p>",
             "heading_size": "h1"
           }
+        },
+        "d4a1b0a6-2e88-46fb-aad1-132ddf73fac8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A beautiful Italian espresso maker whose appearance (if not its coffee) we've enjoyed for many years has finally found a true purpose. It's a wonderful object hiding at the center of many of Eliza's paintings.<\/p>"
+          }
         }
       },
       "block_order": [
         "text",
-        "heading"
+        "heading",
+        "d4a1b0a6-2e88-46fb-aad1-132ddf73fac8"
       ],
       "settings": {
         "desktop_content_position": "center",
