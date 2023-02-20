@@ -16,7 +16,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/IMG_5114.jpg",
-            "image_width": 100,
+            "image_width": 550,
             "alignment": "right"
           }
         },
