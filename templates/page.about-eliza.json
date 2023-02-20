@@ -173,6 +173,16 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "95c035db-abb6-4887-bc55-e912a022708a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/7R36764_edited.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -180,7 +190,8 @@
         "template--17945821544733__6d03ce48-e0b4-4f0e-ac1d-97fc7ba409b3-1676926395737e8e5d-0",
         "template--17945821544733__6d03ce48-e0b4-4f0e-ac1d-97fc7ba409b3-1676926395737e8e5d-1",
         "template--17945821544733__6d03ce48-e0b4-4f0e-ac1d-97fc7ba409b3-1676926395737e8e5d-2",
-        "e8aabb73-48c0-456d-8a12-ad77db86476f"
+        "e8aabb73-48c0-456d-8a12-ad77db86476f",
+        "95c035db-abb6-4887-bc55-e912a022708a"
       ],
       "settings": {
         "title": "About Eliza Kożurno",
