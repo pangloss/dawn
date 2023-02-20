@@ -160,31 +160,11 @@
             "link": ""
           }
         },
-        "template--17945821544733__6d03ce48-e0b4-4f0e-ac1d-97fc7ba409b3-1676926395737e8e5d-1": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "template--17945821544733__6d03ce48-e0b4-4f0e-ac1d-97fc7ba409b3-1676926395737e8e5d-2": {
           "type": "column",
           "settings": {
             "title": "",
             "text": "<p>In 2008 she launched Eliza Kozurno Jewellery. Her pieces have been described as “pieces of wearable art” and featured on runways for Toronto Fashion Week, in Elle Canada, Toronto Life, Schon, Plaid, Anokhi Magazine, commercials, film, and television shows.<br\/><br\/>In 2020, she returned to her passion for painting, creating 45+ still life pieces, including this collection of 35+. Much as Eliza harmonized materials when creating jewelry and costume, she now meticulously composes still-life paintings with her characteristic eye for colour, texture, and a special focus on how objects and their reflections interact.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "e8aabb73-48c0-456d-8a12-ad77db86476f": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "",
-            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -194,9 +174,7 @@
         "template--17945821544733__6d03ce48-e0b4-4f0e-ac1d-97fc7ba409b3-1676926395737e8e5d-0",
         "82967d4e-a12d-4d91-a79c-97927622db27",
         "95c035db-abb6-4887-bc55-e912a022708a",
-        "template--17945821544733__6d03ce48-e0b4-4f0e-ac1d-97fc7ba409b3-1676926395737e8e5d-1",
-        "template--17945821544733__6d03ce48-e0b4-4f0e-ac1d-97fc7ba409b3-1676926395737e8e5d-2",
-        "e8aabb73-48c0-456d-8a12-ad77db86476f"
+        "template--17945821544733__6d03ce48-e0b4-4f0e-ac1d-97fc7ba409b3-1676926395737e8e5d-2"
       ],
       "settings": {
         "title": "About Eliza Kożurno",
@@ -206,7 +184,7 @@
         "columns_desktop": 2,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
