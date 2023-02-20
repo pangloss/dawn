@@ -131,6 +131,16 @@
     "6d03ce48-e0b4-4f0e-ac1d-97fc7ba409b3": {
       "type": "multicolumn",
       "blocks": {
+        "82967d4e-a12d-4d91-a79c-97927622db27": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "template--17945821544733__6d03ce48-e0b4-4f0e-ac1d-97fc7ba409b3-1676926395737e8e5d-0": {
           "type": "column",
           "settings": {
@@ -140,12 +150,11 @@
             "link": ""
           }
         },
-        "82967d4e-a12d-4d91-a79c-97927622db27": {
+        "template--17945821544733__6d03ce48-e0b4-4f0e-ac1d-97fc7ba409b3-1676926395737e8e5d-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled.jpg",
             "title": "",
-            "text": "",
+            "text": "<p>In 2008 she launched Eliza Kozurno Jewellery. Her pieces have been described as “pieces of wearable art” and featured on runways for Toronto Fashion Week, in Elle Canada, Toronto Life, Schon, Plaid, Anokhi Magazine, commercials, film, and television shows.<br\/><br\/>In 2020, she returned to her passion for painting, creating 45+ still life pieces, including this collection of 35+. Much as Eliza harmonized materials when creating jewelry and costume, she now meticulously composes still-life paintings with her characteristic eye for colour, texture, and a special focus on how objects and their reflections interact.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -159,22 +168,13 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "template--17945821544733__6d03ce48-e0b4-4f0e-ac1d-97fc7ba409b3-1676926395737e8e5d-2": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>In 2008 she launched Eliza Kozurno Jewellery. Her pieces have been described as “pieces of wearable art” and featured on runways for Toronto Fashion Week, in Elle Canada, Toronto Life, Schon, Plaid, Anokhi Magazine, commercials, film, and television shows.<br\/><br\/>In 2020, she returned to her passion for painting, creating 45+ still life pieces, including this collection of 35+. Much as Eliza harmonized materials when creating jewelry and costume, she now meticulously composes still-life paintings with her characteristic eye for colour, texture, and a special focus on how objects and their reflections interact.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
-        "template--17945821544733__6d03ce48-e0b4-4f0e-ac1d-97fc7ba409b3-1676926395737e8e5d-0",
         "82967d4e-a12d-4d91-a79c-97927622db27",
-        "95c035db-abb6-4887-bc55-e912a022708a",
-        "template--17945821544733__6d03ce48-e0b4-4f0e-ac1d-97fc7ba409b3-1676926395737e8e5d-2"
+        "template--17945821544733__6d03ce48-e0b4-4f0e-ac1d-97fc7ba409b3-1676926395737e8e5d-0",
+        "template--17945821544733__6d03ce48-e0b4-4f0e-ac1d-97fc7ba409b3-1676926395737e8e5d-2",
+        "95c035db-abb6-4887-bc55-e912a022708a"
       ],
       "settings": {
         "title": "About Eliza Kożurno",
