@@ -264,13 +264,13 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>SHOP BY ARTIST<\/p>"
+            "text": "<p>Exploring the Work<\/p>"
           }
         },
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Talk about your collections<\/p>",
+            "heading": "<p>Some objects recur in Eliza's paintings<\/p>",
             "heading_size": "h1"
           }
         }
