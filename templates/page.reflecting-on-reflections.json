@@ -38,30 +38,76 @@
     },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
     },
+    "b03cfa25-102b-48a8-8fb9-62497de976d2": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--17945618612509__b03cfa25-102b-48a8-8fb9-62497de976d2-1676926395737e8e5d-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>I approached this work as a meditation on the interplay of objects and their reflections. Mirror-like surfaces are juxtaposed against soft lines and intricate textiles in rich colour combinations. The <br\/>compositions are arranged to create subtle distortions and refractions on which the eye can linger.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17945618612509__b03cfa25-102b-48a8-8fb9-62497de976d2-1676926395737e8e5d-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Just as the pandemic slowed the pace of time and narrowed our sphere, I aim to slow the viewer’s gaze, provoke deeper observation and discovery. These pieces are a reminder of the simple pleasure to be found in colour, texture, light, and the act of focusing on beauty. Through this immersion, the viewer can share my experience of a flow state and gain distance from ordinary consciousness.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17945618612509__b03cfa25-102b-48a8-8fb9-62497de976d2-1676926395737e8e5d-1",
+        "template--17945618612509__b03cfa25-102b-48a8-8fb9-62497de976d2-1676926395737e8e5d-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 48,
+        "padding_bottom": 48
+      }
+    },
     "a42d4491-c810-4a6c-a820-95fc5554b1f7": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "template--17945618612509__a42d4491-c810-4a6c-a820-95fc5554b1f7-16769259657c239cfd-0": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_3650.jpg"
           }
         },
         "template--17945618612509__a42d4491-c810-4a6c-a820-95fc5554b1f7-16769259657c239cfd-1": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "still-life-with-a-finger-pepper",
             "second_image": false
           }
         },
         "template--17945618612509__a42d4491-c810-4a6c-a820-95fc5554b1f7-16769259657c239cfd-2": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "reflecting-on-reflections"
           }
         }
       },
@@ -112,6 +158,7 @@
   "order": [
     "1f352860-0379-4ccf-887c-31e2dfbec050",
     "main",
+    "b03cfa25-102b-48a8-8fb9-62497de976d2",
     "a42d4491-c810-4a6c-a820-95fc5554b1f7",
     "d28a356c-9869-40da-81cf-935ebdf880e3"
   ]
