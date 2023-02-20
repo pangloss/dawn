@@ -152,7 +152,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Share something unique about your brand",
+            "heading": "Coffee?",
             "heading_size": "h1"
           }
         }
@@ -161,6 +161,7 @@
         "heading"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_5021_copy_2.jpg",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "text_first",
