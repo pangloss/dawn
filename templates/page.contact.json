@@ -18,10 +18,18 @@
             "heading_size": "h1"
           }
         },
+        "8092ed30-1f17-4362-bca7-b7e45b6a2def": {
+          "type": "caption",
+          "settings": {
+            "caption": "I love to talk to people interested in my work. Please reach out to me!",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
         "template--17932971409693__ad446750-0eaa-45d2-80e1-c7a43289aad2-1676950836c0fde6c5-1": {
           "type": "text",
           "settings": {
-            "text": "<p>I love to hear from people interested in my work. Please reach out to me!<\/p><p><\/p><p>If you are interested in seeing my art in person, I'll do my best to accommodate you.<\/p><p><\/p><p>Questions or comments are all welcome and I'll do my best to respond.<\/p>",
+            "text": "<p>If you are interested in seeing my art in person, I'll do my best to accommodate you.<\/p><p><\/p><p>Questions or comments are all welcome and I'll do my best to respond.<\/p>",
             "text_style": "body"
           }
         },
@@ -35,6 +43,7 @@
       },
       "block_order": [
         "template--17932971409693__ad446750-0eaa-45d2-80e1-c7a43289aad2-1676950836c0fde6c5-0",
+        "8092ed30-1f17-4362-bca7-b7e45b6a2def",
         "template--17932971409693__ad446750-0eaa-45d2-80e1-c7a43289aad2-1676950836c0fde6c5-1",
         "template--17932971409693__ad446750-0eaa-45d2-80e1-c7a43289aad2-1676950836c0fde6c5-2"
       ],
