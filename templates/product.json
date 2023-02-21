@@ -103,7 +103,7 @@
           "type": "column",
           "settings": {
             "title": "Shipping",
-            "text": "<p>Share the details of your shipping policy.<\/p>",
+            "text": "<p>Local pickup is preferred. Delivery by the artist within Toronto may be arranged. Specialized shipping arrangements may be made upon purchase.<\/p>",
             "link_label": "",
             "link": ""
           }
