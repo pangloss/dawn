@@ -131,10 +131,10 @@
     "6d03ce48-e0b4-4f0e-ac1d-97fc7ba409b3": {
       "type": "multicolumn",
       "blocks": {
-        "82967d4e-a12d-4d91-a79c-97927622db27": {
+        "95c035db-abb6-4887-bc55-e912a022708a": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled.jpg",
+            "image": "shopify:\/\/shop_images\/7R36764_edited.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -159,10 +159,10 @@
             "link": ""
           }
         },
-        "95c035db-abb6-4887-bc55-e912a022708a": {
+        "82967d4e-a12d-4d91-a79c-97927622db27": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/7R36764_edited.jpg",
+            "image": "shopify:\/\/shop_images\/painting.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -171,16 +171,16 @@
         }
       },
       "block_order": [
-        "82967d4e-a12d-4d91-a79c-97927622db27",
+        "95c035db-abb6-4887-bc55-e912a022708a",
         "template--17945821544733__6d03ce48-e0b4-4f0e-ac1d-97fc7ba409b3-1676926395737e8e5d-0",
         "template--17945821544733__6d03ce48-e0b4-4f0e-ac1d-97fc7ba409b3-1676926395737e8e5d-2",
-        "95c035db-abb6-4887-bc55-e912a022708a"
+        "82967d4e-a12d-4d91-a79c-97927622db27"
       ],
       "settings": {
         "title": "About Eliza Kożurno",
         "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "circle",
         "columns_desktop": 2,
         "column_alignment": "left",
         "background_style": "none",
