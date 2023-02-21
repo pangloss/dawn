@@ -31,8 +31,8 @@
             "button_label_1": "Event Details",
             "button_link_1": "https:\/\/theartistproject.com\/home\/",
             "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
+            "button_label_2": "Buy Tickets",
+            "button_link_2": "https:\/\/www.tix123.com\/tickets\/?code=TAP2023",
             "button_style_secondary_2": false
           }
         }
