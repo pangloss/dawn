@@ -112,7 +112,7 @@
           "type": "column",
           "settings": {
             "title": "Returns",
-            "text": "<p>Share the details of your return policy.<\/p>",
+            "text": "<p>Purchases may be returned within 30 days for a 90% refund. See policy for full details.<\/p>",
             "link_label": "",
             "link": ""
           }
