@@ -6,7 +6,7 @@
         "vendor": {
           "type": "text",
           "settings": {
-            "text": "Title",
+            "text": "Original Artwork",
             "text_style": "uppercase"
           }
         },
