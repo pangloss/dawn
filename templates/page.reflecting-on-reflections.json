@@ -23,7 +23,8 @@
         "061beb0e-9071-4a41-9343-838cf3f131f5"
       ],
       "custom_css": [
-        ".banner__box {opacity: 0.8; border-radius: 35px;}"
+        ".banner__box {opacity: 0.8; border-radius: 35px;}",
+        ".banner__heading {text-align: left;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_5114_copy.jpg",
