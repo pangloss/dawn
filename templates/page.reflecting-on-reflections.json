@@ -22,11 +22,14 @@
         "template--17945618612509__1f352860-0379-4ccf-887c-31e2dfbec050-16769259725fe74952-0",
         "061beb0e-9071-4a41-9343-838cf3f131f5"
       ],
+      "custom_css": [
+        ".banner__box {opacity: 0.8; border-radius: 35px;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_5114_copy.jpg",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
-        "desktop_content_position": "bottom-right",
+        "desktop_content_position": "bottom-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
