@@ -21,7 +21,7 @@
         "template--17959378518301__b8573090-d849-4e5e-8f48-f18de7bbfd6e-16770230342c615919-1": {
           "type": "text",
           "settings": {
-            "text": "This collection invites you to step in closer and look deeper. As your eye wanders you will discover more and more interplay of details hidden in the many reflective surfaces.",
+            "text": "This collection invites you to step in closer and look deeper. As your eye wanders you will discover more and more interplay of details hidden in the many reflective surfaces. (continued below)",
             "text_style": "body"
           }
         },
@@ -43,11 +43,10 @@
         "template--17959378518301__b8573090-d849-4e5e-8f48-f18de7bbfd6e-16770230342c615919-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_5722.jpg",
-        "image_2": "shopify:\/\/shop_images\/IMG_8654.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_4340.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "bottom-left",
+        "image_height": "adapt",
+        "desktop_content_position": "top-left",
         "show_text_box": true,
         "desktop_content_alignment": "left",
         "color_scheme": "background-1",
