@@ -146,14 +146,14 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Image with text<\/p>",
+            "text": "<p>Go Deeper<\/p>",
             "text_style": "body"
           }
         },
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Pair text with an image",
+            "heading": "Reflections in Eliza's work",
             "heading_size": "h1"
           }
         }
@@ -182,13 +182,21 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or artist. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>A key theme of Eliza's work the use of reflections to observe how the presence of objects affects the perception of the rest of the scene.<\/p>",
             "text_style": "body"
+          }
+        },
+        "85a73d75-a7fc-4bad-9a38-ec0b2ba6a2b5": {
+          "type": "button",
+          "settings": {
+            "button_label": "Look Closer",
+            "button_link": ""
           }
         }
       },
       "block_order": [
-        "text"
+        "text",
+        "85a73d75-a7fc-4bad-9a38-ec0b2ba6a2b5"
       ],
       "settings": {
         "height": "small",
