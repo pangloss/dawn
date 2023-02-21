@@ -392,14 +392,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Share a quote from your brand's founder or highlight a customer review",
+            "heading": "\"I recently acquired this painting and I absolutely love it! The colors are so vibrant and it adds such a beautiful touch to my home.\"",
             "heading_size": "h2"
           }
         },
         "caption": {
           "type": "caption",
           "settings": {
-            "caption": "ATTRIBUTE YOUR QUOTE OR REVIEW",
+            "caption": "Jeff Herrle",
             "text_style": "caption-with-letter-spacing",
             "text_size": "medium"
           }
@@ -407,7 +407,7 @@
         "button": {
           "type": "button",
           "settings": {
-            "button_label": "Read more",
+            "button_label": "",
             "button_link": ""
           }
         }
