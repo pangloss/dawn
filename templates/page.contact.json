@@ -60,19 +60,48 @@
         "padding_bottom": 36
       }
     },
-    "18e10f33-63aa-47d6-810e-85e8c62b260c": {
-      "type": "image-banner",
+    "0b698de2-67c0-4437-9800-2aa53c778618": {
+      "type": "multicolumn",
+      "blocks": {
+        "690e786b-dda0-4278-8cf5-d1fe82abe1b0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17932971409693__0b698de2-67c0-4437-9800-2aa53c778618-1676951246f19f3aa0-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/painting.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "690e786b-dda0-4278-8cf5-d1fe82abe1b0",
+        "template--17932971409693__0b698de2-67c0-4437-9800-2aa53c778618-1676951246f19f3aa0-0"
+      ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/painting.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "desktop_content_position": "bottom-right",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
+        "title": "Multicolumn",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
         "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
@@ -80,6 +109,6 @@
     "main",
     "form",
     "ad446750-0eaa-45d2-80e1-c7a43289aad2",
-    "18e10f33-63aa-47d6-810e-85e8c62b260c"
+    "0b698de2-67c0-4437-9800-2aa53c778618"
   ]
 }
