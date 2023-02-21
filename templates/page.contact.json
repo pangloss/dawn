@@ -28,7 +28,7 @@
         "template--17932971409693__ad446750-0eaa-45d2-80e1-c7a43289aad2-1676950836c0fde6c5-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": ""
           }
         }
@@ -39,8 +39,9 @@
         "template--17932971409693__ad446750-0eaa-45d2-80e1-c7a43289aad2-1676950836c0fde6c5-2"
       ],
       "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
+        "image": "shopify:\/\/shop_images\/IMG_5251.jpg",
+        "height": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
