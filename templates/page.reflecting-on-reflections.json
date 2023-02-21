@@ -24,7 +24,7 @@
       ],
       "custom_css": [
         ".banner__box {opacity: 0.8; border-radius: 35px;}",
-        ".banner__heading {text-align: left;}"
+        ".banner__heading, .banner__text {text-align: left;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_5114_copy.jpg",
