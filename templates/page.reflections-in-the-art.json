@@ -105,7 +105,7 @@
             "caption": "",
             "heading": "",
             "text": "<p>Looking again at the scene in the back, did you notice that those objects are also resting on a mirror which reflects them and the blue sky outdoors?<br\/><\/p>",
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": ""
           }
         },
@@ -146,13 +146,6 @@
     "6180bf65-80eb-4caa-8d54-253c3463e280": {
       "type": "rich-text",
       "blocks": {
-        "template--17959378518301__6180bf65-80eb-4caa-8d54-253c3463e280-167702319940fcd6f5-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Talk about your brand<\/p>",
-            "heading_size": "h1"
-          }
-        },
         "template--17959378518301__6180bf65-80eb-4caa-8d54-253c3463e280-167702319940fcd6f5-1": {
           "type": "text",
           "settings": {
@@ -172,7 +165,6 @@
         }
       },
       "block_order": [
-        "template--17959378518301__6180bf65-80eb-4caa-8d54-253c3463e280-167702319940fcd6f5-0",
         "template--17959378518301__6180bf65-80eb-4caa-8d54-253c3463e280-167702319940fcd6f5-1",
         "template--17959378518301__6180bf65-80eb-4caa-8d54-253c3463e280-167702319940fcd6f5-2"
       ],
@@ -185,74 +177,31 @@
         "padding_bottom": 52
       }
     },
-    "47aac8b0-80ff-4969-beb3-619f6d40189b": {
-      "type": "slideshow",
-      "blocks": {
-        "feb1250a-2d90-4bd9-b552-5b4c41214b1a": {
-          "type": "slide",
-          "settings": {
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "template--17959378518301__47aac8b0-80ff-4969-beb3-619f6d40189b-1677023057a6ef9def-0": {
-          "type": "slide",
-          "settings": {
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "template--17959378518301__47aac8b0-80ff-4969-beb3-619f6d40189b-1677023057a6ef9def-1": {
-          "type": "slide",
-          "settings": {
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "feb1250a-2d90-4bd9-b552-5b4c41214b1a",
-        "template--17959378518301__47aac8b0-80ff-4969-beb3-619f6d40189b-1677023057a6ef9def-0",
-        "template--17959378518301__47aac8b0-80ff-4969-beb3-619f6d40189b-1677023057a6ef9def-1"
-      ],
+    "3329b9bb-a001-4bed-9e1c-da48321a36ea": {
+      "type": "featured-collection",
       "settings": {
-        "layout": "full_bleed",
-        "slide_height": "medium",
-        "slider_visual": "counter",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "show_text_below": true,
-        "accessibility_info": "Slideshow about our brand"
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "reflecting-on-reflections",
+        "products_to_show": 8,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
@@ -262,6 +211,6 @@
     "057ec639-8c40-4614-a762-4b38ca1d563c",
     "ee9b18c0-757f-4a2e-ae3c-4007eaa01983",
     "6180bf65-80eb-4caa-8d54-253c3463e280",
-    "47aac8b0-80ff-4969-beb3-619f6d40189b"
+    "3329b9bb-a001-4bed-9e1c-da48321a36ea"
   ]
 }
