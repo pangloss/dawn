@@ -8,52 +8,40 @@
         "padding_bottom": 28
       }
     },
-    "b8573090-d849-4e5e-8f48-f18de7bbfd6e": {
-      "type": "image-banner",
+    "222ef08a-4595-4eb5-b6d2-dee2cf8b3c4c": {
+      "type": "image-with-text",
       "blocks": {
-        "template--17959378518301__b8573090-d849-4e5e-8f48-f18de7bbfd6e-16770230342c615919-0": {
+        "template--17959378518301__222ef08a-4595-4eb5-b6d2-dee2cf8b3c4c-1677023044eddd5820-0": {
           "type": "heading",
           "settings": {
-            "heading": "Reflections in Eliza's Art",
+            "heading": "Image with text",
             "heading_size": "h1"
           }
         },
-        "template--17959378518301__b8573090-d849-4e5e-8f48-f18de7bbfd6e-16770230342c615919-1": {
+        "template--17959378518301__222ef08a-4595-4eb5-b6d2-dee2cf8b3c4c-1677023044eddd5820-1": {
           "type": "text",
           "settings": {
-            "text": "This collection invites you to step in closer and look deeper. As your eye wanders you will discover more and more interplay of details hidden in the many reflective surfaces. (continued below)",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "text_style": "body"
-          }
-        },
-        "template--17959378518301__b8573090-d849-4e5e-8f48-f18de7bbfd6e-16770230342c615919-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "template--17959378518301__b8573090-d849-4e5e-8f48-f18de7bbfd6e-16770230342c615919-0",
-        "template--17959378518301__b8573090-d849-4e5e-8f48-f18de7bbfd6e-16770230342c615919-1",
-        "template--17959378518301__b8573090-d849-4e5e-8f48-f18de7bbfd6e-16770230342c615919-2"
+        "template--17959378518301__222ef08a-4595-4eb5-b6d2-dee2cf8b3c4c-1677023044eddd5820-0",
+        "template--17959378518301__222ef08a-4595-4eb5-b6d2-dee2cf8b3c4c-1677023044eddd5820-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_4340.jpg",
-        "image_2": "shopify:\/\/shop_images\/IMG_4340.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "large",
-        "desktop_content_position": "top-left",
-        "show_text_box": true,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
         "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
         "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "057ec639-8c40-4614-a762-4b38ca1d563c": {
@@ -74,110 +62,6 @@
         "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "222ef08a-4595-4eb5-b6d2-dee2cf8b3c4c": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--17959378518301__222ef08a-4595-4eb5-b6d2-dee2cf8b3c4c-1677023044eddd5820-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
-          }
-        },
-        "template--17959378518301__222ef08a-4595-4eb5-b6d2-dee2cf8b3c4c-1677023044eddd5820-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--17959378518301__222ef08a-4595-4eb5-b6d2-dee2cf8b3c4c-1677023044eddd5820-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17959378518301__222ef08a-4595-4eb5-b6d2-dee2cf8b3c4c-1677023044eddd5820-0",
-        "template--17959378518301__222ef08a-4595-4eb5-b6d2-dee2cf8b3c4c-1677023044eddd5820-1",
-        "template--17959378518301__222ef08a-4595-4eb5-b6d2-dee2cf8b3c4c-1677023044eddd5820-2"
-      ],
-      "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "47aac8b0-80ff-4969-beb3-619f6d40189b": {
-      "type": "slideshow",
-      "blocks": {
-        "template--17959378518301__47aac8b0-80ff-4969-beb3-619f6d40189b-1677023057a6ef9def-0": {
-          "type": "slide",
-          "settings": {
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "template--17959378518301__47aac8b0-80ff-4969-beb3-619f6d40189b-1677023057a6ef9def-1": {
-          "type": "slide",
-          "settings": {
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "template--17959378518301__47aac8b0-80ff-4969-beb3-619f6d40189b-1677023057a6ef9def-0",
-        "template--17959378518301__47aac8b0-80ff-4969-beb3-619f6d40189b-1677023057a6ef9def-1"
-      ],
-      "settings": {
-        "layout": "full_bleed",
-        "slide_height": "medium",
-        "slider_visual": "counter",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "show_text_below": true,
-        "accessibility_info": "Slideshow about our brand"
-      }
-    },
-    "a3f6b06c-e2ef-49c1-8c56-785f7df375e3": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "",
-        "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
       }
@@ -236,15 +120,126 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "6180bf65-80eb-4caa-8d54-253c3463e280": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17959378518301__6180bf65-80eb-4caa-8d54-253c3463e280-167702319940fcd6f5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Talk about your brand<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--17959378518301__6180bf65-80eb-4caa-8d54-253c3463e280-167702319940fcd6f5-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--17959378518301__6180bf65-80eb-4caa-8d54-253c3463e280-167702319940fcd6f5-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17959378518301__6180bf65-80eb-4caa-8d54-253c3463e280-167702319940fcd6f5-0",
+        "template--17959378518301__6180bf65-80eb-4caa-8d54-253c3463e280-167702319940fcd6f5-1",
+        "template--17959378518301__6180bf65-80eb-4caa-8d54-253c3463e280-167702319940fcd6f5-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "47aac8b0-80ff-4969-beb3-619f6d40189b": {
+      "type": "slideshow",
+      "blocks": {
+        "feb1250a-2d90-4bd9-b552-5b4c41214b1a": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--17959378518301__47aac8b0-80ff-4969-beb3-619f6d40189b-1677023057a6ef9def-0": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--17959378518301__47aac8b0-80ff-4969-beb3-619f6d40189b-1677023057a6ef9def-1": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "feb1250a-2d90-4bd9-b552-5b4c41214b1a",
+        "template--17959378518301__47aac8b0-80ff-4969-beb3-619f6d40189b-1677023057a6ef9def-0",
+        "template--17959378518301__47aac8b0-80ff-4969-beb3-619f6d40189b-1677023057a6ef9def-1"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
     }
   },
   "order": [
     "main",
-    "b8573090-d849-4e5e-8f48-f18de7bbfd6e",
-    "057ec639-8c40-4614-a762-4b38ca1d563c",
     "222ef08a-4595-4eb5-b6d2-dee2cf8b3c4c",
-    "47aac8b0-80ff-4969-beb3-619f6d40189b",
-    "a3f6b06c-e2ef-49c1-8c56-785f7df375e3",
-    "ee9b18c0-757f-4a2e-ae3c-4007eaa01983"
+    "057ec639-8c40-4614-a762-4b38ca1d563c",
+    "ee9b18c0-757f-4a2e-ae3c-4007eaa01983",
+    "6180bf65-80eb-4caa-8d54-253c3463e280",
+    "47aac8b0-80ff-4969-beb3-619f6d40189b"
   ]
 }
