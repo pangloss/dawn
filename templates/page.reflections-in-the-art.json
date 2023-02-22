@@ -58,7 +58,7 @@
         "template--17959378518301__057ec639-8c40-4614-a762-4b38ca1d563c-167702319940fcd6f5-1"
       ],
       "settings": {
-        "desktop_content_position": "center",
+        "desktop_content_position": "left",
         "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
@@ -82,20 +82,40 @@
         "template--17959378518301__ee9b18c0-757f-4a2e-ae3c-4007eaa01983-1677023126bb45cc73-1": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Likewise, behind the teapot we see the reflections from the back of the teapot in the reflection of the teapot in the mirror at back, this time distorted to an abstract vertical pattern.<br\/><br\/>The top of the teapot provides a unique view. Here we see the surroundings of Eliza's studio. On the left, a wall lined with paintings, the a bay window in the centre, and on the right, the blue reflection of the cabinet she sometimes uses as an easel. We also see the monstera leaves here again, both in the lid and on the lid's handle.<br\/><\/p>",
-            "button_label": "Button label",
+            "caption": "",
+            "heading": "",
+            "text": "<p>Likewise, behind the teapot we see the reflections from the back of the teapot in the reflection of the teapot in the mirror at back, this time distorted to an abstract vertical pattern.<br\/><br\/>The top of the teapot provides a unique view. Here we see the surroundings of Eliza's studio. On the left, a wall lined with paintings, the a bay window in the centre, and on the right, the blue reflection of the cabinet she sometimes uses as an easel. We also see the monstera leaves here again, both in the lid and on the lid's handle.<\/p><p><br\/>On the reflected lid in the mirror behind, we again see the monstera leaves, here more distorted, and the blue cabinet again.<\/p>",
+            "button_label": "",
             "button_link": ""
           }
         },
         "template--17959378518301__ee9b18c0-757f-4a2e-ae3c-4007eaa01983-1677023126bb45cc73-2": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "caption": "",
+            "heading": "",
+            "text": "<p>If we look for the zigzag pattern on the right, we see that it makes more apperances. In the side of the kettle and in the mirror at the back, and as a flash of color in the kettle's long curved handle.<br\/><\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "05ddca17-d97f-4579-9769-56dcff25a5c0": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "",
+            "text": "<p>Looking again at the scene in the back, did you notice that those objects are also resting on a mirror which reflects them and the blue sky outdoors?<br\/><\/p>",
             "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "7476f022-96b5-42a1-8007-dc07ba2cd2b2": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "",
+            "text": "<p>If we make one final stop to look at the red and white striped fabric piled up in the background, we see that it also makes a few appearences. In the spout of the kettle, at the leftmost edge of the body of the kettle, in the reflection of the kettle and distorted by the water of the vase.<br\/><br\/><\/p>",
+            "button_label": "",
             "button_link": ""
           }
         }
@@ -103,7 +123,9 @@
       "block_order": [
         "template--17959378518301__ee9b18c0-757f-4a2e-ae3c-4007eaa01983-1677023126bb45cc73-0",
         "template--17959378518301__ee9b18c0-757f-4a2e-ae3c-4007eaa01983-1677023126bb45cc73-1",
-        "template--17959378518301__ee9b18c0-757f-4a2e-ae3c-4007eaa01983-1677023126bb45cc73-2"
+        "template--17959378518301__ee9b18c0-757f-4a2e-ae3c-4007eaa01983-1677023126bb45cc73-2",
+        "05ddca17-d97f-4579-9769-56dcff25a5c0",
+        "7476f022-96b5-42a1-8007-dc07ba2cd2b2"
       ],
       "settings": {
         "image_height": "medium",
@@ -134,13 +156,13 @@
         "template--17959378518301__6180bf65-80eb-4caa-8d54-253c3463e280-167702319940fcd6f5-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>I hope you found this guided tour of just one of Eliza's paintings interesting. If you did I think you'll really enjoy looking through the collection finding the hidden beauty and intricate details present in each one of the paintings.<br\/><\/p>"
           }
         },
         "template--17959378518301__6180bf65-80eb-4caa-8d54-253c3463e280-167702319940fcd6f5-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": "",
             "button_style_secondary": false,
             "button_label_2": "",
@@ -155,8 +177,8 @@
         "template--17959378518301__6180bf65-80eb-4caa-8d54-253c3463e280-167702319940fcd6f5-2"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "desktop_content_position": "left",
+        "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
