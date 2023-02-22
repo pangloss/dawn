@@ -55,6 +55,40 @@
         "show_text_below": true
       }
     },
+    "66ed04bb-6177-449e-881a-449bc2457204": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17954760556829__66ed04bb-6177-449e-881a-449bc2457204-1677047209ba1e9365-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Better Living Centre, Exhibition Place<\/p><p>195 Princes' Blvd, Toronto, ON M6K 3C3<\/p>"
+          }
+        },
+        "template--17954760556829__66ed04bb-6177-449e-881a-449bc2457204-1677047209ba1e9365-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Directions & Parking",
+            "button_link": "https:\/\/theartistproject.com\/home\/parking-directions\/",
+            "button_style_secondary": false,
+            "button_label_2": "Exhibition Place",
+            "button_link_2": "https:\/\/www.explace.on.ca\/visiting-us\/getting-here\/",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "template--17954760556829__66ed04bb-6177-449e-881a-449bc2457204-1677047209ba1e9365-1",
+        "template--17954760556829__66ed04bb-6177-449e-881a-449bc2457204-1677047209ba1e9365-2"
+      ],
+      "settings": {
+        "desktop_content_position": "right",
+        "content_alignment": "right",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "86791baf-8e5e-42bb-9987-fa204a034add": {
       "type": "featured-collection",
       "settings": {
@@ -86,6 +120,7 @@
   "order": [
     "main",
     "000973f5-cbff-4e5a-b754-b5fe3f722dec",
+    "66ed04bb-6177-449e-881a-449bc2457204",
     "86791baf-8e5e-42bb-9987-fa204a034add"
   ]
 }
