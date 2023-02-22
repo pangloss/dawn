@@ -152,7 +152,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Works I've chosen to show at <strong>The Artist Project<\/strong> event<\/p>",
+            "heading": "<p>Works I've chosen to show at <a href=\"\/pages\/the-artist-project\" title=\"The Artist Project\">The Artist Project <\/a><\/p>",
             "heading_size": "h2"
           }
         }
