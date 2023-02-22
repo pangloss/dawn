@@ -14,14 +14,14 @@
         "template--17959378518301__222ef08a-4595-4eb5-b6d2-dee2cf8b3c4c-1677023044eddd5820-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Reflections in Eliza's Art",
             "heading_size": "h1"
           }
         },
         "template--17959378518301__222ef08a-4595-4eb5-b6d2-dee2cf8b3c4c-1677023044eddd5820-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>This collection invites you to step in closer and look deeper. As your eye wanders you will discover more and more interplay of details hidden in the many reflective surfaces.<br\/><br\/>The initial impression when looking at the painting to the left is of some strong color and patterns. The apple and the mirror it is sitting on emerge quickly thereafter. But look a moment longer and the eye begins to wander across the canvas revealing a silver teapot and a tall vase topped with monstera leaves.<br\/><br\/><\/p>",
             "text_style": "body"
           }
         }
@@ -32,7 +32,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_4340.jpg",
-        "height": "adapt",
+        "height": "large",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
@@ -50,7 +50,7 @@
         "template--17959378518301__057ec639-8c40-4614-a762-4b38ca1d563c-167702319940fcd6f5-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Another moment, and a scene present in the background only visible in its reflection takes shape. Here we see some grapes, a teacup and a silver milk jug with an angular handle.<\/p>"
           }
         }
       },
@@ -72,10 +72,10 @@
         "template--17959378518301__ee9b18c0-757f-4a2e-ae3c-4007eaa01983-1677023126bb45cc73-0": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
+            "caption": "",
+            "heading": "",
+            "text": "<p>Looking closer at the apple in the foreground, we can see that it's also present reflected and distorted in the silver teapot.<br\/><br\/>We see the apple yet again in its reflection from below in the mirror. That mirror also provides another glimpse of the vase, as well as the frame of the mirror in the background.<br\/><\/p><p>Looking even further we can discover the reflection of the reflection of the apple as it moves between the base of the teapot and the lower mirror.<br\/><\/p>",
+            "button_label": "",
             "button_link": ""
           }
         },
@@ -84,7 +84,7 @@
           "settings": {
             "caption": "Caption",
             "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Likewise, behind the teapot we see the reflections from the back of the teapot in the reflection of the teapot in the mirror at back, this time distorted to an abstract vertical pattern.<br\/><br\/>The top of the teapot provides a unique view. Here we see the surroundings of Eliza's studio. On the left, a wall lined with paintings, the a bay window in the centre, and on the right, the blue reflection of the cabinet she sometimes uses as an easel. We also see the monstera leaves here again, both in the lid and on the lid's handle.<br\/><\/p>",
             "button_label": "Button label",
             "button_link": ""
           }
