@@ -47,7 +47,7 @@
     "card_image_padding": 0,
     "card_text_alignment": "center",
     "card_color_scheme": "background-1",
-    "card_border_thickness": 12,
+    "card_border_thickness": 6,
     "card_border_opacity": 100,
     "card_corner_radius": 8,
     "card_shadow_opacity": 0,
