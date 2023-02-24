@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>See the Current Collection<\/p>",
+            "heading": "<p><a href=\"\/pages\/reflecting-on-reflections\" title=\"Reflecting on Reflections\">See the Current Collection<\/a><\/p>",
             "heading_size": "h1"
           }
         }
