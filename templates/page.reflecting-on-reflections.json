@@ -24,7 +24,7 @@
       ],
       "custom_css": [
         ".banner__box {opacity: 0.8; border-radius: 35px;}",
-        ".banner__heading, .banner__text {text-align: left;}"
+        ".banner__heading,.banner__text {text-align: left;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_5114_copy.jpg",
@@ -141,12 +141,12 @@
         "collection": "reflecting-on-reflections",
         "products_to_show": 24,
         "columns_desktop": 3,
-        "full_width": true,
+        "full_width": false,
         "show_view_all": true,
         "view_all_style": "solid",
         "enable_desktop_slider": false,
         "color_scheme": "background-1",
-        "image_ratio": "square",
+        "image_ratio": "adapt",
         "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
