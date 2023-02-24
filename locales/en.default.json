@@ -78,7 +78,7 @@
     "total_reviews": "total reviews",
     "star_reviews_info": "{{ rating_value }} out of {{ rating_max }} stars",
     "collapsible_content_title": "Collapsible content",
-    "complementary_products": "Complementary products"
+    "complementary_products": "Complementary paintings"
   },
   "blogs": {
     "article": {
@@ -187,12 +187,12 @@
       "show_less": "Show less",
       "max_price": "The highest price is {{ price }}",
       "product_count": {
-        "one": "{{ product_count }} of {{ count }} product",
-        "other": "{{ product_count }} of {{ count }} products"
+        "one": "{{ product_count }} of {{ count }} painting",
+        "other": "{{ product_count }} of {{ count }} paintings"
       },
       "product_count_simple": {
-        "one": "{{ count }} product",
-        "other": "{{ count }} products"
+        "one": "{{ count }} painting",
+        "other": "{{ count }} paintings"
       },
       "reset": "Reset",
       "sort_button": "Sort",
@@ -215,8 +215,8 @@
         "other": "{{ count }} suggestions"
       },
       "results_products_with_count": {
-        "one": "{{ count }} product",
-        "other": "{{ count }} products"
+        "one": "{{ count }} painting",
+        "other": "{{ count }} paintings"
       },
       "results_with_count": {
         "one": "{{ count }} result",
@@ -298,13 +298,13 @@
     },
     "featured_collection": {
       "view_all": "View all",
-      "view_all_label": "View all products in the {{ collection_name }} collection"
+      "view_all_label": "View all paintings in the {{ collection_name }} collection"
     },
     "collection_list": {
       "view_all": "View all"
     },
     "collection_template": {
-      "empty": "No products found",
+      "empty": "No paintings found",
       "title": "Collection",
       "use_fewer_filters_html": "Use fewer filters or <a class=\"{{ class }}\" href=\"{{ link }}\">remove all<\/a>"
     },
