@@ -24,7 +24,7 @@
     "header": {
       "type": "header",
       "custom_css": [
-        ".header__inline-menu {font-size-adjust: 0.5}"
+
       ],
       "settings": {
         "color_scheme": "background-1",
