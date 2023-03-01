@@ -6,7 +6,7 @@
         "vendor": {
           "type": "text",
           "settings": {
-            "text": "Original Artwork",
+            "text": "Handmade Jewelry",
             "text_style": "uppercase"
           }
         },
@@ -43,28 +43,12 @@
           "settings": {
           }
         },
-        "f665b114-a1d2-41f2-ad0b-71132620abe5": {
-          "type": "text",
-          "settings": {
-            "text": "{{ product.metafields.product.medium.value }}, {{ product.metafields.product.width.value }}\" 𝗑 {{ product.metafields.product.height.value }}\"",
-            "text_style": "body"
-          }
-        },
         "6d6429fe-5002-4fdb-b375-f7f6175a98b8": {
           "type": "collapsible_tab",
           "settings": {
             "heading": "Shipping & Pickup",
             "icon": "heart",
-            "content": "<p>Local pickup is preferred.<\/p><p><\/p><p>I love to meet my buyers in person, come pick up your painting and join me for a cup of coffee!<\/p><p><\/p><p>Shipping is fully insured and requires signature on delivery.<\/p>",
-            "page": ""
-          }
-        },
-        "88525f08-fee8-4c16-b1c7-0c77a1aaeb2d": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Size and Materials",
-            "icon": "ruler",
-            "content": "<p>{{ product.metafields.product.medium.value }}<\/p><p><\/p><ul><li>{{ product.metafields.product.width.value }}\" wide 𝗑 {{ product.metafields.product.height.value }}\" tall<\/li><li>{{ product.metafields.product.depth.value }}\" deep<\/li><\/ul>",
+            "content": "<p>Shipping as arranged with Eliza<\/p>",
             "page": ""
           }
         }
@@ -77,9 +61,7 @@
         "buy_buttons",
         "share",
         "description",
-        "f665b114-a1d2-41f2-ad0b-71132620abe5",
-        "6d6429fe-5002-4fdb-b375-f7f6175a98b8",
-        "88525f08-fee8-4c16-b1c7-0c77a1aaeb2d"
+        "6d6429fe-5002-4fdb-b375-f7f6175a98b8"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -103,7 +85,7 @@
           "type": "column",
           "settings": {
             "title": "Shipping",
-            "text": "<p>Local pickup is preferred. Delivery by the artist within Toronto may be arranged. Specialized shipping arrangements may be made upon purchase.<\/p>",
+            "text": "<p>Shipping as arranged with Eliza<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -112,7 +94,7 @@
           "type": "column",
           "settings": {
             "title": "Returns",
-            "text": "<p>Purchases may be returned within 30 days for a 90% refund. See policy for full details.<\/p>",
+            "text": "<p>All jewelry sales are final.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -175,50 +157,6 @@
         "padding_bottom": 0
       }
     },
-    "image-with-text-1": {
-      "type": "image-with-text",
-      "blocks": {
-        "a4ce6b4d-0fa4-4cd0-bf17-a34fe4d35760": {
-          "type": "heading",
-          "settings": {
-            "heading": "Reflect on Reflections",
-            "heading_size": "h2"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Investigate the details of the objects in the paintings as they interact with each other through reflection.<\/p><p>This guided tour of just one of Eliza's works can help you dig deeper into the whole collection<\/p>",
-            "text_style": "body"
-          }
-        },
-        "85a73d75-a7fc-4bad-9a38-ec0b2ba6a2b5": {
-          "type": "button",
-          "settings": {
-            "button_label": "Look Closer",
-            "button_link": "shopify:\/\/pages\/reflections-in-elizas-paintings"
-          }
-        }
-      },
-      "block_order": [
-        "a4ce6b4d-0fa4-4cd0-bf17-a34fe4d35760",
-        "text",
-        "85a73d75-a7fc-4bad-9a38-ec0b2ba6a2b5"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/reflections_1.jpg",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "accent-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 56
-      }
-    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -277,7 +215,6 @@
     "main",
     "multicolumn",
     "image-with-text",
-    "image-with-text-1",
     "related-products",
     "image-with-text-2"
   ]
