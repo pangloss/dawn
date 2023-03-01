@@ -2,7 +2,57 @@
   "sections": {
     "main": {
       "type": "main-404",
+      "disabled": true,
       "settings": {
+      }
+    },
+    "2014f361-73c4-4d51-b5ae-9b40cc58455e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17932971671837__2014f361-73c4-4d51-b5ae-9b40cc58455e-1677708548f982b6c6-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>404<\/p>"
+          }
+        },
+        "template--17932971671837__2014f361-73c4-4d51-b5ae-9b40cc58455e-1677708548f982b6c6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Page not found<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--17932971671837__2014f361-73c4-4d51-b5ae-9b40cc58455e-1677708548f982b6c6-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Explore my paintings",
+            "button_link": "shopify:\/\/pages\/reflecting-on-reflections",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "a4675b91-0a6c-44c8-81ca-2fe0997a2b23": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you were looking for my jewelry, you can still find it at <a href=\"https:\/\/elizakozurno.format.com\" target=\"_blank\" title=\"https:\/\/elizakozurno.format.com\">elizakozurno.format.com<\/a>. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17932971671837__2014f361-73c4-4d51-b5ae-9b40cc58455e-1677708548f982b6c6-1",
+        "template--17932971671837__2014f361-73c4-4d51-b5ae-9b40cc58455e-1677708548f982b6c6-0",
+        "template--17932971671837__2014f361-73c4-4d51-b5ae-9b40cc58455e-1677708548f982b6c6-2",
+        "a4675b91-0a6c-44c8-81ca-2fe0997a2b23"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "61eacd69-b44a-42b3-a37d-93b03245e906": {
@@ -35,6 +85,7 @@
   },
   "order": [
     "main",
+    "2014f361-73c4-4d51-b5ae-9b40cc58455e",
     "61eacd69-b44a-42b3-a37d-93b03245e906"
   ]
 }
