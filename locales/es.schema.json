@@ -932,7 +932,7 @@
           "content": "Selector de país o región"
         },
         "header__4": {
-          "info": "Para agregar un país o una región, ve a la [configuración del mercado.](/admin/settings/markets)"
+          "info": "Para agregar un país o una región, ve a la [configuración del mercado.](\/admin\/settings\/markets)"
         },
         "enable_country_selector": {
           "label": "Activar selector de país o región"
@@ -941,7 +941,7 @@
           "content": "Selector de idioma"
         },
         "header__6": {
-          "info": "Para agregar un idioma, ve a tu [configuración de idiomas.](/admin/settings/languages)"
+          "info": "Para agregar un idioma, ve a tu [configuración de idiomas.](\/admin\/settings\/languages)"
         },
         "enable_language_selector": {
           "label": "Activar selector de idioma"

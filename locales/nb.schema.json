@@ -929,19 +929,19 @@
           }
         },
         "header__3": {
-          "content": "Land-/regionvelger"
+          "content": "Land-\/regionvelger"
         },
         "header__4": {
-          "info": "Gå til [markedsinnstillinger](/admin/settings/markets) for å legge til land/region."
+          "info": "Gå til [markedsinnstillinger](\/admin\/settings\/markets) for å legge til land\/region."
         },
         "enable_country_selector": {
-          "label": "Aktiver land-/regionvelger"
+          "label": "Aktiver land-\/regionvelger"
         },
         "header__5": {
           "content": "Språkvelger"
         },
         "header__6": {
-          "info": "Gå til [språkinnstillingene](/admin/settings/languages) for å legge til et språk."
+          "info": "Gå til [språkinnstillingene](\/admin\/settings\/languages) for å legge til et språk."
         },
         "enable_language_selector": {
           "label": "Aktiver språkvelger"

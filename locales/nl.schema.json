@@ -929,19 +929,19 @@
           }
         },
         "header__3": {
-          "content": "Kiezer voor land/regio"
+          "content": "Kiezer voor land\/regio"
         },
         "header__4": {
-          "info": "Ga naar de [marktinstellingen](/admin/settings/markets) om een land/regio toe te voegen."
+          "info": "Ga naar de [marktinstellingen](\/admin\/settings\/markets) om een land\/regio toe te voegen."
         },
         "enable_country_selector": {
-          "label": "Kiezer voor land/regio inschakelen"
+          "label": "Kiezer voor land\/regio inschakelen"
         },
         "header__5": {
           "content": "Taalkiezer"
         },
         "header__6": {
-          "info": "Ga naar je [taalinstellingen](/admin/settings/languages) om een taal toe te voegen."
+          "info": "Ga naar je [taalinstellingen](\/admin\/settings\/languages) om een taal toe te voegen."
         },
         "enable_language_selector": {
           "label": "Taalkiezer inschakelen"

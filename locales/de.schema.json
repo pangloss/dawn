@@ -929,19 +929,19 @@
           }
         },
         "header__3": {
-          "content": "Auswahl für Land/Region"
+          "content": "Auswahl für Land\/Region"
         },
         "header__4": {
-          "info": "Gehe zu den [Markteinstellungen](/admin/settings/markets), um ein Land / eine Region hinzuzufügen."
+          "info": "Gehe zu den [Markteinstellungen](\/admin\/settings\/markets), um ein Land \/ eine Region hinzuzufügen."
         },
         "enable_country_selector": {
-          "label": "Auswahl für Land/Region aktivieren"
+          "label": "Auswahl für Land\/Region aktivieren"
         },
         "header__5": {
           "content": "Sprachauswahl"
         },
         "header__6": {
-          "info": "Gehe zu den [Spracheinstellungen](/admin/settings/languages), um eine Sprache hinzuzufügen."
+          "info": "Gehe zu den [Spracheinstellungen](\/admin\/settings\/languages), um eine Sprache hinzuzufügen."
         },
         "enable_language_selector": {
           "label": "Sprachauswahl aktivieren"

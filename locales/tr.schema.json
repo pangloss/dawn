@@ -929,19 +929,19 @@
           }
         },
         "header__3": {
-          "content": "Ülke/bölge seçici"
+          "content": "Ülke\/bölge seçici"
         },
         "header__4": {
-          "info": "Ülke/bölge eklemek için [pazar ayarlarınıza](/admin/settings/markets) gidin."
+          "info": "Ülke\/bölge eklemek için [pazar ayarlarınıza](\/admin\/settings\/markets) gidin."
         },
         "enable_country_selector": {
-          "label": "Ülke/bölge seçiciyi etkinleştirin"
+          "label": "Ülke\/bölge seçiciyi etkinleştirin"
         },
         "header__5": {
           "content": "Dil seçici"
         },
         "header__6": {
-          "info": "Dil eklemek için [dil ayarlarınıza](/admin/settings/languages) gidin."
+          "info": "Dil eklemek için [dil ayarlarınıza](\/admin\/settings\/languages) gidin."
         },
         "enable_language_selector": {
           "label": "Dil seçiciyi etkinleştir"
