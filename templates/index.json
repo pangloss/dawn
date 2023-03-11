@@ -102,7 +102,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Still Life Triptich<\/p>",
+            "heading": "Still Life Triptich",
             "heading_size": "h2"
           }
         }
@@ -152,7 +152,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Works I've chosen to show at <a href=\"\/pages\/the-artist-project\" title=\"The Artist Project\">The Artist Project <\/a><\/p>",
+            "heading": "Works I've chosen to show at <a href=\"\/pages\/the-artist-project\" title=\"The Artist Project\">The Artist Project <\/a>",
             "heading_size": "h2"
           }
         }
@@ -208,7 +208,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Some objects recur in Eliza's paintings<\/p>",
+            "heading": "Some objects recur in Eliza's paintings",
             "heading_size": "h1"
           }
         },
