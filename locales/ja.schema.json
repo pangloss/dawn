@@ -425,6 +425,18 @@
         "options__4": {
           "label": "特大"
         }
+      },
+      "animation": {
+        "content": "アニメーション",
+        "image_behavior": {
+          "options__1": {
+            "label": "なし"
+          },
+          "options__2": {
+            "label": "周囲の挙動"
+          },
+          "label": "画像の挙動"
+        }
       }
     },
     "announcement-bar": {
@@ -973,9 +985,6 @@
         "image_overlay_opacity": {
           "label": "画像のオーバーレイ不透明率"
         },
-        "header": {
-          "content": "モバイルのレイアウト"
-        },
         "show_text_below": {
           "label": "モバイル上にコンテナを表示"
         },
@@ -1048,6 +1057,9 @@
             "label": "右"
           },
           "label": "モバイルのコンテンツアライメント"
+        },
+        "mobile": {
+          "content": "モバイルのレイアウト"
         }
       },
       "blocks": {
@@ -1594,7 +1606,11 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "動的チェックアウトボタンを表示する",
-              "info": "ストアで利用可能な決済方法を使用すると、お客様にはPayPalやApple Payなど、希望のオプションが表示されます。[もっと詳しく](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
+              "info": "ストアで利用可能な決済方法を使用すると、お客様にはPayPalやApple Payなど、希望のオプションが表示されます。[もっと詳しく](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+            },
+            "show_gift_card_recipient": {
+              "label": "ギフトカード商品の受取人情報フォームを表示する",
+              "info": "ギフトカード商品は、オプションで、個人的なメッセージとともに受取人に直接送信できます。"
             }
           },
           "name": "購入ボタン"
@@ -2451,7 +2467,11 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "動的チェックアウトボタンを表示",
-              "info": "ストアで利用可能な決済方法を使用すると、お客様にはPayPalやApple Payなど、希望のオプションが表示されます。[詳しくはこちら](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
+              "info": "ストアで利用可能な決済方法を使用すると、お客様にはPayPalやApple Payなど、希望のオプションが表示されます。[詳しくはこちら](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+            },
+            "show_gift_card_recipient": {
+              "label": "ギフトカード商品の受取人フォームを表示する",
+              "info": "有効にすると、オプションで、ギフトカード商品を個人的なメッセージとともに受取人に送信できます。"
             }
           }
         },
