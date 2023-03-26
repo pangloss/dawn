@@ -92,6 +92,7 @@
         "slider_visual": "dots",
         "auto_rotate": true,
         "change_slides_speed": 9,
+        "image_behavior": "none",
         "show_text_below": false,
         "accessibility_info": ""
       }
@@ -136,6 +137,7 @@
         "enable_desktop_slider": false,
         "color_scheme": "background-1",
         "image_ratio": "portrait",
+        "image_shape": "default",
         "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
@@ -180,12 +182,13 @@
         "collection": "featured-at-the-artist-project",
         "products_to_show": 12,
         "columns_desktop": 3,
-        "full_width": true,
+        "full_width": false,
         "show_view_all": false,
         "view_all_style": "link",
         "enable_desktop_slider": true,
         "color_scheme": "background-1",
         "image_ratio": "portrait",
+        "image_shape": "default",
         "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
@@ -198,6 +201,7 @@
     },
     "rich-text-3": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "text": {
           "type": "text",
@@ -235,6 +239,7 @@
     },
     "c16b8956-c9d1-45e2-b920-6a922ed63946": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "template--17932971475229__c16b8956-c9d1-45e2-b920-6a922ed63946-167687880861581e06-0": {
           "type": "image",
@@ -304,6 +309,7 @@
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "accent-2",
+        "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 0
@@ -349,6 +355,7 @@
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "accent-2",
+        "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 0,
         "padding_bottom": 52
@@ -428,6 +435,7 @@
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "accent-2",
+        "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 0,
         "padding_bottom": 76
