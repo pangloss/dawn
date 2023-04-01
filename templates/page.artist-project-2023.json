@@ -60,15 +60,53 @@
         "show_text_below": true
       }
     },
+    "6a3c3427-b28d-497d-aafc-45288211f400": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18299859403037__6a3c3427-b28d-497d-aafc-45288211f400-1680388992dfefda70-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/artist_project_logo.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18299859403037__6a3c3427-b28d-497d-aafc-45288211f400-1680388992dfefda70-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Better Living Centre, Exhibition Place<\/p><p><a href=\"https:\/\/goo.gl\/maps\/svFE84R4yuj7qnHN6\" target=\"_blank\" title=\"https:\/\/goo.gl\/maps\/svFE84R4yuj7qnHN6\">195 Princes' Blvd, <\/a><\/p><p><a href=\"https:\/\/goo.gl\/maps\/svFE84R4yuj7qnHN6\" target=\"_blank\" title=\"https:\/\/goo.gl\/maps\/svFE84R4yuj7qnHN6\">Toronto, Ontario<\/a><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18299859403037__6a3c3427-b28d-497d-aafc-45288211f400-1680388992dfefda70-0",
+        "template--18299859403037__6a3c3427-b28d-497d-aafc-45288211f400-1680388992dfefda70-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "66ed04bb-6177-449e-881a-449bc2457204": {
       "type": "rich-text",
       "blocks": {
-        "template--17954760556829__66ed04bb-6177-449e-881a-449bc2457204-1677047209ba1e9365-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Better Living Centre, Exhibition Place<\/p><p><a href=\"https:\/\/goo.gl\/maps\/svFE84R4yuj7qnHN6\" target=\"_blank\" title=\"https:\/\/goo.gl\/maps\/svFE84R4yuj7qnHN6\">195 Princes' Blvd, Toronto, ON M6K 3C3<\/a><\/p>"
-          }
-        },
         "template--17954760556829__66ed04bb-6177-449e-881a-449bc2457204-1677047209ba1e9365-2": {
           "type": "button",
           "settings": {
@@ -82,7 +120,6 @@
         }
       },
       "block_order": [
-        "template--17954760556829__66ed04bb-6177-449e-881a-449bc2457204-1677047209ba1e9365-1",
         "template--17954760556829__66ed04bb-6177-449e-881a-449bc2457204-1677047209ba1e9365-2"
       ],
       "settings": {
@@ -126,6 +163,7 @@
   "order": [
     "main",
     "000973f5-cbff-4e5a-b754-b5fe3f722dec",
+    "6a3c3427-b28d-497d-aafc-45288211f400",
     "66ed04bb-6177-449e-881a-449bc2457204",
     "86791baf-8e5e-42bb-9987-fa204a034add"
   ]
