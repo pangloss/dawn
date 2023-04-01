@@ -54,6 +54,7 @@
         "show_text_box": true,
         "desktop_content_alignment": "left",
         "color_scheme": "background-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
@@ -96,7 +97,7 @@
     "86791baf-8e5e-42bb-9987-fa204a034add": {
       "type": "featured-collection",
       "settings": {
-        "title": "Pieces on display at the event",
+        "title": "Pieces I'll show at the event",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -110,6 +111,7 @@
         "enable_desktop_slider": false,
         "color_scheme": "background-1",
         "image_ratio": "square",
+        "image_shape": "default",
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
