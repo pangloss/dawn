@@ -3,33 +3,33 @@
     "fa746708-c315-4361-84d3-411ebb4a1e5f": {
       "type": "multicolumn",
       "blocks": {
-        "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/art_interiors_logo_remade.png",
-            "title": "New Toronto Gallery!",
-            "text": "<p>Art Interiors is a Toronto institution. Several of Eliza's works can be found on display at their Toronto location in ...<\/p>",
-            "link_label": "",
-            "link": "https:\/\/www.artinteriors.ca\/"
-          }
-        },
         "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-1": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/artist_project_logo.png",
             "title": "",
-            "text": "<p>Eliza will be at the Artist Project in Toronto from <strong>April 13th to 16th<\/strong>.<\/p><p>Click here for show location and ticket information!<\/p>",
-            "link_label": "",
+            "text": "<p>Come say hi to Eliza at the Artist Project in Toronto from <strong>April 13th to 16th<\/strong> at the Better Living Center.<\/p><p>You can find her booth right in the center of the space on the main aisle.<\/p>",
+            "link_label": "Click here for show location and ticket information.",
             "link": "shopify:\/\/pages\/the-artist-project"
+          }
+        },
+        "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/art_interiors_logo_remade.png",
+            "title": "New Toronto Gallery!",
+            "text": "<p>Art Interiors is a Toronto institution. Several of Eliza's works can be found on display at their Toronto location in Forest Hill Village.<\/p>",
+            "link_label": "Visit Art Interiors",
+            "link": "https:\/\/www.artinteriors.ca\/"
           }
         }
       },
       "block_order": [
-        "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-0",
-        "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-1"
+        "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-1",
+        "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-0"
       ],
       "settings": {
-        "title": "",
+        "title": "News and Events",
         "heading_size": "h2",
         "image_width": "third",
         "image_ratio": "adapt",
