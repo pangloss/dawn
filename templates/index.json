@@ -1,5 +1,50 @@
 {
   "sections": {
+    "fa746708-c315-4361-84d3-411ebb4a1e5f": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/art_interiors_logo_remade.png",
+            "title": "Toronto, Canada",
+            "text": "<p>Art Interiors is ...<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/artist_project_logo.png",
+            "title": "Upcoming Event",
+            "text": "<p>Eliza will be at the Artist Project in Toronto from <strong>April 13th to 16th<\/strong>.<\/p><p>Click here for more details!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-0",
+        "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-1"
+      ],
+      "settings": {
+        "title": "Find Eliza's Work",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "rich-text": {
       "type": "rich-text",
       "blocks": {
@@ -319,6 +364,7 @@
     }
   },
   "order": [
+    "fa746708-c315-4361-84d3-411ebb4a1e5f",
     "rich-text",
     "slideshow",
     "rich-text-1",
