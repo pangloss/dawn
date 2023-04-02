@@ -8,7 +8,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Upcoming event: The Artist Project!",
+            "text": "",
             "text_alignment": "center",
             "color_scheme": "accent-2",
             "link": "shopify:\/\/pages\/the-artist-project"
