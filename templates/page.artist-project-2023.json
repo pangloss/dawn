@@ -11,7 +11,7 @@
     "3c2134e0-f3c3-4cce-ae3e-1e0095eba93d": {
       "type": "custom-liquid",
       "custom_css": [
-        "#artist_project {position: absolute; right: 150px; top: 65px; z-index: 20;}"
+        "#artist_project {display: none; position: absolute; right: 150px; top: 65px; z-index: 20;}"
       ],
       "settings": {
         "custom_liquid": "<img id=artist_project src={{ \"artist_project_logo.png\" | file_img_url: 'small' }} >",
@@ -90,8 +90,8 @@
           "settings": {
             "title": "",
             "text": "<p>Better Living Centre, Exhibition Place<\/p><p><a href=\"https:\/\/goo.gl\/maps\/svFE84R4yuj7qnHN6\" target=\"_blank\" title=\"https:\/\/goo.gl\/maps\/svFE84R4yuj7qnHN6\">195 Princes' Blvd, <\/a><\/p><p><a href=\"https:\/\/goo.gl\/maps\/svFE84R4yuj7qnHN6\" target=\"_blank\" title=\"https:\/\/goo.gl\/maps\/svFE84R4yuj7qnHN6\">Toronto, Ontario<\/a><\/p>",
-            "link_label": "",
-            "link": ""
+            "link_label": "Directions & Parking",
+            "link": "https:\/\/www.explace.on.ca\/visiting-us\/getting-here\/"
           }
         }
       },
@@ -114,33 +114,6 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "66ed04bb-6177-449e-881a-449bc2457204": {
-      "type": "rich-text",
-      "blocks": {
-        "template--17954760556829__66ed04bb-6177-449e-881a-449bc2457204-1677047209ba1e9365-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Directions & Parking",
-            "button_link": "https:\/\/theartistproject.com\/home\/parking-directions\/",
-            "button_style_secondary": false,
-            "button_label_2": "Exhibition Place",
-            "button_link_2": "https:\/\/www.explace.on.ca\/visiting-us\/getting-here\/",
-            "button_style_secondary_2": true
-          }
-        }
-      },
-      "block_order": [
-        "template--17954760556829__66ed04bb-6177-449e-881a-449bc2457204-1677047209ba1e9365-2"
-      ],
-      "settings": {
-        "desktop_content_position": "left",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": false,
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     },
     "86791baf-8e5e-42bb-9987-fa204a034add": {
@@ -177,7 +150,6 @@
     "3c2134e0-f3c3-4cce-ae3e-1e0095eba93d",
     "000973f5-cbff-4e5a-b754-b5fe3f722dec",
     "6a3c3427-b28d-497d-aafc-45288211f400",
-    "66ed04bb-6177-449e-881a-449bc2457204",
     "86791baf-8e5e-42bb-9987-fa204a034add"
   ]
 }
