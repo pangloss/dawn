@@ -8,6 +8,18 @@
         "padding_bottom": 28
       }
     },
+    "3c2134e0-f3c3-4cce-ae3e-1e0095eba93d": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "#artist_project {position: absolute; z-index: 2}"
+      ],
+      "settings": {
+        "custom_liquid": "<img id=artist_project src={{ \"artist_project_logo.png\" | file_img_url: 'large' }} >",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "000973f5-cbff-4e5a-b754-b5fe3f722dec": {
       "type": "image-banner",
       "blocks": {
@@ -162,6 +174,7 @@
   },
   "order": [
     "main",
+    "3c2134e0-f3c3-4cce-ae3e-1e0095eba93d",
     "000973f5-cbff-4e5a-b754-b5fe3f722dec",
     "6a3c3427-b28d-497d-aafc-45288211f400",
     "66ed04bb-6177-449e-881a-449bc2457204",
