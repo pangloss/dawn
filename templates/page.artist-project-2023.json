@@ -21,7 +21,7 @@
         "template--17954760556829__000973f5-cbff-4e5a-b754-b5fe3f722dec-1676950845d09322a9-1": {
           "type": "text",
           "settings": {
-            "text": "April 13-16, 2023 at Booth 418 at the Better Living Center, Exhibition Place, Toronto.",
+            "text": "<strong>April 13-16<\/strong>, 2023 at <strong>Booth 418<\/strong> at the Better Living Center, Exhibition Place, Toronto.",
             "text_style": "body"
           }
         },
@@ -43,7 +43,7 @@
         "template--17954760556829__000973f5-cbff-4e5a-b754-b5fe3f722dec-1676950845d09322a9-2"
       ],
       "custom_css": [
-        ".banner__box {opacity: 0.8; border-radius: 35px;}",
+        ".banner__box {opacity: 0.85; border-radius: 35px;}",
         ".banner__heading,.banner__text {text-align: left;}"
       ],
       "settings": {
