@@ -225,7 +225,7 @@
         "6468c749-5368-414f-8c4f-15bdda430941"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_5022.jpg",
+        "image": "shopify:\/\/shop_images\/image_60d95ed9-5aef-4835-86c5-50bcb0e468bf.heic",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -235,7 +235,7 @@
         "color_scheme": "accent-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 36
       }
     },
