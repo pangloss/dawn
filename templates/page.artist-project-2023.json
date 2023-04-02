@@ -11,7 +11,7 @@
     "3c2134e0-f3c3-4cce-ae3e-1e0095eba93d": {
       "type": "custom-liquid",
       "custom_css": [
-        "#artist_project {position: absolute; left: 100px; top: 50px; z-index: 20;}"
+        "#artist_project {position: absolute; right: 150px; top: 65px; z-index: 20;}"
       ],
       "settings": {
         "custom_liquid": "<img id=artist_project src={{ \"artist_project_logo.png\" | file_img_url: 'small' }} >",
