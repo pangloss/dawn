@@ -21,7 +21,7 @@
         "template--17954760556829__000973f5-cbff-4e5a-b754-b5fe3f722dec-1676950845d09322a9-1": {
           "type": "text",
           "settings": {
-            "text": "Come say hi and see me and my work in person. April 13-16, 2023.  Better Living Center, Exhibition Place, Toronto",
+            "text": "<strong>April 13-16<\/strong>, 2023 at <strong>Booth 418<\/strong> at the Better Living Center, Exhibition Place, Toronto.",
             "text_style": "body"
           }
         },
@@ -43,60 +43,71 @@
         "template--17954760556829__000973f5-cbff-4e5a-b754-b5fe3f722dec-1676950845d09322a9-2"
       ],
       "custom_css": [
-        ".banner__box {opacity: 0.8; border-radius: 35px;}",
+        ".banner__box {opacity: 0.85; border-radius: 35px;}",
         ".banner__heading,.banner__text {text-align: left;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/painting.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "large",
+        "image_height": "small",
         "desktop_content_position": "bottom-left",
         "show_text_box": true,
         "desktop_content_alignment": "left",
         "color_scheme": "background-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
     },
-    "66ed04bb-6177-449e-881a-449bc2457204": {
-      "type": "rich-text",
+    "6a3c3427-b28d-497d-aafc-45288211f400": {
+      "type": "multicolumn",
       "blocks": {
-        "template--17954760556829__66ed04bb-6177-449e-881a-449bc2457204-1677047209ba1e9365-1": {
-          "type": "text",
+        "template--18299859403037__6a3c3427-b28d-497d-aafc-45288211f400-1680388992dfefda70-0": {
+          "type": "column",
           "settings": {
-            "text": "<p>Better Living Centre, Exhibition Place<\/p><p><a href=\"https:\/\/goo.gl\/maps\/svFE84R4yuj7qnHN6\" target=\"_blank\" title=\"https:\/\/goo.gl\/maps\/svFE84R4yuj7qnHN6\">195 Princes' Blvd, Toronto, ON M6K 3C3<\/a><\/p>"
+            "image": "shopify:\/\/shop_images\/artist_project_logo.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
           }
         },
-        "template--17954760556829__66ed04bb-6177-449e-881a-449bc2457204-1677047209ba1e9365-2": {
-          "type": "button",
+        "template--18299859403037__6a3c3427-b28d-497d-aafc-45288211f400-1680388992dfefda70-1": {
+          "type": "column",
           "settings": {
-            "button_label": "Directions & Parking",
-            "button_link": "https:\/\/theartistproject.com\/home\/parking-directions\/",
-            "button_style_secondary": false,
-            "button_label_2": "Exhibition Place",
-            "button_link_2": "https:\/\/www.explace.on.ca\/visiting-us\/getting-here\/",
-            "button_style_secondary_2": true
+            "title": "",
+            "text": "<p>Better Living Centre, Exhibition Place<\/p><p><a href=\"https:\/\/goo.gl\/maps\/svFE84R4yuj7qnHN6\" target=\"_blank\" title=\"https:\/\/goo.gl\/maps\/svFE84R4yuj7qnHN6\">195 Princes' Blvd, <\/a><\/p><p><a href=\"https:\/\/goo.gl\/maps\/svFE84R4yuj7qnHN6\" target=\"_blank\" title=\"https:\/\/goo.gl\/maps\/svFE84R4yuj7qnHN6\">Toronto, Ontario<\/a><\/p>",
+            "link_label": "Directions & Parking",
+            "link": "https:\/\/www.explace.on.ca\/visiting-us\/getting-here\/"
           }
         }
       },
       "block_order": [
-        "template--17954760556829__66ed04bb-6177-449e-881a-449bc2457204-1677047209ba1e9365-1",
-        "template--17954760556829__66ed04bb-6177-449e-881a-449bc2457204-1677047209ba1e9365-2"
+        "template--18299859403037__6a3c3427-b28d-497d-aafc-45288211f400-1680388992dfefda70-0",
+        "template--18299859403037__6a3c3427-b28d-497d-aafc-45288211f400-1680388992dfefda70-1"
       ],
       "settings": {
-        "desktop_content_position": "left",
-        "content_alignment": "left",
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
         "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "86791baf-8e5e-42bb-9987-fa204a034add": {
       "type": "featured-collection",
       "settings": {
-        "title": "Pieces on display at the event",
+        "title": "Pieces I'll show at the event",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -110,6 +121,7 @@
         "enable_desktop_slider": false,
         "color_scheme": "background-1",
         "image_ratio": "square",
+        "image_shape": "default",
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
@@ -124,7 +136,7 @@
   "order": [
     "main",
     "000973f5-cbff-4e5a-b754-b5fe3f722dec",
-    "66ed04bb-6177-449e-881a-449bc2457204",
+    "6a3c3427-b28d-497d-aafc-45288211f400",
     "86791baf-8e5e-42bb-9987-fa204a034add"
   ]
 }

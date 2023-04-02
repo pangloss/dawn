@@ -382,6 +382,14 @@
           "content": "Adicione uma descrição da marca ao rodapé da sua loja."
         }
       }
+    },
+    "animations": {
+      "name": "Animações",
+      "settings": {
+        "animations_reveal_on_scroll": {
+          "label": "Revelar secções ao percorrer a página"
+        }
+      }
     }
   },
   "sections": {
@@ -425,6 +433,34 @@
         "options__4": {
           "label": "Extra grande"
         }
+      },
+      "image_shape": {
+        "options__1": {
+          "label": "Predefinição"
+        },
+        "options__2": {
+          "label": "Arco"
+        },
+        "options__3": {
+          "label": "Gota"
+        },
+        "options__4": {
+          "label": "Divisa para a esquerda"
+        },
+        "options__5": {
+          "label": "Divisa para a direita"
+        },
+        "options__6": {
+          "label": "Diamante"
+        },
+        "options__7": {
+          "label": "Paralelogramo"
+        },
+        "options__8": {
+          "label": "Redonda"
+        },
+        "label": "Forma de imagem",
+        "info": "Os cartões com o estilo padrão não têm bordas quando uma forma de imagem está ativa."
       },
       "animation": {
         "content": "Animações",
@@ -1606,7 +1642,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Mostrar botões dinâmicos de finalização da compra",
-              "info": "Utilizando os métodos de pagamento disponíveis na sua loja, os clientes poderão ver a sua opção preferida, como o PayPal ou Apple Pay. [Saiba mais](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "Utilizando os métodos de pagamento disponíveis na sua loja, os clientes poderão ver a sua opção preferida, como o PayPal ou Apple Pay. [Saiba mais](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             },
             "show_gift_card_recipient": {
               "label": "Apresentar o formulário de informações do destinatário para produtos de cartões de oferta",
@@ -2467,7 +2503,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Mostrar botões dinâmicos de finalização da compra",
-              "info": "Utilizando os métodos de pagamento disponíveis na sua loja, os clientes poderão ver a sua opção preferida, como o PayPal ou Apple Pay. [Saber mais](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+              "info": "Utilizando os métodos de pagamento disponíveis na sua loja, os clientes poderão ver a sua opção preferida, como o PayPal ou Apple Pay. [Saber mais](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
             },
             "show_gift_card_recipient": {
               "label": "Apresentar o formulário do destinatário para produtos de cartões de oferta",
