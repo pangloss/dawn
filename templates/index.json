@@ -193,6 +193,52 @@
         "padding_bottom": 0
       }
     },
+    "f1f69d24-99e8-4715-9a48-aadb39d6097a": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18299858845981__f1f69d24-99e8-4715-9a48-aadb39d6097a-1680462061af95c7a1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "\"Eliza has an innate flair for pattern and composition. Her still lifes have a contemporary edge; bringing fresh perspectives and elements of abstraction to the genre.\"",
+            "heading_size": "h2"
+          }
+        },
+        "template--18299858845981__f1f69d24-99e8-4715-9a48-aadb39d6097a-1680462061af95c7a1-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "6468c749-5368-414f-8c4f-15bdda430941": {
+          "type": "caption",
+          "settings": {
+            "caption": "Art Interiors",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "template--18299858845981__f1f69d24-99e8-4715-9a48-aadb39d6097a-1680462061af95c7a1-0",
+        "template--18299858845981__f1f69d24-99e8-4715-9a48-aadb39d6097a-1680462061af95c7a1-2",
+        "6468c749-5368-414f-8c4f-15bdda430941"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/image_60d95ed9-5aef-4835-86c5-50bcb0e468bf.heic",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
     "rich-text-2": {
       "type": "rich-text",
       "blocks": {
@@ -369,6 +415,7 @@
     "rich-text",
     "rich-text-1",
     "featured-collection",
+    "f1f69d24-99e8-4715-9a48-aadb39d6097a",
     "rich-text-2",
     "featured-collection-1",
     "rich-text-3",
