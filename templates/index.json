@@ -245,7 +245,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Works I've chosen to show at <a href=\"\/pages\/the-artist-project\" title=\"The Artist Project\">The Artist Project <\/a>",
+            "heading": "Recently Sold Pieces",
             "heading_size": "h2"
           }
         }
@@ -270,16 +270,16 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "featured-at-the-artist-project",
-        "products_to_show": 12,
-        "columns_desktop": 3,
+        "collection": "latest-sales",
+        "products_to_show": 5,
+        "columns_desktop": 5,
         "full_width": false,
         "show_view_all": false,
         "view_all_style": "link",
-        "enable_desktop_slider": true,
+        "enable_desktop_slider": false,
         "color_scheme": "background-1",
-        "image_ratio": "portrait",
-        "image_shape": "default",
+        "image_ratio": "square",
+        "image_shape": "round",
         "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
