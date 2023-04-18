@@ -77,16 +77,6 @@
     "fa746708-c315-4361-84d3-411ebb4a1e5f": {
       "type": "multicolumn",
       "blocks": {
-        "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/artist_project_logo.png",
-            "title": "April 13 to 16, 2023",
-            "text": "<p>Come see my work in person at The Artist Project.<\/p>",
-            "link_label": "More Information",
-            "link": "shopify:\/\/pages\/the-artist-project"
-          }
-        },
         "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-0": {
           "type": "column",
           "settings": {
@@ -96,11 +86,21 @@
             "link_label": "Visit Art Interiors",
             "link": "https:\/\/www.artinteriors.ca\/"
           }
+        },
+        "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/artist_project_logo.png",
+            "title": "April 13 to 16, 2023",
+            "text": "<p>Thank you to all the friends new and old who came to see me at The Artist Project.<\/p>",
+            "link_label": "More Information",
+            "link": "shopify:\/\/pages\/the-artist-project"
+          }
         }
       },
       "block_order": [
-        "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-1",
-        "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-0"
+        "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-0",
+        "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-1"
       ],
       "settings": {
         "title": "",
