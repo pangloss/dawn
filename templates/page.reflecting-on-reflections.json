@@ -91,46 +91,6 @@
         "padding_bottom": 48
       }
     },
-    "a42d4491-c810-4a6c-a820-95fc5554b1f7": {
-      "type": "collage",
-      "disabled": true,
-      "blocks": {
-        "template--17945618612509__a42d4491-c810-4a6c-a820-95fc5554b1f7-16769259657c239cfd-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_3650.jpg"
-          }
-        },
-        "template--17945618612509__a42d4491-c810-4a6c-a820-95fc5554b1f7-16769259657c239cfd-1": {
-          "type": "product",
-          "settings": {
-            "product": "still-life-with-a-finger-pepper",
-            "second_image": false
-          }
-        },
-        "template--17945618612509__a42d4491-c810-4a6c-a820-95fc5554b1f7-16769259657c239cfd-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "reflecting-on-reflections"
-          }
-        }
-      },
-      "block_order": [
-        "template--17945618612509__a42d4491-c810-4a6c-a820-95fc5554b1f7-16769259657c239cfd-0",
-        "template--17945618612509__a42d4491-c810-4a6c-a820-95fc5554b1f7-16769259657c239cfd-1",
-        "template--17945618612509__a42d4491-c810-4a6c-a820-95fc5554b1f7-16769259657c239cfd-2"
-      ],
-      "settings": {
-        "heading": "Multimedia collage",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "column",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "05fee674-f5ae-4e2f-ad5d-27040838d09c": {
       "type": "rich-text",
       "blocks": {
@@ -204,7 +164,6 @@
     "1f352860-0379-4ccf-887c-31e2dfbec050",
     "main",
     "b03cfa25-102b-48a8-8fb9-62497de976d2",
-    "a42d4491-c810-4a6c-a820-95fc5554b1f7",
     "05fee674-f5ae-4e2f-ad5d-27040838d09c",
     "e3c84bd7-ff5e-4e77-9223-45f068d04475"
   ]
