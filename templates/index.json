@@ -165,8 +165,50 @@
         "padding_bottom": 0
       }
     },
+    "60f44dcb-b89c-4603-9b70-093b0c11a065": {
+      "type": "collage",
+      "blocks": {
+        "2e40ce6c-45d2-410c-ad7a-985a4ec7edb6": {
+          "type": "product",
+          "settings": {
+            "product": "still-life-triptich-left",
+            "second_image": false
+          }
+        },
+        "template--17932971475229__60f44dcb-b89c-4603-9b70-093b0c11a065-16820550282cac0e87-1": {
+          "type": "product",
+          "settings": {
+            "product": "still-life-triptich-center-with-hierloom-tomato",
+            "second_image": false
+          }
+        },
+        "de4e3e97-1565-4738-a9a6-33302c4a4f32": {
+          "type": "product",
+          "settings": {
+            "product": "still-life-triptich-right-with-an-onion",
+            "second_image": false
+          }
+        }
+      },
+      "block_order": [
+        "2e40ce6c-45d2-410c-ad7a-985a4ec7edb6",
+        "template--17932971475229__60f44dcb-b89c-4603-9b70-093b0c11a065-16820550282cac0e87-1",
+        "de4e3e97-1565-4738-a9a6-33302c4a4f32"
+      ],
+      "settings": {
+        "heading": "Multimedia collage",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "featured-collection": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -414,6 +456,7 @@
     "fa746708-c315-4361-84d3-411ebb4a1e5f",
     "rich-text",
     "rich-text-1",
+    "60f44dcb-b89c-4603-9b70-093b0c11a065",
     "featured-collection",
     "f1f69d24-99e8-4715-9a48-aadb39d6097a",
     "rich-text-2",
