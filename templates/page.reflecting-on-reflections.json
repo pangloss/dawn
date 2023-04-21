@@ -34,6 +34,7 @@
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
@@ -130,29 +131,70 @@
         "padding_bottom": 36
       }
     },
-    "d28a356c-9869-40da-81cf-935ebdf880e3": {
-      "type": "featured-collection",
+    "05fee674-f5ae-4e2f-ad5d-27040838d09c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17945618612509__05fee674-f5ae-4e2f-ad5d-27040838d09c-168205713795778a62-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "View All 38 Paintings",
+            "button_link": "shopify:\/\/collections\/reflecting-on-reflections",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17945618612509__05fee674-f5ae-4e2f-ad5d-27040838d09c-168205713795778a62-2"
+      ],
       "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "reflecting-on-reflections",
-        "products_to_show": 9,
-        "columns_desktop": 3,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "e3c84bd7-ff5e-4e77-9223-45f068d04475": {
+      "type": "collage",
+      "blocks": {
+        "template--17945618612509__e3c84bd7-ff5e-4e77-9223-45f068d04475-16820569486ac2dc67-1": {
+          "type": "product",
+          "settings": {
+            "product": "still-life-with-grapes",
+            "second_image": false
+          }
+        },
+        "b132cbc9-6f42-4ce9-99f8-6f55c9e88bab": {
+          "type": "product",
+          "settings": {
+            "product": "still-life-with-monstera",
+            "second_image": false
+          }
+        },
+        "02ec9bb1-14c5-49f3-9f73-c3ad69a40f68": {
+          "type": "product",
+          "settings": {
+            "product": "still-life-with-an-echinacea",
+            "second_image": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17945618612509__e3c84bd7-ff5e-4e77-9223-45f068d04475-16820569486ac2dc67-1",
+        "b132cbc9-6f42-4ce9-99f8-6f55c9e88bab",
+        "02ec9bb1-14c5-49f3-9f73-c3ad69a40f68"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -163,6 +205,7 @@
     "main",
     "b03cfa25-102b-48a8-8fb9-62497de976d2",
     "a42d4491-c810-4a6c-a820-95fc5554b1f7",
-    "d28a356c-9869-40da-81cf-935ebdf880e3"
+    "05fee674-f5ae-4e2f-ad5d-27040838d09c",
+    "e3c84bd7-ff5e-4e77-9223-45f068d04475"
   ]
 }
