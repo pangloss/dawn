@@ -142,63 +142,40 @@
         "padding_bottom": 52
       }
     },
-    "rich-text-1": {
-      "type": "rich-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Still Life Triptich",
-            "heading_size": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "heading"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": false,
-        "padding_top": 56,
-        "padding_bottom": 0
-      }
-    },
     "60f44dcb-b89c-4603-9b70-093b0c11a065": {
       "type": "collage",
       "blocks": {
-        "2e40ce6c-45d2-410c-ad7a-985a4ec7edb6": {
+        "095a5b34-a3b2-48cd-a014-4433475625b7": {
           "type": "product",
           "settings": {
-            "product": "still-life-triptich-left",
+            "product": "still-life-with-an-echinacea",
             "second_image": false
           }
         },
         "template--17932971475229__60f44dcb-b89c-4603-9b70-093b0c11a065-16820550282cac0e87-1": {
           "type": "product",
           "settings": {
-            "product": "still-life-triptich-center-with-hierloom-tomato",
+            "product": "still-life-with-monstera",
             "second_image": false
           }
         },
-        "de4e3e97-1565-4738-a9a6-33302c4a4f32": {
+        "2e40ce6c-45d2-410c-ad7a-985a4ec7edb6": {
           "type": "product",
           "settings": {
-            "product": "still-life-triptich-right-with-an-onion",
+            "product": "still-life-with-grapes",
             "second_image": false
           }
         }
       },
       "block_order": [
-        "2e40ce6c-45d2-410c-ad7a-985a4ec7edb6",
+        "095a5b34-a3b2-48cd-a014-4433475625b7",
         "template--17932971475229__60f44dcb-b89c-4603-9b70-093b0c11a065-16820550282cac0e87-1",
-        "de4e3e97-1565-4738-a9a6-33302c4a4f32"
+        "2e40ce6c-45d2-410c-ad7a-985a4ec7edb6"
       ],
       "settings": {
         "heading": "",
         "heading_size": "h1",
-        "desktop_layout": "left",
+        "desktop_layout": "right",
         "mobile_layout": "collage",
         "card_styles": "product-card-wrapper",
         "color_scheme": "background-1",
@@ -270,7 +247,7 @@
         "image": "shopify:\/\/shop_images\/image_60d95ed9-5aef-4835-86c5-50bcb0e468bf.heic",
         "height": "adapt",
         "desktop_image_width": "small",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -439,7 +416,7 @@
         "image": "shopify:\/\/shop_images\/IMG_8654.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
-        "layout": "text_first",
+        "layout": "image_first",
         "desktop_content_position": "bottom",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -483,7 +460,6 @@
     "slideshow",
     "fa746708-c315-4361-84d3-411ebb4a1e5f",
     "rich-text",
-    "rich-text-1",
     "60f44dcb-b89c-4603-9b70-093b0c11a065",
     "featured-collection",
     "f1f69d24-99e8-4715-9a48-aadb39d6097a",
