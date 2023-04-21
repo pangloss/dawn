@@ -455,7 +455,7 @@
       "settings": {
         "title": "Patterns & Textures",
         "heading_size": "h2",
-        "description": "<p>View the remaining pieces from Eliza's first collection<\/p>",
+        "description": "<p>View the remaining pieces from Eliza's previous collection<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "patterns-textures",
