@@ -97,16 +97,6 @@
             "link": "https:\/\/www.artinteriors.ca\/artists\/eliza-kozurno"
           }
         },
-        "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/artist_project_logo.png",
-            "title": "April 13 to 16, 2023",
-            "text": "<p>Thank you to all the friends new and old who came to see me at The Artist Project.<\/p>",
-            "link_label": "More Information",
-            "link": "shopify:\/\/pages\/the-artist-project"
-          }
-        },
         "007c7095-1ac6-424e-a567-eaba3f23efd9": {
           "type": "column",
           "settings": {
@@ -116,13 +106,23 @@
             "link_label": "Visit Koyman Galleries",
             "link": "https:\/\/koymangalleries.com\/artist\/eliza-kozurno\/"
           }
+        },
+        "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/artist_project_logo.png",
+            "title": "April 13 to 16, 2023",
+            "text": "<p>Thank you to all the friends new and old who came to see me at The Artist Project.<\/p>",
+            "link_label": "More Information",
+            "link": "shopify:\/\/pages\/the-artist-project"
+          }
         }
       },
       "block_order": [
         "68c8067b-c8eb-487e-bc63-9a77948acebf",
         "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-0",
-        "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-1",
-        "007c7095-1ac6-424e-a567-eaba3f23efd9"
+        "007c7095-1ac6-424e-a567-eaba3f23efd9",
+        "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-1"
       ],
       "settings": {
         "title": "",
