@@ -80,8 +80,9 @@
         "68c8067b-c8eb-487e-bc63-9a77948acebf": {
           "type": "column",
           "settings": {
-            "title": "Toronto Outdoor Art Fair",
-            "text": "<p>Find me at booth #273 in Zone D<\/p>",
+            "image": "shopify:\/\/shop_images\/toaf.png",
+            "title": "Toronto Outdoor Art Fair, July 7-9",
+            "text": "<p>Nathan Phillips Square<\/p><p>Find me at booth #273 in Zone D<\/p>",
             "link_label": "How to get there",
             "link": "https:\/\/toaf.ca\/plan-your-visit\/"
           }
