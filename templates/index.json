@@ -80,10 +80,10 @@
         "68c8067b-c8eb-487e-bc63-9a77948acebf": {
           "type": "column",
           "settings": {
-            "title": "Toronto Outdoor Art Festival",
+            "title": "Toronto Outdoor Art Fair",
             "text": "<p>Find me at booth #273 in Zone D<\/p>",
-            "link_label": "",
-            "link": ""
+            "link_label": "TOAF",
+            "link": "https:\/\/toaf.ca\/gallery\/eliza-kozurno"
           }
         },
         "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-0": {
