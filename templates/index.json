@@ -77,6 +77,15 @@
     "fa746708-c315-4361-84d3-411ebb4a1e5f": {
       "type": "multicolumn",
       "blocks": {
+        "68c8067b-c8eb-487e-bc63-9a77948acebf": {
+          "type": "column",
+          "settings": {
+            "title": "Toronto Outdoor Art Festival",
+            "text": "<p>Find me at booth #273 in Zone D<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-0": {
           "type": "column",
           "settings": {
@@ -96,11 +105,23 @@
             "link_label": "More Information",
             "link": "shopify:\/\/pages\/the-artist-project"
           }
+        },
+        "007c7095-1ac6-424e-a567-eaba3f23efd9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/koyman_logo-v2_42404b34-95ec-4937-86a3-6042072df93f.png",
+            "title": "Koyman Galleries, Ottawa",
+            "text": "<p>Koyman Galleries was established in 1965 and carries the best in contemporary Canadian artwork.<\/p>",
+            "link_label": "Visit Koyman Galleries",
+            "link": "https:\/\/koymangalleries.com\/artist\/eliza-kozurno\/"
+          }
         }
       },
       "block_order": [
+        "68c8067b-c8eb-487e-bc63-9a77948acebf",
         "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-0",
-        "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-1"
+        "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-1",
+        "007c7095-1ac6-424e-a567-eaba3f23efd9"
       ],
       "settings": {
         "title": "",
