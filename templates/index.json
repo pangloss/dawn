@@ -77,16 +77,6 @@
     "fa746708-c315-4361-84d3-411ebb4a1e5f": {
       "type": "multicolumn",
       "blocks": {
-        "68c8067b-c8eb-487e-bc63-9a77948acebf": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/toaf.png",
-            "title": "Toronto Outdoor Art Fair, July 7-9",
-            "text": "<p>Nathan Phillips Square<\/p><p>Find me at booth #273 in Zone D<\/p>",
-            "link_label": "How to get there",
-            "link": "https:\/\/toaf.ca\/plan-your-visit\/"
-          }
-        },
         "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-0": {
           "type": "column",
           "settings": {
@@ -107,6 +97,16 @@
             "link": "https:\/\/koymangalleries.com\/artist\/eliza-kozurno\/"
           }
         },
+        "68c8067b-c8eb-487e-bc63-9a77948acebf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/toaf.png",
+            "title": "Toronto Outdoor Art Fair, July 7-9",
+            "text": "<p>I had a wonderful time meeting so many people at TOAF! Thank you for coming to visit me, and special thanks to the wonderful customers who went home with beautiful artworks!<\/p>",
+            "link_label": "How to get there",
+            "link": "https:\/\/toaf.ca"
+          }
+        },
         "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-1": {
           "type": "column",
           "settings": {
@@ -119,9 +119,9 @@
         }
       },
       "block_order": [
-        "68c8067b-c8eb-487e-bc63-9a77948acebf",
         "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-0",
         "007c7095-1ac6-424e-a567-eaba3f23efd9",
+        "68c8067b-c8eb-487e-bc63-9a77948acebf",
         "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-1"
       ],
       "settings": {
