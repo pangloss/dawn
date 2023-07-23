@@ -104,6 +104,9 @@
         "template--17932971475229__cfd3aa1e-8453-4474-b8e8-f6c1aaefba2e-text-1",
         "template--17932971475229__cfd3aa1e-8453-4474-b8e8-f6c1aaefba2e-button-1"
       ],
+      "custom_css": [
+        "img {width: 100%; height: 52%;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/SG-Logo-Black.png",
         "height": "small",
