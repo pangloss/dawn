@@ -74,6 +74,51 @@
         "accessibility_info": ""
       }
     },
+    "cfd3aa1e-8453-4474-b8e8-f6c1aaefba2e": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17932971475229__cfd3aa1e-8453-4474-b8e8-f6c1aaefba2e-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Solo Exhibition at Summer & Grace Oakville",
+            "heading_size": "h1"
+          }
+        },
+        "template--17932971475229__cfd3aa1e-8453-4474-b8e8-f6c1aaefba2e-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Join me for the opening, August 2 from 4-7pm <\/p><p><a href=\"https:\/\/www.summergracegallery.com\/event\/upcoming-exhibition-reflecting-on-reflections\/\" target=\"_blank\" title=\"https:\/\/www.summergracegallery.com\/event\/upcoming-exhibition-reflecting-on-reflections\/\">Show runs August 2nd to 27th<\/a><\/p><p>350 Lakeshore Road East, Unit 2<br\/>Oakville, Ontario (<a href=\"https:\/\/www.google.com\/maps\/place\/Summer+and+Grace+Gallery\/@43.448674,-79.6652825,19z\/data=!3m1!4b1!4m6!3m5!1s0x882b5d95bcbc1629:0x9e049285adb8231!8m2!3d43.448673!4d-79.6646388!16s%2Fg%2F11k5050rfq?entry=ttu\" target=\"_blank\" title=\"https:\/\/www.google.com\/maps\/place\/Summer+and+Grace+Gallery\/@43.448674,-79.6652825,19z\/data=!3m1!4b1!4m6!3m5!1s0x882b5d95bcbc1629:0x9e049285adb8231!8m2!3d43.448673!4d-79.6646388!16s%2Fg%2F11k5050rfq?entry=ttu\">map<\/a>)<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--17932971475229__cfd3aa1e-8453-4474-b8e8-f6c1aaefba2e-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17932971475229__cfd3aa1e-8453-4474-b8e8-f6c1aaefba2e-heading-1",
+        "template--17932971475229__cfd3aa1e-8453-4474-b8e8-f6c1aaefba2e-text-1",
+        "template--17932971475229__cfd3aa1e-8453-4474-b8e8-f6c1aaefba2e-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/SG-Logo-Black.png",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "fa746708-c315-4361-84d3-411ebb4a1e5f": {
       "type": "multicolumn",
       "blocks": {
@@ -481,6 +526,7 @@
   },
   "order": [
     "slideshow",
+    "cfd3aa1e-8453-4474-b8e8-f6c1aaefba2e",
     "fa746708-c315-4361-84d3-411ebb4a1e5f",
     "rich-text",
     "featured-collection",
