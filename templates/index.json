@@ -101,6 +101,7 @@
         "template--17932971475229__2f3c6529-098a-4827-8058-15d0353fb716-column-2",
         "template--17932971475229__2f3c6529-098a-4827-8058-15d0353fb716-column-3"
       ],
+      "disabled": true,
       "settings": {
         "title": "Solo Exhibition",
         "heading_size": "h1",
@@ -239,7 +240,6 @@
     },
     "9e26abbb-cd1a-4576-96dc-77c53bfef5a1": {
       "type": "collage",
-      "disabled": true,
       "blocks": {
         "9b974e70-78a9-44ab-b613-8baab5396133": {
           "type": "product",
@@ -268,6 +268,7 @@
         "6aa6f47d-e858-4d53-a251-9d89e295f2ab",
         "8772df3a-4a35-4361-85cd-bf97ff6e1078"
       ],
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_size": "h1",
@@ -378,7 +379,6 @@
     },
     "rich-text-3": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "text": {
           "type": "text",
@@ -405,6 +405,7 @@
         "heading",
         "d4a1b0a6-2e88-46fb-aad1-132ddf73fac8"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
