@@ -142,6 +142,16 @@
             "link": "https:\/\/koymangalleries.com\/artist\/eliza-kozurno\/"
           }
         },
+        "79d14df6-e54a-4d9f-ab70-2e42be5d5215": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SG-Logo-Black.png",
+            "title": "August 2023 Oakville Solo Show",
+            "text": "<p>Thank you to all of my friends who came to see my work at this lovely gallery. Thank you to Summer & Grace gallery for being so gracious and hosting my work in such a lovely space.<\/p>",
+            "link_label": "Visit Summer & Grace Gallery",
+            "link": "https:\/\/www.summergracegallery.com\/"
+          }
+        },
         "68c8067b-c8eb-487e-bc63-9a77948acebf": {
           "type": "column",
           "settings": {
@@ -161,24 +171,14 @@
             "link_label": "More Information",
             "link": "shopify:\/\/pages\/the-artist-project"
           }
-        },
-        "79d14df6-e54a-4d9f-ab70-2e42be5d5215": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/SG-Logo-Black.png",
-            "title": "August 2023 Oakville Solo Show",
-            "text": "<p>Thank you to all of my friends who came to see my work at this lovely gallery. Thank you to Summer & Grace gallery for being so gracious and hosting my work in such a lovely space.<\/p>",
-            "link_label": "Visit Summer & Grace Gallery",
-            "link": "https:\/\/www.summergracegallery.com\/"
-          }
         }
       },
       "block_order": [
         "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-0",
         "007c7095-1ac6-424e-a567-eaba3f23efd9",
+        "79d14df6-e54a-4d9f-ab70-2e42be5d5215",
         "68c8067b-c8eb-487e-bc63-9a77948acebf",
-        "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-1",
-        "79d14df6-e54a-4d9f-ab70-2e42be5d5215"
+        "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-1"
       ],
       "settings": {
         "title": "",
