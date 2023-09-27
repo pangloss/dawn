@@ -46,6 +46,7 @@
         },
         "6d6429fe-5002-4fdb-b375-f7f6175a98b8": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Shipping & Pickup",
             "icon": "heart",
