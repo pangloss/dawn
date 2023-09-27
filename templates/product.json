@@ -94,26 +94,17 @@
       "blocks": {
         "column-0": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "Shipping",
             "text": "<p>Local pickup is preferred. Delivery by the artist within Toronto may be arranged. Specialized shipping arrangements may be made upon purchase.<\/p>",
             "link_label": "",
             "link": ""
           }
-        },
-        "column-1": {
-          "type": "column",
-          "settings": {
-            "title": "Returns",
-            "text": "<p>Purchases may be returned within 30 days for a 90% refund. See policy for full details.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
-        "column-0",
-        "column-1"
+        "column-0"
       ],
       "settings": {
         "title": "",
