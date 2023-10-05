@@ -122,11 +122,21 @@
     "fa746708-c315-4361-84d3-411ebb4a1e5f": {
       "type": "multicolumn",
       "blocks": {
+        "c46deeb5-d5ca-4e5e-93db-79d9032d75db": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Roberts_Logo_75th-colour.png",
+            "title": "Representing Eliza in the Greater Toronto Area",
+            "text": "<p>Roberts Gallery was established in 1842. They represent a current list of contemporary Canadian artists from coast to coast. They have a beautiful gallery at 631 Dupont Street, Toronto.<\/p>",
+            "link_label": "Visit Roberts Gallery",
+            "link": "https:\/\/www.robertsgallery.net\/"
+          }
+        },
         "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-0": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/art_interiors_logo_remade.png",
-            "title": "Works now on display in Forest Hill Village, Toronto",
+            "title": "Works on display in Forest Hill Village, Toronto",
             "text": "<p>Established in 1993, Art Interiors is a Toronto based gallery dedicated to making original fine art of all styles, mediums and genres accessible and affordable.<\/p>",
             "link_label": "Visit Art Interiors",
             "link": "https:\/\/www.artinteriors.ca\/artists\/eliza-kozurno"
@@ -174,6 +184,7 @@
         }
       },
       "block_order": [
+        "c46deeb5-d5ca-4e5e-93db-79d9032d75db",
         "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-0",
         "007c7095-1ac6-424e-a567-eaba3f23efd9",
         "79d14df6-e54a-4d9f-ab70-2e42be5d5215",
