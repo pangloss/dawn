@@ -24,26 +24,14 @@
         "9b03f621-d5ed-4e97-8447-05542e5ca4bb": {
           "type": "text",
           "settings": {
-            "text": "Eliza is proud to be represented by Roberts Gallery. Online purchases in Ontario are in collaboration with the gallery.",
+            "text": "Eliza is proud to be represented by <a href=\"https:\/\/www.robertsgallery.net\/gallery-artist\/eliza-kozurno\" title=\"https:\/\/www.robertsgallery.net\/gallery-artist\/eliza-kozurno\">Roberts Gallery<\/a>.",
             "text_style": "body"
-          }
-        },
-        "price": {
-          "type": "price",
-          "settings": {
           }
         },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
             "picker_type": "button"
-          }
-        },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": false
           }
         },
         "share": {
@@ -64,15 +52,6 @@
             "text_style": "body"
           }
         },
-        "6d6429fe-5002-4fdb-b375-f7f6175a98b8": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Shipping & Pickup",
-            "icon": "heart",
-            "content": "<p>Local pickup is preferred.<\/p><p><\/p><p>I love to meet my buyers in person, come pick up your painting and join me for a cup of coffee!<\/p><p><\/p><p>Shipping is fully insured and requires signature on delivery.<\/p>",
-            "page": ""
-          }
-        },
         "88525f08-fee8-4c16-b1c7-0c77a1aaeb2d": {
           "type": "collapsible_tab",
           "settings": {
@@ -88,13 +67,10 @@
         "title",
         "59e61ae6-332c-4ebd-a61e-dc52d4f24258",
         "9b03f621-d5ed-4e97-8447-05542e5ca4bb",
-        "price",
         "variant_picker",
-        "buy_buttons",
         "share",
         "description",
         "f665b114-a1d2-41f2-ad0b-71132620abe5",
-        "6d6429fe-5002-4fdb-b375-f7f6175a98b8",
         "88525f08-fee8-4c16-b1c7-0c77a1aaeb2d"
       ],
       "settings": {
