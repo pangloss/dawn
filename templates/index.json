@@ -152,17 +152,6 @@
             "link": "https:\/\/www.earlscourtart.com\/collections\/dwelling-in-place"
           }
         },
-        "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-0": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/art_interiors_logo_remade.png",
-            "title": "Works on display in Forest Hill Village, Toronto",
-            "text": "<p>Established in 1993, Art Interiors is a Toronto based gallery dedicated to making original fine art of all styles, mediums and genres accessible and affordable.<\/p>",
-            "link_label": "Visit Art Interiors",
-            "link": "https:\/\/www.artinteriors.ca\/artists\/eliza-kozurno"
-          }
-        },
         "007c7095-1ac6-424e-a567-eaba3f23efd9": {
           "type": "column",
           "settings": {
@@ -202,17 +191,28 @@
             "link_label": "More Information",
             "link": "shopify:\/\/pages\/the-artist-project"
           }
+        },
+        "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-0": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/art_interiors_logo_remade.png",
+            "title": "Eliza's previous Toronto gallery",
+            "text": "<p>Thank you to Art Interiors for being the first to take a chance on me!<\/p><p>Established in 1993, Art Interiors is a Toronto based gallery dedicated to making original fine art of all styles, mediums and genres accessible and affordable.<\/p>",
+            "link_label": "Visit Art Interiors",
+            "link": "https:\/\/www.artinteriors.ca\/artists\/eliza-kozurno"
+          }
         }
       },
       "block_order": [
         "c46deeb5-d5ca-4e5e-93db-79d9032d75db",
         "817be3dd-eb2f-474c-ab2a-eb3e8f1b372d",
         "c7e8e13c-27f3-49c0-87d1-6dd91f4d687a",
-        "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-0",
         "007c7095-1ac6-424e-a567-eaba3f23efd9",
         "79d14df6-e54a-4d9f-ab70-2e42be5d5215",
         "68c8067b-c8eb-487e-bc63-9a77948acebf",
-        "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-1"
+        "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-1",
+        "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-0"
       ],
       "settings": {
         "title": "",
