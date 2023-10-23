@@ -55,15 +55,15 @@
         "194825db-a67b-4cb9-99c8-4c17223cd381"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DIP-BanneropeningonlyCOMINGSOON_2048x2048_7ebe77bf-2b84-4d6d-ad81-4ac8859d3017.webp",
+        "image": "shopify:\/\/shop_images\/Dwelling_In_Place.jpg",
         "height": "adapt",
-        "desktop_image_width": "large",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "center",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
-        "image_behavior": "ambient",
+        "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 0,
         "padding_bottom": 0
@@ -78,10 +78,19 @@
             "heading": "<em>3rd Annual Juried Exhibition<\/em>, Art Gallery of Mississauga",
             "heading_size": "h1"
           }
+        },
+        "560ed39a-72ee-42dd-a2d6-fc658e919746": {
+          "type": "caption",
+          "settings": {
+            "caption": "Opening November __, 2023",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
         }
       },
       "block_order": [
-        "template--21352538112285__3f3ef6cf-a734-462b-b548-5392715f71bc-heading-1"
+        "template--21352538112285__3f3ef6cf-a734-462b-b548-5392715f71bc-heading-1",
+        "560ed39a-72ee-42dd-a2d6-fc658e919746"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/AGM.jpg",
