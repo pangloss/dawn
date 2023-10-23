@@ -57,7 +57,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Dwelling_In_Place.jpg",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "center",
@@ -82,7 +82,7 @@
         "560ed39a-72ee-42dd-a2d6-fc658e919746": {
           "type": "caption",
           "settings": {
-            "caption": "Opening November __, 2023",
+            "caption": "November 21, 2023 –– January 14",
             "text_style": "caption-with-letter-spacing",
             "text_size": "large"
           }
@@ -93,7 +93,7 @@
         "560ed39a-72ee-42dd-a2d6-fc658e919746"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/AGM.jpg",
+        "image": "shopify:\/\/shop_images\/AGM_Show.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
