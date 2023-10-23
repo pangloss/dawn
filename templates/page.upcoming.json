@@ -116,6 +116,44 @@
         "padding_bottom": 0
       }
     },
+    "acd5a2a9-d9e2-4cb6-be1c-78a2cb8fffd0": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21352538112285__acd5a2a9-d9e2-4cb6-be1c-78a2cb8fffd0-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em>Artists' Choice 2024<\/em>, Roberts Gallery",
+            "heading_size": "h1"
+          }
+        },
+        "2c30581d-5414-41d2-b6db-fc1f1c438601": {
+          "type": "caption",
+          "settings": {
+            "caption": "Opening January 27",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "template--21352538112285__acd5a2a9-d9e2-4cb6-be1c-78a2cb8fffd0-heading-1",
+        "2c30581d-5414-41d2-b6db-fc1f1c438601"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Roberts_Logo_75th-colour.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "e0272d39-32f1-4326-bddf-a53d480cda20": {
       "type": "image-with-text",
       "blocks": {
@@ -239,6 +277,7 @@
     "361d4d5d-2962-41c3-9e19-2d794da071ee",
     "d8c7e9f7-e269-4b41-aa71-a55cb1681939",
     "3f3ef6cf-a734-462b-b548-5392715f71bc",
+    "acd5a2a9-d9e2-4cb6-be1c-78a2cb8fffd0",
     "e0272d39-32f1-4326-bddf-a53d480cda20",
     "476853a8-bc86-400a-a4a5-c6331376d37d",
     "ff9b1c52-a209-4155-a2a4-28cbba4b0fab"
