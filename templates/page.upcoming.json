@@ -48,41 +48,25 @@
             "text_style": "caption-with-letter-spacing",
             "text_size": "large"
           }
-        },
-        "template--21352538112285__d8c7e9f7-e269-4b41-aa71-a55cb1681939-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--21352538112285__d8c7e9f7-e269-4b41-aa71-a55cb1681939-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
         "template--21352538112285__d8c7e9f7-e269-4b41-aa71-a55cb1681939-heading-1",
-        "194825db-a67b-4cb9-99c8-4c17223cd381",
-        "template--21352538112285__d8c7e9f7-e269-4b41-aa71-a55cb1681939-text-1",
-        "template--21352538112285__d8c7e9f7-e269-4b41-aa71-a55cb1681939-button-1"
+        "194825db-a67b-4cb9-99c8-4c17223cd381"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/earls_court.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "overlap",
         "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 12,
-        "padding_bottom": 12
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "3f3ef6cf-a734-462b-b548-5392715f71bc": {
