@@ -164,6 +164,7 @@
         },
         "79d14df6-e54a-4d9f-ab70-2e42be5d5215": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/SG-Logo-Black.png",
             "title": "August 2023 Oakville Solo Show",
@@ -174,6 +175,7 @@
         },
         "68c8067b-c8eb-487e-bc63-9a77948acebf": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/toaf.png",
             "title": "Toronto Outdoor Art Fair, July 7-9 2023",
@@ -184,6 +186,7 @@
         },
         "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-1": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/artist_project_logo.png",
             "title": "April 13 to 16, 2023",
