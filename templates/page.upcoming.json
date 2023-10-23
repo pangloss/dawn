@@ -2,13 +2,247 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "6bf02482-81c3-4e1d-9c0d-ea27d8f062a1": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21352538112285__6bf02482-81c3-4e1d-9c0d-ea27d8f062a1-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "News & Upcoming Exhibitions",
+            "heading_size": "h1"
+          }
+        },
+        "template--21352538112285__6bf02482-81c3-4e1d-9c0d-ea27d8f062a1-text-1": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "template--21352538112285__6bf02482-81c3-4e1d-9c0d-ea27d8f062a1-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21352538112285__6bf02482-81c3-4e1d-9c0d-ea27d8f062a1-heading-1",
+        "template--21352538112285__6bf02482-81c3-4e1d-9c0d-ea27d8f062a1-text-1",
+        "template--21352538112285__6bf02482-81c3-4e1d-9c0d-ea27d8f062a1-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "d8c7e9f7-e269-4b41-aa71-a55cb1681939": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21352538112285__d8c7e9f7-e269-4b41-aa71-a55cb1681939-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em>Dwelling in Place, <\/em>Earls Court Gallery",
+            "heading_size": "h1"
+          }
+        },
+        "194825db-a67b-4cb9-99c8-4c17223cd381": {
+          "type": "caption",
+          "settings": {
+            "caption": "Opening November 16, 2023",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "template--21352538112285__d8c7e9f7-e269-4b41-aa71-a55cb1681939-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--21352538112285__d8c7e9f7-e269-4b41-aa71-a55cb1681939-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21352538112285__d8c7e9f7-e269-4b41-aa71-a55cb1681939-heading-1",
+        "194825db-a67b-4cb9-99c8-4c17223cd381",
+        "template--21352538112285__d8c7e9f7-e269-4b41-aa71-a55cb1681939-text-1",
+        "template--21352538112285__d8c7e9f7-e269-4b41-aa71-a55cb1681939-button-1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e423de53-de93-46fa-81da-33e37cb90b3b": {
+      "type": "image-banner",
+      "blocks": {
+        "template--21352538112285__e423de53-de93-46fa-81da-33e37cb90b3b-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em>Juried Exhibition, <\/em>Art Gallery of Mississauga",
+            "heading_size": "h1"
+          }
+        },
+        "template--21352538112285__e423de53-de93-46fa-81da-33e37cb90b3b-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "November 22, 2023",
+            "text_style": "body"
+          }
+        },
+        "template--21352538112285__e423de53-de93-46fa-81da-33e37cb90b3b-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21352538112285__e423de53-de93-46fa-81da-33e37cb90b3b-heading-1",
+        "template--21352538112285__e423de53-de93-46fa-81da-33e37cb90b3b-text-1",
+        "template--21352538112285__e423de53-de93-46fa-81da-33e37cb90b3b-buttons-1"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "e0272d39-32f1-4326-bddf-a53d480cda20": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21352538112285__e0272d39-32f1-4326-bddf-a53d480cda20-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Artist Project 2024",
+            "heading_size": "h1"
+          }
+        },
+        "template--21352538112285__e0272d39-32f1-4326-bddf-a53d480cda20-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--21352538112285__e0272d39-32f1-4326-bddf-a53d480cda20-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21352538112285__e0272d39-32f1-4326-bddf-a53d480cda20-heading-1",
+        "template--21352538112285__e0272d39-32f1-4326-bddf-a53d480cda20-text-1",
+        "template--21352538112285__e0272d39-32f1-4326-bddf-a53d480cda20-button-1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "476853a8-bc86-400a-a4a5-c6331376d37d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21352538112285__476853a8-bc86-400a-a4a5-c6331376d37d-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Past Events & Exhibitions",
+            "heading_size": "h1"
+          }
+        },
+        "template--21352538112285__476853a8-bc86-400a-a4a5-c6331376d37d-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--21352538112285__476853a8-bc86-400a-a4a5-c6331376d37d-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21352538112285__476853a8-bc86-400a-a4a5-c6331376d37d-heading-1",
+        "template--21352538112285__476853a8-bc86-400a-a4a5-c6331376d37d-text-1",
+        "template--21352538112285__476853a8-bc86-400a-a4a5-c6331376d37d-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "6bf02482-81c3-4e1d-9c0d-ea27d8f062a1",
+    "d8c7e9f7-e269-4b41-aa71-a55cb1681939",
+    "e423de53-de93-46fa-81da-33e37cb90b3b",
+    "e0272d39-32f1-4326-bddf-a53d480cda20",
+    "476853a8-bc86-400a-a4a5-c6331376d37d"
   ]
 }
