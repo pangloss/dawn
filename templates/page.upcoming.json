@@ -17,29 +17,10 @@
             "heading": "News & Upcoming Exhibitions",
             "heading_size": "h1"
           }
-        },
-        "template--21352538112285__6bf02482-81c3-4e1d-9c0d-ea27d8f062a1-text-1": {
-          "type": "text",
-          "settings": {
-            "text": ""
-          }
-        },
-        "template--21352538112285__6bf02482-81c3-4e1d-9c0d-ea27d8f062a1-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
-        "template--21352538112285__6bf02482-81c3-4e1d-9c0d-ea27d8f062a1-heading-1",
-        "template--21352538112285__6bf02482-81c3-4e1d-9c0d-ea27d8f062a1-text-1",
-        "template--21352538112285__6bf02482-81c3-4e1d-9c0d-ea27d8f062a1-button-1"
+        "template--21352538112285__6bf02482-81c3-4e1d-9c0d-ea27d8f062a1-heading-1"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -90,6 +71,7 @@
         "template--21352538112285__d8c7e9f7-e269-4b41-aa71-a55cb1681939-button-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/earls_court.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -99,55 +81,52 @@
         "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 12,
+        "padding_bottom": 12
       }
     },
-    "e423de53-de93-46fa-81da-33e37cb90b3b": {
-      "type": "image-banner",
+    "3f3ef6cf-a734-462b-b548-5392715f71bc": {
+      "type": "image-with-text",
       "blocks": {
-        "template--21352538112285__e423de53-de93-46fa-81da-33e37cb90b3b-heading-1": {
+        "template--21352538112285__3f3ef6cf-a734-462b-b548-5392715f71bc-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<em>3rd Annual Juried Exhibition, <\/em>Art Gallery of Mississauga",
+            "heading": "<em>3rd Annual Juried Exhibition<\/em>, Art Gallery of Mississauga",
             "heading_size": "h1"
           }
         },
-        "template--21352538112285__e423de53-de93-46fa-81da-33e37cb90b3b-text-1": {
+        "template--21352538112285__3f3ef6cf-a734-462b-b548-5392715f71bc-text-1": {
           "type": "text",
           "settings": {
-            "text": "November 22, 2023",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "text_style": "body"
           }
         },
-        "template--21352538112285__e423de53-de93-46fa-81da-33e37cb90b3b-buttons-1": {
-          "type": "buttons",
+        "template--21352538112285__3f3ef6cf-a734-462b-b548-5392715f71bc-button-1": {
+          "type": "button",
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "button_label": "Button label",
+            "button_link": ""
           }
         }
       },
       "block_order": [
-        "template--21352538112285__e423de53-de93-46fa-81da-33e37cb90b3b-heading-1",
-        "template--21352538112285__e423de53-de93-46fa-81da-33e37cb90b3b-text-1",
-        "template--21352538112285__e423de53-de93-46fa-81da-33e37cb90b3b-buttons-1"
+        "template--21352538112285__3f3ef6cf-a734-462b-b548-5392715f71bc-heading-1",
+        "template--21352538112285__3f3ef6cf-a734-462b-b548-5392715f71bc-text-1",
+        "template--21352538112285__3f3ef6cf-a734-462b-b548-5392715f71bc-button-1"
       ],
       "settings": {
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "e0272d39-32f1-4326-bddf-a53d480cda20": {
@@ -190,8 +169,8 @@
         "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 16,
+        "padding_bottom": 16
       }
     },
     "476853a8-bc86-400a-a4a5-c6331376d37d": {
@@ -203,29 +182,10 @@
             "heading": "Past Events & Exhibitions",
             "heading_size": "h1"
           }
-        },
-        "template--21352538112285__476853a8-bc86-400a-a4a5-c6331376d37d-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "template--21352538112285__476853a8-bc86-400a-a4a5-c6331376d37d-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
-        "template--21352538112285__476853a8-bc86-400a-a4a5-c6331376d37d-heading-1",
-        "template--21352538112285__476853a8-bc86-400a-a4a5-c6331376d37d-text-1",
-        "template--21352538112285__476853a8-bc86-400a-a4a5-c6331376d37d-button-1"
+        "template--21352538112285__476853a8-bc86-400a-a4a5-c6331376d37d-heading-1"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -235,14 +195,71 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "ff9b1c52-a209-4155-a2a4-28cbba4b0fab": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--21352538112285__ff9b1c52-a209-4155-a2a4-28cbba4b0fab-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SG-Logo-Black.png",
+            "title": "August 2023 Oakville Solo Show",
+            "text": "<p>Thank you to all of my friends who came to see my work at this lovely gallery. Thank you to Summer & Grace gallery for being so gracious and hosting my work in such a lovely space.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--21352538112285__ff9b1c52-a209-4155-a2a4-28cbba4b0fab-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/toaf_7c5a083e-9402-4eb7-a28e-a69687cb4ee5.png",
+            "title": "Toronto Outdoor Art Fair, July 7-9 2023",
+            "text": "<p>I had a wonderful time meeting so many people at TOAF! Thank you for coming to visit me, and special thanks to the wonderful customers who went home with beautiful artworks!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--21352538112285__ff9b1c52-a209-4155-a2a4-28cbba4b0fab-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/artist_project_logo.png",
+            "title": "April 13 to 16, 2023",
+            "text": "<p>Thank you to all the friends new and old who came to see me at The Artist Project.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21352538112285__ff9b1c52-a209-4155-a2a4-28cbba4b0fab-column-1",
+        "template--21352538112285__ff9b1c52-a209-4155-a2a4-28cbba4b0fab-column-2",
+        "template--21352538112285__ff9b1c52-a209-4155-a2a4-28cbba4b0fab-column-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "6bf02482-81c3-4e1d-9c0d-ea27d8f062a1",
     "d8c7e9f7-e269-4b41-aa71-a55cb1681939",
-    "e423de53-de93-46fa-81da-33e37cb90b3b",
+    "3f3ef6cf-a734-462b-b548-5392715f71bc",
     "e0272d39-32f1-4326-bddf-a53d480cda20",
-    "476853a8-bc86-400a-a4a5-c6331376d37d"
+    "476853a8-bc86-400a-a4a5-c6331376d37d",
+    "ff9b1c52-a209-4155-a2a4-28cbba4b0fab"
   ]
 }
