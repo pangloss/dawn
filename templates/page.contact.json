@@ -29,7 +29,7 @@
         "template--17932971409693__ad446750-0eaa-45d2-80e1-c7a43289aad2-1676950836c0fde6c5-1": {
           "type": "text",
           "settings": {
-            "text": "<p>If you are interested in seeing my art in person, I'll do my best to accommodate you.<\/p><p>Questions or comments are all welcome and I'll do my best to respond quickly.<\/p><p>Currently open to gallery representation.<\/p>",
+            "text": "<p>If you are interested in seeing my art in person, I'll do my best to accommodate you.<\/p><p>Questions or comments are all welcome and I'll do my best to respond quickly.<\/p>",
             "text_style": "body"
           }
         },
@@ -56,6 +56,7 @@
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
