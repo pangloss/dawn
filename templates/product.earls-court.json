@@ -99,6 +99,7 @@
       "blocks": {
         "column-0": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "Shipping",
             "text": "<p>Local pickup is preferred. Delivery by the artist within Toronto may be arranged. Specialized shipping arrangements may be made upon purchase.<\/p>",
@@ -108,6 +109,7 @@
         },
         "column-1": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "Returns",
             "text": "<p>Purchases may be returned within 30 days for a 90% refund. See policy for full details.<\/p>",
