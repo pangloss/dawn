@@ -642,8 +642,8 @@
         "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-text-1": {
           "type": "text",
           "settings": {
-            "text": "On display at the Art Gallery of Mississauga from November 23, 2023 to January 14, 2024",
-            "text_style": "body"
+            "text": "On display from November 23, 2023 to January 14, 2024",
+            "text_style": "caption-with-letter-spacing"
           }
         },
         "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-buttons-1": {
@@ -651,8 +651,8 @@
           "settings": {
             "button_label_1": "Still Life with War News",
             "button_link_1": "shopify:\/\/products\/still-life-with-war-news",
-            "button_style_secondary_1": false,
-            "button_label_2": "AGM",
+            "button_style_secondary_1": true,
+            "button_label_2": "Art Gallery of Mississauga",
             "button_link_2": "https:\/\/www.artgalleryofmississauga.com\/",
             "button_style_secondary_2": false
           }
