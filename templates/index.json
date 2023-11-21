@@ -328,6 +328,64 @@
         "padding_bottom": 36
       }
     },
+    "af47e7c8-5c55-485a-ac02-c6d8ab1dd750": {
+      "type": "featured-product",
+      "blocks": {
+        "template--17932971475229__af47e7c8-5c55-485a-ac02-c6d8ab1dd750-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--17932971475229__af47e7c8-5c55-485a-ac02-c6d8ab1dd750-title-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--17932971475229__af47e7c8-5c55-485a-ac02-c6d8ab1dd750-price-1": {
+          "type": "price",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "template--17932971475229__af47e7c8-5c55-485a-ac02-c6d8ab1dd750-share-1": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "706e0394-0da1-4e6d-a79e-1ba9bfd83b48": {
+          "type": "text",
+          "settings": {
+            "text": "Selected",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--17932971475229__af47e7c8-5c55-485a-ac02-c6d8ab1dd750-text-1",
+        "template--17932971475229__af47e7c8-5c55-485a-ac02-c6d8ab1dd750-title-1",
+        "template--17932971475229__af47e7c8-5c55-485a-ac02-c6d8ab1dd750-price-1",
+        "template--17932971475229__af47e7c8-5c55-485a-ac02-c6d8ab1dd750-share-1",
+        "706e0394-0da1-4e6d-a79e-1ba9bfd83b48"
+      ],
+      "settings": {
+        "product": "still-life-with-war-news",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "f1f69d24-99e8-4715-9a48-aadb39d6097a": {
       "type": "image-with-text",
       "blocks": {
@@ -579,6 +637,7 @@
     "rich-text",
     "featured-collection",
     "9e26abbb-cd1a-4576-96dc-77c53bfef5a1",
+    "af47e7c8-5c55-485a-ac02-c6d8ab1dd750",
     "f1f69d24-99e8-4715-9a48-aadb39d6097a",
     "rich-text-2",
     "featured-collection-1",
