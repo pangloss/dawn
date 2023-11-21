@@ -1,0 +1,288 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "Original Artwork",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "59e61ae6-332c-4ebd-a61e-dc52d4f24258": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0719\/3706\/5245\/files\/Roberts_Logo_75th-colour.png?v=1695168593\"\nwidth=75% style=\"padding-left: 25%\" alt=\"Image description here\">"
+          }
+        },
+        "53336b31-a540-4383-a48c-0db0e9550a33": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "9b03f621-d5ed-4e97-8447-05542e5ca4bb": {
+          "type": "text",
+          "settings": {
+            "text": "This piece is available at <a href=\"https:\/\/www.robertsgallery.net\/gallery-artist\/eliza-kozurno\">Roberts Gallery<\/a> in Toronto.",
+            "text_style": "body"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "f665b114-a1d2-41f2-ad0b-71132620abe5": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.product.medium.value }}, {{ product.metafields.product.width.value }}\" 𝗑 {{ product.metafields.product.height.value }}\"",
+            "text_style": "body"
+          }
+        },
+        "88525f08-fee8-4c16-b1c7-0c77a1aaeb2d": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Size and Materials",
+            "icon": "ruler",
+            "content": "<p>{{ product.metafields.product.medium.value }}<\/p><p><\/p><ul><li>{{ product.metafields.product.width.value }}\" wide 𝗑 {{ product.metafields.product.height.value }}\" tall<\/li><li>{{ product.metafields.product.depth.value }}\" deep<\/li><\/ul>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "59e61ae6-332c-4ebd-a61e-dc52d4f24258",
+        "53336b31-a540-4383-a48c-0db0e9550a33",
+        "9b03f621-d5ed-4e97-8447-05542e5ca4bb",
+        "variant_picker",
+        "share",
+        "description",
+        "f665b114-a1d2-41f2-ad0b-71132620abe5",
+        "88525f08-fee8-4c16-b1c7-0c77a1aaeb2d"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_size": "large",
+        "constrain_to_viewport": true,
+        "media_fit": "cover",
+        "gallery_layout": "thumbnail",
+        "media_position": "left",
+        "image_zoom": "none",
+        "mobile_thumbnails": "hide",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column-0": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Shipping",
+            "text": "<p>Local pickup is preferred. Delivery by the artist within Toronto may be arranged. Specialized shipping arrangements may be made upon purchase.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column-1": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Returns",
+            "text": "<p>Purchases may be returned within 30 days for a 90% refund. See policy for full details.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column-0",
+        "column-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 56,
+        "padding_bottom": 36
+      }
+    },
+    "image-with-text": {
+      "type": "image-with-text",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Go Deeper<\/p>",
+            "text_style": "body"
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Reflections in Eliza's work",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "text",
+        "heading"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "large",
+        "layout": "text_first",
+        "desktop_content_position": "bottom",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "image-with-text-1": {
+      "type": "image-with-text",
+      "blocks": {
+        "a4ce6b4d-0fa4-4cd0-bf17-a34fe4d35760": {
+          "type": "heading",
+          "settings": {
+            "heading": "Reflect on Reflections",
+            "heading_size": "h2"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Investigate the details of the objects in the paintings as they interact with each other through reflection.<\/p><p>This guided tour of just one of Eliza's works can help you dig deeper into the whole collection<\/p>",
+            "text_style": "body"
+          }
+        },
+        "85a73d75-a7fc-4bad-9a38-ec0b2ba6a2b5": {
+          "type": "button",
+          "settings": {
+            "button_label": "Look Closer",
+            "button_link": "shopify:\/\/pages\/reflections-in-elizas-paintings"
+          }
+        }
+      },
+      "block_order": [
+        "a4ce6b4d-0fa4-4cd0-bf17-a34fe4d35760",
+        "text",
+        "85a73d75-a7fc-4bad-9a38-ec0b2ba6a2b5"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/reflections_1.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 56
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h1",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image-with-text-2": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to provide extra information about your brand or collections.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 32,
+        "padding_bottom": 76
+      }
+    }
+  },
+  "order": [
+    "main",
+    "multicolumn",
+    "image-with-text",
+    "image-with-text-1",
+    "related-products",
+    "image-with-text-2"
+  ]
+}
