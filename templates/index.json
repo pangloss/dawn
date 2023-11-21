@@ -421,6 +421,10 @@
         "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-text-1",
         "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-buttons-1"
       ],
+      "custom_css": [
+        ".banner__box {opacity: 0.8; border-radius: 35px;}",
+        ".banner__heading,.banner__text {text-align: left;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/war_news.jpg",
         "image_2": "shopify:\/\/shop_images\/AGM_Show.jpg",
