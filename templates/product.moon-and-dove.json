@@ -18,7 +18,7 @@
         "59e61ae6-332c-4ebd-a61e-dc52d4f24258": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0719\/3706\/5245\/files\/Roberts_Logo_75th-colour.png?v=1695168593\"\nwidth=75% style=\"padding-left: 25%\" alt=\"Image description here\">"
+            "custom_liquid": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0719\/3706\/5245\/files\/moon_and_dove.webp?v=1695168593\"\nwidth=75% style=\"padding-left: 25%\" alt=\"Image description here\">"
           }
         },
         "9b03f621-d5ed-4e97-8447-05542e5ca4bb": {
@@ -90,30 +90,6 @@
     },
     "multicolumn": {
       "type": "multicolumn",
-      "blocks": {
-        "column-0": {
-          "type": "column",
-          "settings": {
-            "title": "Shipping",
-            "text": "<p>Local pickup is preferred. Delivery by the artist within Toronto may be arranged. Specialized shipping arrangements may be made upon purchase.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column-1": {
-          "type": "column",
-          "settings": {
-            "title": "Returns",
-            "text": "<p>Purchases may be returned within 30 days for a 90% refund. See policy for full details.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column-0",
-        "column-1"
-      ],
       "settings": {
         "title": "",
         "heading_size": "h1",
