@@ -15,16 +15,16 @@
           "settings": {
           }
         },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
         "a46ebf7d-4ae7-4cea-89ff-d279754fa4ce": {
           "type": "text",
           "settings": {
             "text": "Available at <a href=\"https:\/\/koymangalleries.com\/artist\/eliza-kozurno\/\" target=\"_blank\" title=\"Eliza's paintings at Koyman Galleries\">Koyman Galleries<\/a>",
             "text_style": "body"
-          }
-        },
-        "price": {
-          "type": "price",
-          "settings": {
           }
         },
         "variant_picker": {
@@ -64,8 +64,8 @@
       "block_order": [
         "vendor",
         "title",
-        "a46ebf7d-4ae7-4cea-89ff-d279754fa4ce",
         "price",
+        "a46ebf7d-4ae7-4cea-89ff-d279754fa4ce",
         "variant_picker",
         "share",
         "description",
@@ -108,7 +108,6 @@
     },
     "image-with-text": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "text": {
           "type": "text",
@@ -129,6 +128,7 @@
         "text",
         "heading"
       ],
+      "disabled": true,
       "settings": {
         "height": "adapt",
         "desktop_image_width": "large",
@@ -208,7 +208,6 @@
     },
     "image-with-text-2": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -229,6 +228,7 @@
         "heading",
         "text"
       ],
+      "disabled": true,
       "settings": {
         "height": "adapt",
         "desktop_image_width": "medium",
