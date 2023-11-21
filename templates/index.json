@@ -371,6 +371,7 @@
         "template--17932971475229__af47e7c8-5c55-485a-ac02-c6d8ab1dd750-share-1",
         "706e0394-0da1-4e6d-a79e-1ba9bfd83b48"
       ],
+      "disabled": true,
       "settings": {
         "product": "still-life-with-war-news",
         "color_scheme": "background-1",
@@ -384,6 +385,55 @@
         "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "809cdd15-34a6-4aad-8159-8a777402039c": {
+      "type": "image-banner",
+      "blocks": {
+        "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "AGM 3rd Annual Juried Show of Visual Arts",
+            "heading_size": "h1"
+          }
+        },
+        "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "On display from November 23, 2023 to January 14, 2024",
+            "text_style": "caption-with-letter-spacing"
+          }
+        },
+        "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Still Life with War News",
+            "button_link_1": "shopify:\/\/products\/still-life-with-war-news",
+            "button_style_secondary_1": true,
+            "button_label_2": "Art Gallery of Mississauga",
+            "button_link_2": "https:\/\/www.artgalleryofmississauga.com\/",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-heading-1",
+        "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-text-1",
+        "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/war_news.jpg",
+        "image_2": "shopify:\/\/shop_images\/AGM_Show.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": true
       }
     },
     "f1f69d24-99e8-4715-9a48-aadb39d6097a": {
@@ -628,55 +678,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "809cdd15-34a6-4aad-8159-8a777402039c": {
-      "type": "image-banner",
-      "blocks": {
-        "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "AGM 3rd Annual Juried Show of Visual Arts",
-            "heading_size": "h1"
-          }
-        },
-        "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "On display from November 23, 2023 to January 14, 2024",
-            "text_style": "caption-with-letter-spacing"
-          }
-        },
-        "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-buttons-1": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Still Life with War News",
-            "button_link_1": "shopify:\/\/products\/still-life-with-war-news",
-            "button_style_secondary_1": true,
-            "button_label_2": "Art Gallery of Mississauga",
-            "button_link_2": "https:\/\/www.artgalleryofmississauga.com\/",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-heading-1",
-        "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-text-1",
-        "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-buttons-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/war_news.jpg",
-        "image_2": "shopify:\/\/shop_images\/AGM_Show.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
     }
   },
   "order": [
@@ -687,13 +688,13 @@
     "featured-collection",
     "9e26abbb-cd1a-4576-96dc-77c53bfef5a1",
     "af47e7c8-5c55-485a-ac02-c6d8ab1dd750",
+    "809cdd15-34a6-4aad-8159-8a777402039c",
     "f1f69d24-99e8-4715-9a48-aadb39d6097a",
     "rich-text-2",
     "featured-collection-1",
     "rich-text-3",
     "newslettter",
     "image-with-text-2",
-    "a272499a-5b48-4b77-8372-01a73f3274d8",
-    "809cdd15-34a6-4aad-8159-8a777402039c"
+    "a272499a-5b48-4b77-8372-01a73f3274d8"
   ]
 }
