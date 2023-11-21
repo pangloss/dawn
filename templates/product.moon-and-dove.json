@@ -21,6 +21,11 @@
             "custom_liquid": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0719\/3706\/5245\/files\/moon_and_dove.webp?v=1695168593\"\nwidth=75% style=\"padding-left: 25%\" alt=\"Image description here\">"
           }
         },
+        "d59bd2a2-d165-440f-8441-6eda67ba5caa": {
+          "type": "price",
+          "settings": {
+          }
+        },
         "9b03f621-d5ed-4e97-8447-05542e5ca4bb": {
           "type": "text",
           "settings": {
@@ -66,6 +71,7 @@
         "vendor",
         "title",
         "59e61ae6-332c-4ebd-a61e-dc52d4f24258",
+        "d59bd2a2-d165-440f-8441-6eda67ba5caa",
         "9b03f621-d5ed-4e97-8447-05542e5ca4bb",
         "variant_picker",
         "share",
