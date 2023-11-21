@@ -1,77 +1,56 @@
 {
   "sections": {
-    "slideshow": {
-      "type": "slideshow",
+    "809cdd15-34a6-4aad-8159-8a777402039c": {
+      "type": "image-banner",
       "blocks": {
-        "slide-2": {
-          "type": "slide",
+        "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-heading-1": {
+          "type": "heading",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_5114_copy.jpg",
-            "heading": "",
-            "heading_size": "medium",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
+            "heading": "AGM 3rd Annual Juried Show of Visual Arts",
+            "heading_size": "h1"
           }
         },
-        "slide-0": {
-          "type": "slide",
+        "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-text-1": {
+          "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/7R36764_edited.jpg",
-            "heading": "",
-            "heading_size": "medium",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
+            "text": "On display from November 23, 2023 to January 14, 2024",
+            "text_style": "caption-with-letter-spacing"
           }
         },
-        "slide-1": {
-          "type": "slide",
+        "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-buttons-1": {
+          "type": "buttons",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_5114.jpg",
-            "heading": "",
-            "heading_size": "h0",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "top-left",
-            "show_text_box": false,
-            "text_alignment": "left",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
+            "button_label_1": "Still Life with War News",
+            "button_link_1": "shopify:\/\/products\/still-life-with-war-news",
+            "button_style_secondary_1": true,
+            "button_label_2": "Art Gallery of Mississauga",
+            "button_link_2": "https:\/\/www.artgalleryofmississauga.com\/",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "slide-2",
-        "slide-0",
-        "slide-1"
+        "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-heading-1",
+        "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-text-1",
+        "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-buttons-1"
+      ],
+      "custom_css": [
+        ".banner__box {opacity: 0.8; border-radius: 35px;}",
+        ".banner__heading,.banner__text {text-align: left;}"
       ],
       "settings": {
-        "layout": "full_bleed",
-        "slide_height": "medium",
-        "slider_visual": "dots",
-        "auto_rotate": true,
-        "change_slides_speed": 9,
+        "image": "shopify:\/\/shop_images\/war_news.jpg",
+        "image_2": "shopify:\/\/shop_images\/AGM_Show.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "top-right",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
         "image_behavior": "none",
-        "show_text_below": false,
-        "accessibility_info": ""
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "2f3c6529-098a-4827-8058-15d0353fb716": {
@@ -234,6 +213,80 @@
         "padding_bottom": 36
       }
     },
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-2": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_5114_copy.jpg",
+            "heading": "",
+            "heading_size": "medium",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/7R36764_edited.jpg",
+            "heading": "",
+            "heading_size": "medium",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_5114.jpg",
+            "heading": "",
+            "heading_size": "h0",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "top-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide-2",
+        "slide-0",
+        "slide-1"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 9,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": ""
+      }
+    },
     "rich-text": {
       "type": "rich-text",
       "blocks": {
@@ -385,59 +438,6 @@
         "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "809cdd15-34a6-4aad-8159-8a777402039c": {
-      "type": "image-banner",
-      "blocks": {
-        "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "AGM 3rd Annual Juried Show of Visual Arts",
-            "heading_size": "h1"
-          }
-        },
-        "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "On display from November 23, 2023 to January 14, 2024",
-            "text_style": "caption-with-letter-spacing"
-          }
-        },
-        "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-buttons-1": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Still Life with War News",
-            "button_link_1": "shopify:\/\/products\/still-life-with-war-news",
-            "button_style_secondary_1": true,
-            "button_label_2": "Art Gallery of Mississauga",
-            "button_link_2": "https:\/\/www.artgalleryofmississauga.com\/",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-heading-1",
-        "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-text-1",
-        "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-buttons-1"
-      ],
-      "custom_css": [
-        ".banner__box {opacity: 0.8; border-radius: 35px;}",
-        ".banner__heading,.banner__text {text-align: left;}"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/war_news.jpg",
-        "image_2": "shopify:\/\/shop_images\/AGM_Show.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "top-right",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
       }
     },
     "f1f69d24-99e8-4715-9a48-aadb39d6097a": {
@@ -685,14 +685,14 @@
     }
   },
   "order": [
-    "slideshow",
+    "809cdd15-34a6-4aad-8159-8a777402039c",
     "2f3c6529-098a-4827-8058-15d0353fb716",
     "fa746708-c315-4361-84d3-411ebb4a1e5f",
+    "slideshow",
     "rich-text",
     "featured-collection",
     "9e26abbb-cd1a-4576-96dc-77c53bfef5a1",
     "af47e7c8-5c55-485a-ac02-c6d8ab1dd750",
-    "809cdd15-34a6-4aad-8159-8a777402039c",
     "f1f69d24-99e8-4715-9a48-aadb39d6097a",
     "rich-text-2",
     "featured-collection-1",
