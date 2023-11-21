@@ -18,7 +18,7 @@
         "59e61ae6-332c-4ebd-a61e-dc52d4f24258": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0719\/3706\/5245\/files\/Roberts_Logo_75th-colour.png?v=1695168593\"\nwidth=75% style=\"padding-left: 25%\" alt=\"Image description here\">"
+            "custom_liquid": "<img src=\"https:\/\/elizakozurno.com\/cdn\/shop\/files\/AGM_Show.jpg?v=1698031645&width=1500?v=1695168593\"\nwidth=75% style=\"padding-left: 25%\" alt=\"Image description here\">"
           }
         },
         "53336b31-a540-4383-a48c-0db0e9550a33": {
@@ -29,7 +29,7 @@
         "9b03f621-d5ed-4e97-8447-05542e5ca4bb": {
           "type": "text",
           "settings": {
-            "text": "This piece is available at <a href=\"https:\/\/www.robertsgallery.net\/gallery-artist\/eliza-kozurno\">Roberts Gallery<\/a> in Toronto.",
+            "text": "On display at the <a href=\"https:\/\/www.artgalleryofmississauga.com\/\" target=\"_blank\" title=\"https:\/\/www.artgalleryofmississauga.com\/\">Art Gallery of Mississauga<\/a>.",
             "text_style": "body"
           }
         },
