@@ -46,7 +46,7 @@
         "template--21352538112285__d8c7e9f7-e269-4b41-aa71-a55cb1681939-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<em>Dwelling in Place, <\/em>Earls Court Gallery",
+            "heading": "<a href=\"https:\/\/www.earlscourtart.com\/collections\/dwelling-in-place\" title=\"https:\/\/www.earlscourtart.com\/collections\/dwelling-in-place\"><em>Dwelling in Place, <\/em>Earls Court Gallery<\/a>",
             "heading_size": "h1"
           }
         },
@@ -57,11 +57,20 @@
             "text_style": "caption-with-letter-spacing",
             "text_size": "large"
           }
+        },
+        "f666db1f-8e9b-4182-abbd-3a6e1510a693": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
         }
       },
       "block_order": [
         "template--21352538112285__d8c7e9f7-e269-4b41-aa71-a55cb1681939-heading-1",
-        "194825db-a67b-4cb9-99c8-4c17223cd381"
+        "194825db-a67b-4cb9-99c8-4c17223cd381",
+        "f666db1f-8e9b-4182-abbd-3a6e1510a693"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Dwelling_In_Place.jpg",
@@ -84,7 +93,7 @@
         "template--21352538112285__3f3ef6cf-a734-462b-b548-5392715f71bc-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<em>3rd Annual Juried Exhibition<\/em>, Art Gallery of Mississauga",
+            "heading": "<a href=\"https:\/\/www.artgalleryofmississauga.com\/exhibitions\/\" title=\"https:\/\/www.artgalleryofmississauga.com\/exhibitions\/\"><em>3rd Annual Juried Exhibition<\/em>, Art Gallery of Mississauga<\/a>",
             "heading_size": "h1"
           }
         },
