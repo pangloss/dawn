@@ -153,6 +153,7 @@
         },
         "817be3dd-eb2f-474c-ab2a-eb3e8f1b372d": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/AGM_cropped.jpg",
             "title": "Art Gallery of Mississauga Juried Show, Nov. 21 to Jan. 14",
@@ -205,11 +206,10 @@
         },
         "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-1": {
           "type": "column",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/artist_project_logo.png",
-            "title": "April 13 to 16, 2023",
-            "text": "<p>Thank you to all the friends new and old who came to see me at The Artist Project.<\/p>",
+            "title": "April 11 to 14, 2024",
+            "text": "<p>Eliza will be at the Artist Project again in 2024!<\/p>",
             "link_label": "More Information",
             "link": "shopify:\/\/pages\/the-artist-project"
           }
@@ -486,6 +486,7 @@
         "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-text-1",
         "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-buttons-1"
       ],
+      "disabled": true,
       "custom_css": [
         ".banner__box {opacity: 0.8; border-radius: 35px;}",
         ".banner__heading,.banner__text {text-align: left;}"
