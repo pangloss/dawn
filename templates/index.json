@@ -164,6 +164,7 @@
         },
         "c7e8e13c-27f3-49c0-87d1-6dd91f4d687a": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/earls_court.jpg",
             "title": "Earls Court Gallery, Hamilton, Nov 16 - Jan 3",
