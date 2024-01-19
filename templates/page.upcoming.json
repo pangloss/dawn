@@ -40,13 +40,89 @@
         "show_text_below": true
       }
     },
+    "acd5a2a9-d9e2-4cb6-be1c-78a2cb8fffd0": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21352538112285__acd5a2a9-d9e2-4cb6-be1c-78a2cb8fffd0-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<a href=\"https:\/\/www.robertsgallery.net\/\" title=\"https:\/\/www.robertsgallery.net\/\"><em>Artists' Choice 2024<\/em>, Roberts Gallery<\/a>",
+            "heading_size": "h1"
+          }
+        },
+        "2c30581d-5414-41d2-b6db-fc1f1c438601": {
+          "type": "caption",
+          "settings": {
+            "caption": "Opening January 27",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        }
+      },
+      "block_order": [
+        "template--21352538112285__acd5a2a9-d9e2-4cb6-be1c-78a2cb8fffd0-heading-1",
+        "2c30581d-5414-41d2-b6db-fc1f1c438601"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Roberts_Logo_75th-colour.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e0272d39-32f1-4326-bddf-a53d480cda20": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21352538112285__e0272d39-32f1-4326-bddf-a53d480cda20-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<a href=\"https:\/\/theartistproject.com\/home\/\" title=\"https:\/\/theartistproject.com\/home\/\">The Artist Project 2024<\/a>",
+            "heading_size": "h1"
+          }
+        },
+        "d0daaf72-889d-458f-b69c-dad16abf0807": {
+          "type": "caption",
+          "settings": {
+            "caption": "April 11 - 14, 2024",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        }
+      },
+      "block_order": [
+        "template--21352538112285__e0272d39-32f1-4326-bddf-a53d480cda20-heading-1",
+        "d0daaf72-889d-458f-b69c-dad16abf0807"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/artist_project_logo.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
     "d8c7e9f7-e269-4b41-aa71-a55cb1681939": {
       "type": "image-with-text",
       "blocks": {
         "template--21352538112285__d8c7e9f7-e269-4b41-aa71-a55cb1681939-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<a href=\"https:\/\/www.earlscourtart.com\/collections\/dwelling-in-place\" title=\"https:\/\/www.earlscourtart.com\/collections\/dwelling-in-place\"><em>Dwelling in Place, <\/em>Earls Court Gallery<\/a>",
+            "heading": "",
             "heading_size": "h1"
           }
         },
@@ -74,7 +150,6 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/Dwelling_In_Place.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -125,82 +200,6 @@
         "mobile_content_alignment": "left",
         "padding_top": 0,
         "padding_bottom": 0
-      }
-    },
-    "acd5a2a9-d9e2-4cb6-be1c-78a2cb8fffd0": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--21352538112285__acd5a2a9-d9e2-4cb6-be1c-78a2cb8fffd0-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "<a href=\"https:\/\/www.robertsgallery.net\/\" title=\"https:\/\/www.robertsgallery.net\/\"><em>Artists' Choice 2024<\/em>, Roberts Gallery<\/a>",
-            "heading_size": "h1"
-          }
-        },
-        "2c30581d-5414-41d2-b6db-fc1f1c438601": {
-          "type": "caption",
-          "settings": {
-            "caption": "Opening January 27",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "large"
-          }
-        }
-      },
-      "block_order": [
-        "template--21352538112285__acd5a2a9-d9e2-4cb6-be1c-78a2cb8fffd0-heading-1",
-        "2c30581d-5414-41d2-b6db-fc1f1c438601"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Roberts_Logo_75th-colour.png",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "e0272d39-32f1-4326-bddf-a53d480cda20": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--21352538112285__e0272d39-32f1-4326-bddf-a53d480cda20-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "<a href=\"https:\/\/theartistproject.com\/home\/\" title=\"https:\/\/theartistproject.com\/home\/\">Artist Project 2024<\/a>",
-            "heading_size": "h1"
-          }
-        },
-        "d0daaf72-889d-458f-b69c-dad16abf0807": {
-          "type": "caption",
-          "settings": {
-            "caption": "April 11 - 14, 2024",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "large"
-          }
-        }
-      },
-      "block_order": [
-        "template--21352538112285__e0272d39-32f1-4326-bddf-a53d480cda20-heading-1",
-        "d0daaf72-889d-458f-b69c-dad16abf0807"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/artist_project_logo.png",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 16,
-        "padding_bottom": 16
       }
     },
     "476853a8-bc86-400a-a4a5-c6331376d37d": {
@@ -264,7 +263,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/earls_court.jpg",
             "title": "Dwelling in Place Group Show",
-            "text": "<p>Thank you to Earls Court Gallery for a lovely exhibition! It was wonderful to meet the team and talented co-exhibitors.<\/p>",
+            "text": "<p>November 16, 2023 –– January 6, 2024<\/p><p>Thank you to Earls Court Gallery for a lovely exhibition! It was wonderful to meet the team and talented co-exhibitors.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -308,10 +307,10 @@
   "order": [
     "main",
     "361d4d5d-2962-41c3-9e19-2d794da071ee",
-    "d8c7e9f7-e269-4b41-aa71-a55cb1681939",
-    "3f3ef6cf-a734-462b-b548-5392715f71bc",
     "acd5a2a9-d9e2-4cb6-be1c-78a2cb8fffd0",
     "e0272d39-32f1-4326-bddf-a53d480cda20",
+    "d8c7e9f7-e269-4b41-aa71-a55cb1681939",
+    "3f3ef6cf-a734-462b-b548-5392715f71bc",
     "476853a8-bc86-400a-a4a5-c6331376d37d",
     "ff9b1c52-a209-4155-a2a4-28cbba4b0fab"
   ]
