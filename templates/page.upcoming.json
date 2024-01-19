@@ -72,6 +72,7 @@
         "194825db-a67b-4cb9-99c8-4c17223cd381",
         "f666db1f-8e9b-4182-abbd-3a6e1510a693"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Dwelling_In_Place.jpg",
         "height": "adapt",
@@ -110,6 +111,7 @@
         "template--21352538112285__3f3ef6cf-a734-462b-b548-5392715f71bc-heading-1",
         "560ed39a-72ee-42dd-a2d6-fc658e919746"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/AGM_Show.jpg",
         "height": "adapt",
@@ -256,12 +258,34 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_cmRtwJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/earls_court.jpg",
+            "title": "Dwelling in Place Group Show",
+            "text": "<p>Thank you to Earls Court Gallery for a lovely exhibition! It was wonderful to meet the team and talented co-exhibitors.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_iaQTNU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AGM_Show.jpg",
+            "title": "3rd Annual Juried Exhibition",
+            "text": "<p>November 21, 2023 - January 14, 2024<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "template--21352538112285__ff9b1c52-a209-4155-a2a4-28cbba4b0fab-column-1",
         "template--21352538112285__ff9b1c52-a209-4155-a2a4-28cbba4b0fab-column-2",
-        "template--21352538112285__ff9b1c52-a209-4155-a2a4-28cbba4b0fab-column-3"
+        "template--21352538112285__ff9b1c52-a209-4155-a2a4-28cbba4b0fab-column-3",
+        "column_cmRtwJ",
+        "column_iaQTNU"
       ],
       "settings": {
         "title": "",
