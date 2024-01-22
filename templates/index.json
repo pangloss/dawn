@@ -532,6 +532,9 @@
     },
     "featured-collection-1": {
       "type": "featured-collection",
+      "custom_css": [
+        ".price {display: none}"
+      ],
       "settings": {
         "title": "",
         "heading_size": "h1",
