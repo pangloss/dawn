@@ -2,9 +2,13 @@
   "sections": {
     "main": {
       "type": "main-search",
+      "custom_css": [
+        ".price {display: none}"
+      ],
       "settings": {
         "columns_desktop": 4,
         "image_ratio": "adapt",
+        "image_shape": "default",
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
