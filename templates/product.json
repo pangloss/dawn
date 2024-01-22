@@ -191,6 +191,7 @@
         "text",
         "85a73d75-a7fc-4bad-9a38-ec0b2ba6a2b5"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/reflections_1.jpg",
         "height": "small",
@@ -208,6 +209,7 @@
     },
     "related-products": {
       "type": "related-products",
+      "disabled": true,
       "settings": {
         "heading": "You may also like",
         "heading_size": "h1",
