@@ -210,7 +210,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/artist_project_logo.png",
             "title": "April 11 to 14, 2024",
-            "text": "<p>Eliza will be at the Artist Project again in 2024!<\/p>",
+            "text": "<p>Eliza will be at the Artist Project again this year!<\/p><p>The event is a wonderful opportunity to meet and support many excellent artists.<\/p>",
             "link_label": "More Information",
             "link": "shopify:\/\/pages\/the-artist-project"
           }
@@ -242,7 +242,7 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 2,
+        "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
