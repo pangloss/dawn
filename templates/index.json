@@ -533,7 +533,7 @@
     "featured-collection-1": {
       "type": "featured-collection",
       "custom_css": [
-        ".price {display: none}"
+        ".price {display: none;}"
       ],
       "settings": {
         "title": "",
@@ -681,6 +681,9 @@
     },
     "a272499a-5b48-4b77-8372-01a73f3274d8": {
       "type": "featured-collection",
+      "custom_css": [
+        ".price {display: none}"
+      ],
       "settings": {
         "title": "Patterns & Textures",
         "heading_size": "h2",
