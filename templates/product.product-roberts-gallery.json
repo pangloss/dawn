@@ -23,6 +23,7 @@
         },
         "53336b31-a540-4383-a48c-0db0e9550a33": {
           "type": "price",
+          "disabled": true,
           "settings": {
           }
         },
