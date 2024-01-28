@@ -121,6 +121,13 @@
     "e3c84bd7-ff5e-4e77-9223-45f068d04475": {
       "type": "collage",
       "blocks": {
+        "b132cbc9-6f42-4ce9-99f8-6f55c9e88bab": {
+          "type": "product",
+          "settings": {
+            "product": "copy-of-still-life-with-orchid",
+            "second_image": false
+          }
+        },
         "template--17945618612509__e3c84bd7-ff5e-4e77-9223-45f068d04475-16820569486ac2dc67-1": {
           "type": "product",
           "settings": {
@@ -134,19 +141,12 @@
             "product": "still-life-with-monstera",
             "second_image": false
           }
-        },
-        "b132cbc9-6f42-4ce9-99f8-6f55c9e88bab": {
-          "type": "product",
-          "settings": {
-            "product": "still-life-with-eucalyptus",
-            "second_image": false
-          }
         }
       },
       "block_order": [
+        "b132cbc9-6f42-4ce9-99f8-6f55c9e88bab",
         "template--17945618612509__e3c84bd7-ff5e-4e77-9223-45f068d04475-16820569486ac2dc67-1",
-        "02ec9bb1-14c5-49f3-9f73-c3ad69a40f68",
-        "b132cbc9-6f42-4ce9-99f8-6f55c9e88bab"
+        "02ec9bb1-14c5-49f3-9f73-c3ad69a40f68"
       ],
       "settings": {
         "heading": "",
