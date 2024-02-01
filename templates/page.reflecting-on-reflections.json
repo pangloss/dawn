@@ -148,6 +148,9 @@
         "template--17945618612509__e3c84bd7-ff5e-4e77-9223-45f068d04475-16820569486ac2dc67-1",
         "02ec9bb1-14c5-49f3-9f73-c3ad69a40f68"
       ],
+      "custom_css": [
+        ".price {display: none;}"
+      ],
       "settings": {
         "heading": "",
         "heading_size": "h1",
