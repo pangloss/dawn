@@ -21,7 +21,7 @@
         "template--17954760556829__000973f5-cbff-4e5a-b754-b5fe3f722dec-1676950845d09322a9-1": {
           "type": "text",
           "settings": {
-            "text": "<strong>April 13-16<\/strong>, 2023 at <strong>Booth 418<\/strong> at the Better Living Center, Exhibition Place, Toronto.",
+            "text": "<strong>April 11-13<\/strong>, 2022 at <strong>Booth ???<\/strong> at the Better Living Center, Exhibition Place, Toronto.",
             "text_style": "body"
           }
         },
@@ -107,7 +107,7 @@
     "86791baf-8e5e-42bb-9987-fa204a034add": {
       "type": "featured-collection",
       "custom_css": [
-        ".price {display: none}"
+        ".price {display: none;}"
       ],
       "settings": {
         "title": "Pieces I'll show at the event",
