@@ -47,9 +47,9 @@
         ".banner__heading,.banner__text {text-align: left;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Artist_Project_Highlights.jpg",
+        "image": "shopify:\/\/shop_images\/IMG-0816.heic",
         "image_overlay_opacity": 0,
-        "image_height": "large",
+        "image_height": "small",
         "desktop_content_position": "bottom-right",
         "show_text_box": true,
         "desktop_content_alignment": "left",
@@ -81,11 +81,22 @@
             "link_label": "Directions & Parking",
             "link": "https:\/\/www.explace.on.ca\/visiting-us\/getting-here\/"
           }
+        },
+        "column_cDMbfn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Artist_Project_Highlights_3.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "template--18299859403037__6a3c3427-b28d-497d-aafc-45288211f400-1680388992dfefda70-0",
-        "template--18299859403037__6a3c3427-b28d-497d-aafc-45288211f400-1680388992dfefda70-1"
+        "template--18299859403037__6a3c3427-b28d-497d-aafc-45288211f400-1680388992dfefda70-1",
+        "column_cDMbfn"
       ],
       "settings": {
         "title": "",
