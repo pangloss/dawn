@@ -106,6 +106,9 @@
     },
     "86791baf-8e5e-42bb-9987-fa204a034add": {
       "type": "featured-collection",
+      "custom_css": [
+        ".price {display: none}"
+      ],
       "settings": {
         "title": "Pieces I'll show at the event",
         "heading_size": "h2",
