@@ -47,7 +47,7 @@
         ".banner__heading,.banner__text {text-align: left;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Artist_Project_Screenshot_Wide.jpg",
+        "image": "shopify:\/\/shop_images\/Artist_Project_Screenshot.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-right",
