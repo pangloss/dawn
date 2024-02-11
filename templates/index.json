@@ -212,7 +212,7 @@
             "title": "April 11 to 14, 2024",
             "text": "<p>Eliza will be at the Artist Project again this year!<\/p><p>The event is a wonderful opportunity to meet and support many excellent artists.<\/p>",
             "link_label": "More Information",
-            "link": "shopify:\/\/pages\/the-artist-project"
+            "link": "shopify:\/\/pages\/the-artist-project-2024"
           }
         },
         "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-0": {
@@ -682,7 +682,7 @@
     "a272499a-5b48-4b77-8372-01a73f3274d8": {
       "type": "featured-collection",
       "custom_css": [
-        ".price {display: none}"
+        ".price {display: none;}"
       ],
       "settings": {
         "title": "Patterns & Textures",
