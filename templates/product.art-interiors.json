@@ -17,11 +17,13 @@
         },
         "price": {
           "type": "price",
+          "disabled": true,
           "settings": {
           }
         },
         "a46ebf7d-4ae7-4cea-89ff-d279754fa4ce": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "Available at <a href=\"https:\/\/www.artinteriors.ca\/artists\/eliza-kozurno\" target=\"_blank\" title=\"https:\/\/www.artinteriors.ca\/artists\/eliza-kozurno\">Art Interiors<\/a>",
             "text_style": "body"
