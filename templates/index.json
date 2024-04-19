@@ -86,6 +86,7 @@
         },
         "slide-0": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/7R36764_edited.jpg",
             "heading": "",
