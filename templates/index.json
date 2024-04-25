@@ -6,7 +6,7 @@
         "template--17932971475229__2f3c6529-098a-4827-8058-15d0353fb716-column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/SG-Logo-Black.png",
+            "image": "shopify:\/\/shop_images\/JDAEK-700x438.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -16,8 +16,8 @@
         "template--17932971475229__2f3c6529-098a-4827-8058-15d0353fb716-column-3": {
           "type": "column",
           "settings": {
-            "title": "Opening August 2, 4-7pm",
-            "text": "<p>Join me for the opening on Aug 2nd or come any time to see a selection of my paintings in person.<br\/><br\/><a href=\"https:\/\/www.summergracegallery.com\/event\/upcoming-exhibition-reflecting-on-reflections\/\" target=\"_blank\" title=\"https:\/\/www.summergracegallery.com\/event\/upcoming-exhibition-reflecting-on-reflections\/\">Show runs <strong>August 2nd to 27th<\/strong><\/a>.<br\/><br\/>Wine, snacks and conversation at the opening, August 2nd, 4-7pm!<br\/><br\/>350 Lakeshore Road East, Unit 2<br\/>Oakville, Ontario (<a href=\"https:\/\/goo.gl\/maps\/BhaYUJxEfK7f1T1K8\" title=\"https:\/\/goo.gl\/maps\/BhaYUJxEfK7f1T1K8\">map<\/a>)<\/p>",
+            "title": "Roberts Gallery",
+            "text": "<h2><strong>Eliza Kozurno & John D. Anderson <\/strong><\/h2><p>Join us for the opening on May 4th, 1-4pm.<br\/><a href=\"https:\/\/www.robertsgallery.net\/exhibition\/john-david-anderson-eliza-kozurno\/\" target=\"_blank\">Show runs <strong>May 2nd to 25th<\/strong><\/a>.<br\/><br\/>I've been working hard on several new works which will be unveiled at this show. This is the first time I've painted specially for an exhibition and I am very excited to finally unveil it!<br\/><br\/>631 Dupont Street, Toronto Ontario<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -27,9 +27,8 @@
         "template--17932971475229__2f3c6529-098a-4827-8058-15d0353fb716-column-2",
         "template--17932971475229__2f3c6529-098a-4827-8058-15d0353fb716-column-3"
       ],
-      "disabled": true,
       "settings": {
-        "title": "Solo Exhibition",
+        "title": "Next Exhibition",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -43,6 +42,60 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "809cdd15-34a6-4aad-8159-8a777402039c": {
+      "type": "image-banner",
+      "blocks": {
+        "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "AGM 3rd Annual Juried Show of Visual Arts",
+            "heading_size": "h1"
+          }
+        },
+        "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "On display from November 23, 2023 to January 14, 2024",
+            "text_style": "caption-with-letter-spacing"
+          }
+        },
+        "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Still Life with War News",
+            "button_link_1": "shopify:\/\/products\/still-life-with-war-news",
+            "button_style_secondary_1": true,
+            "button_label_2": "Art Gallery of Mississauga",
+            "button_link_2": "https:\/\/www.artgalleryofmississauga.com\/",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-heading-1",
+        "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-text-1",
+        "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-buttons-1"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".banner__box {opacity: 0.8; border-radius: 35px;}",
+        ".banner__heading,.banner__text {text-align: left;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/war_news.jpg",
+        "image_2": "shopify:\/\/shop_images\/AGM_Show.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "top-right",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "slideshow": {
@@ -143,6 +196,16 @@
             "link": "https:\/\/www.artgalleryofmississauga.com\/"
           }
         },
+        "column_VbfbXi": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/JDAEK-700x438.jpg",
+            "title": "John David Anderson & Eliza Kozurno Joint Exhibition",
+            "text": "<p>On display at Roberts Gallery from May 2 – 25th.<\/p><p>My latest work will be on display in Roberts beautiful space, including the premiere of several new works! <\/p>",
+            "link_label": "Exhibition Details",
+            "link": "https:\/\/www.robertsgallery.net\/exhibition\/john-david-anderson-eliza-kozurno\/"
+          }
+        },
         "c7e8e13c-27f3-49c0-87d1-6dd91f4d687a": {
           "type": "column",
           "disabled": true,
@@ -152,16 +215,6 @@
             "text": "<p>Eliza will be showing 6 pieces as part of the Dwelling in Place group show at Earls Court Gallery.<\/p>",
             "link_label": "Exhibition Details",
             "link": "https:\/\/www.earlscourtart.com\/collections\/dwelling-in-place"
-          }
-        },
-        "column_VbfbXi": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/JDAEK-700x438.jpg",
-            "title": "John David Anderson & Eliza Kozurno Joint Exhibition",
-            "text": "<p>On display at Roberts Gallery from May 2 – 25th.<\/p><p>My latest work will be on display in Roberts beautiful space, including the premiere of several new works! <\/p>",
-            "link_label": "Exhibition Details",
-            "link": "https:\/\/www.robertsgallery.net\/exhibition\/john-david-anderson-eliza-kozurno\/"
           }
         },
         "007c7095-1ac6-424e-a567-eaba3f23efd9": {
@@ -222,8 +275,8 @@
       "block_order": [
         "c46deeb5-d5ca-4e5e-93db-79d9032d75db",
         "817be3dd-eb2f-474c-ab2a-eb3e8f1b372d",
-        "c7e8e13c-27f3-49c0-87d1-6dd91f4d687a",
         "column_VbfbXi",
+        "c7e8e13c-27f3-49c0-87d1-6dd91f4d687a",
         "007c7095-1ac6-424e-a567-eaba3f23efd9",
         "79d14df6-e54a-4d9f-ab70-2e42be5d5215",
         "68c8067b-c8eb-487e-bc63-9a77948acebf",
@@ -446,60 +499,6 @@
         "padding_bottom": 36
       }
     },
-    "809cdd15-34a6-4aad-8159-8a777402039c": {
-      "type": "image-banner",
-      "blocks": {
-        "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "AGM 3rd Annual Juried Show of Visual Arts",
-            "heading_size": "h1"
-          }
-        },
-        "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "On display from November 23, 2023 to January 14, 2024",
-            "text_style": "caption-with-letter-spacing"
-          }
-        },
-        "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-buttons-1": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Still Life with War News",
-            "button_link_1": "shopify:\/\/products\/still-life-with-war-news",
-            "button_style_secondary_1": true,
-            "button_label_2": "Art Gallery of Mississauga",
-            "button_link_2": "https:\/\/www.artgalleryofmississauga.com\/",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-heading-1",
-        "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-text-1",
-        "template--17932971475229__809cdd15-34a6-4aad-8159-8a777402039c-buttons-1"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".banner__box {opacity: 0.8; border-radius: 35px;}",
-        ".banner__heading,.banner__text {text-align: left;}"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/war_news.jpg",
-        "image_2": "shopify:\/\/shop_images\/AGM_Show.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "desktop_content_position": "top-right",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "rich-text-2": {
       "type": "rich-text",
       "blocks": {
@@ -706,6 +705,7 @@
   },
   "order": [
     "2f3c6529-098a-4827-8058-15d0353fb716",
+    "809cdd15-34a6-4aad-8159-8a777402039c",
     "slideshow",
     "fa746708-c315-4361-84d3-411ebb4a1e5f",
     "rich-text",
@@ -713,7 +713,6 @@
     "9e26abbb-cd1a-4576-96dc-77c53bfef5a1",
     "af47e7c8-5c55-485a-ac02-c6d8ab1dd750",
     "f1f69d24-99e8-4715-9a48-aadb39d6097a",
-    "809cdd15-34a6-4aad-8159-8a777402039c",
     "rich-text-2",
     "featured-collection-1",
     "rich-text-3",
