@@ -84,25 +84,6 @@
             "text_alignment_mobile": "center"
           }
         },
-        "slide-0": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/7R36764_edited.jpg",
-            "heading": "",
-            "heading_size": "medium",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
         "slide-1": {
           "type": "slide",
           "settings": {
@@ -125,7 +106,6 @@
       "block_order": [
         "53637423-3556-4aeb-9229-a82f650a6eb8",
         "slide-2",
-        "slide-0",
         "slide-1"
       ],
       "settings": {
@@ -174,6 +154,16 @@
             "link": "https:\/\/www.earlscourtart.com\/collections\/dwelling-in-place"
           }
         },
+        "column_VbfbXi": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/JDAEK-700x438.jpg",
+            "title": "John David Anderson & Eliza Kozurno Joint Exhibition",
+            "text": "<p>On display at Roberts Gallery from May 2 – 25th.<\/p><p>My latest work will be on display in Roberts beautiful space, including the premiere of several new works! <\/p>",
+            "link_label": "Exhibition Details",
+            "link": "https:\/\/www.robertsgallery.net\/exhibition\/john-david-anderson-eliza-kozurno\/"
+          }
+        },
         "007c7095-1ac6-424e-a567-eaba3f23efd9": {
           "type": "column",
           "settings": {
@@ -208,6 +198,7 @@
         },
         "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-1": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/artist_project_logo.png",
             "title": "April 11 to 14, 2024",
@@ -232,6 +223,7 @@
         "c46deeb5-d5ca-4e5e-93db-79d9032d75db",
         "817be3dd-eb2f-474c-ab2a-eb3e8f1b372d",
         "c7e8e13c-27f3-49c0-87d1-6dd91f4d687a",
+        "column_VbfbXi",
         "007c7095-1ac6-424e-a567-eaba3f23efd9",
         "79d14df6-e54a-4d9f-ab70-2e42be5d5215",
         "68c8067b-c8eb-487e-bc63-9a77948acebf",
