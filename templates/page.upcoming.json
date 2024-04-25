@@ -63,6 +63,7 @@
         "template--21352538112285__e0272d39-32f1-4326-bddf-a53d480cda20-heading-1",
         "d0daaf72-889d-458f-b69c-dad16abf0807"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/artist_project_logo.png",
         "height": "adapt",
@@ -228,6 +229,16 @@
     "ff9b1c52-a209-4155-a2a4-28cbba4b0fab": {
       "type": "multicolumn",
       "blocks": {
+        "column_AQX9Yc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/artist_project_logo.png",
+            "title": "April 11 - 14, 2024",
+            "text": "<p>It was a pleasure to meet so many artists and art lovers again this year!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_bqPgAA": {
           "type": "column",
           "settings": {
@@ -290,6 +301,7 @@
         }
       },
       "block_order": [
+        "column_AQX9Yc",
         "column_bqPgAA",
         "column_iaQTNU",
         "column_cmRtwJ",
