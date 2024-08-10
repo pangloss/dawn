@@ -354,36 +354,24 @@
         "heading_p97dGM": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "Exhibition Listing",
             "heading_size": "h1"
           }
         },
         "text_M93hw7": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Solo Exhibitions<\/strong><\/p><p>2024, Roberts Gallery, Toronto, ON<br\/>2023, Summer & Grace Gallery, Oakville, ON<\/p><p><strong>Joint Exhibitions<\/strong><\/p><p>2024, Artist Project, Toronto, ON<br\/>2024, Roberts Gallery Artists Choice, Toronto, ON<br\/>2023, Art Gallery of Mississauga 3rd Annual Juried Exhibition, Mississauga, ON<br\/>2023, Earls Court Dwelling in Place, Hamilton, ON<br\/>2023, Toronto Outdoor Art Fair, Toronto, ON<br\/>2023 Artist Project, Toronto, ON<\/p>"
-          }
-        },
-        "button_rR6iEN": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "text": "<p><strong>Solo Exhibitions<\/strong><\/p><p>2024, Roberts Gallery, Toronto, ON<br\/>2023, Summer & Grace Gallery, Oakville, ON<\/p><p><strong>Joint Exhibitions<\/strong><\/p><p>2024, Artist Project, Toronto, ON<br\/>2024, Roberts Gallery Artists Choice, Toronto, ON<br\/>2023, Art Gallery of Mississauga 3rd Annual Juried Exhibition, Mississauga, ON<br\/>2023, Earls Court Dwelling in Place, Hamilton, ON<br\/>2023, Toronto Outdoor Art Fair, Toronto, ON<br\/>2023, Artist Project, Toronto, ON<\/p>"
           }
         }
       },
       "block_order": [
         "heading_p97dGM",
-        "text_M93hw7",
-        "button_rR6iEN"
+        "text_M93hw7"
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "center",
+        "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
