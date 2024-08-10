@@ -281,6 +281,16 @@
             "link_label": "Visit Art Interiors",
             "link": "https:\/\/www.artinteriors.ca\/artists\/eliza-kozurno"
           }
+        },
+        "column_eVfFMM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/moon_and_dove.webp",
+            "title": "Moon & Dove Gallery",
+            "text": "<p>The Ed Samuels family gallery in Coralles, NM.<\/p>",
+            "link_label": "Visit Moon & Dove",
+            "link": "https:\/\/www.instagram.com\/moon_and_dove\/"
+          }
         }
       },
       "block_order": [
@@ -292,7 +302,8 @@
         "79d14df6-e54a-4d9f-ab70-2e42be5d5215",
         "68c8067b-c8eb-487e-bc63-9a77948acebf",
         "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-1",
-        "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-0"
+        "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-0",
+        "column_eVfFMM"
       ],
       "settings": {
         "title": "",
