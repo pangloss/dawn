@@ -208,6 +208,7 @@
         },
         "column_VbfbXi": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/JDAEK-700x438.jpg",
             "title": "John David Anderson & Eliza Kozurno Joint Exhibition",
