@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "2f3c6529-098a-4827-8058-15d0353fb716": {
@@ -27,6 +36,7 @@
         "template--17932971475229__2f3c6529-098a-4827-8058-15d0353fb716-column-2",
         "template--17932971475229__2f3c6529-098a-4827-8058-15d0353fb716-column-3"
       ],
+      "disabled": true,
       "settings": {
         "title": "Current Exhibition",
         "heading_size": "h1",

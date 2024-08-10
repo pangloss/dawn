@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -13,6 +22,7 @@
       "blocks": {
         "template--21352538112285__361d4d5d-2962-41c3-9e19-2d794da071ee-heading-1": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Current & Upcoming Exhibitions",
             "heading_size": "h1"
@@ -102,6 +112,7 @@
         "template--21352538112285__acd5a2a9-d9e2-4cb6-be1c-78a2cb8fffd0-heading-1",
         "2c30581d-5414-41d2-b6db-fc1f1c438601"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Roberts_Logo_75th-colour.png",
         "height": "adapt",
@@ -229,6 +240,16 @@
     "ff9b1c52-a209-4155-a2a4-28cbba4b0fab": {
       "type": "multicolumn",
       "blocks": {
+        "column_W84XgQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Roberts_Logo_75th-colour.png",
+            "title": "Solo Exhibition",
+            "text": "<p>May 2nd to May 25th, 2024<\/p><p>Thank you to Roberts Gallery and to all the friends, family and collectors who attended and made this opening truly special.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_AQX9Yc": {
           "type": "column",
           "settings": {
@@ -301,6 +322,7 @@
         }
       },
       "block_order": [
+        "column_W84XgQ",
         "column_AQX9Yc",
         "column_bqPgAA",
         "column_iaQTNU",
