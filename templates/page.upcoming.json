@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -37,7 +37,7 @@
         ".banner__heading,.banner__text {text-align: left;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/FullSizeRender_1d395659-c715-4e54-9afa-8d669a195f4b.heic",
+        "image": "shopify://shop_images/FullSizeRender_1d395659-c715-4e54-9afa-8d669a195f4b.heic",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "bottom-left",
@@ -56,7 +56,7 @@
         "template--21352538112285__e0272d39-32f1-4326-bddf-a53d480cda20-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<a href=\"https:\/\/theartistproject.com\/home\/\" title=\"https:\/\/theartistproject.com\/home\/\">The Artist Project 2024<\/a>",
+            "heading": "<a href=\"https://theartistproject.com/home/\" title=\"https://theartistproject.com/home/\">The Artist Project 2024</a>",
             "heading_size": "h1"
           }
         },
@@ -75,7 +75,7 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/artist_project_logo.png",
+        "image": "shopify://shop_images/artist_project_logo.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -95,7 +95,7 @@
         "template--21352538112285__acd5a2a9-d9e2-4cb6-be1c-78a2cb8fffd0-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<a href=\"https:\/\/www.robertsgallery.net\/exhibition\/john-david-anderson-eliza-kozurno\/\" title=\"John David Anderson & Eliza Kożurno\">John David Anderson & Eliza Kożurno<\/a>",
+            "heading": "<a href=\"https://www.robertsgallery.net/exhibition/john-david-anderson-eliza-kozurno/\" title=\"John David Anderson & Eliza Kożurno\">John David Anderson & Eliza Kożurno</a>",
             "heading_size": "h0"
           }
         },
@@ -114,7 +114,7 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/Roberts_Logo_75th-colour.png",
+        "image": "shopify://shop_images/Roberts_Logo_75th-colour.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -181,7 +181,7 @@
         "template--21352538112285__3f3ef6cf-a734-462b-b548-5392715f71bc-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<a href=\"https:\/\/www.artgalleryofmississauga.com\/exhibitions\/\" title=\"https:\/\/www.artgalleryofmississauga.com\/exhibitions\/\"><em>3rd Annual Juried Exhibition<\/em>, Art Gallery of Mississauga<\/a>",
+            "heading": "<a href=\"https://www.artgalleryofmississauga.com/exhibitions/\" title=\"https://www.artgalleryofmississauga.com/exhibitions/\"><em>3rd Annual Juried Exhibition</em>, Art Gallery of Mississauga</a>",
             "heading_size": "h1"
           }
         },
@@ -200,7 +200,7 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/AGM_Show.jpg",
+        "image": "shopify://shop_images/AGM_Show.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -250,7 +250,7 @@
         "text_M93hw7": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Solo Exhibitions<\/strong><\/p><p>2024, Roberts Gallery, Toronto, ON<br\/>2023, Summer & Grace Gallery, Oakville, ON<\/p><p><strong>Joint Exhibitions<\/strong><\/p><p>2024, Artist Project, Toronto, ON<br\/>2024, Roberts Gallery Artists Choice, Toronto, ON<br\/>2023, Art Gallery of Mississauga 3rd Annual Juried Exhibition, Mississauga, ON<br\/>2023, Earls Court Dwelling in Place, Hamilton, ON<br\/>2023, Toronto Outdoor Art Fair, Toronto, ON<br\/>2023, Artist Project, Toronto, ON<\/p>"
+            "text": "<p><strong>Solo Exhibitions</strong></p><p>2024, Roberts Gallery, Toronto, ON<br/>2023, Summer & Grace Gallery, Oakville, ON</p><p><strong>Joint Exhibitions</strong></p><p>2024, Art Toronto, Toronto, ON<br/>2024, Artist Project, Toronto, ON<br/>2024, Roberts Gallery Artists Choice, Toronto, ON<br/>2023, Art Gallery of Mississauga 3rd Annual Juried Exhibition, Mississauga, ON<br/>2023, Earls Court Dwelling in Place, Hamilton, ON<br/>2023, Toronto Outdoor Art Fair, Toronto, ON<br/>2023, Artist Project, Toronto, ON</p>"
           }
         }
       },
@@ -273,19 +273,19 @@
         "column_W84XgQ": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Roberts_Logo_75th-colour.png",
+            "image": "shopify://shop_images/Roberts_Logo_75th-colour.png",
             "title": "Solo Exhibition",
-            "text": "<p>May 2nd to May 25th, 2024<\/p><p>Thank you to Roberts Gallery and to all the friends, family and collectors who attended and made this opening truly special.<\/p>",
+            "text": "<p>May 2nd to May 25th, 2024</p><p>Thank you to Roberts Gallery and to all the friends, family and collectors who attended and made this opening truly special.</p>",
             "link_label": "Roberts Gallery",
-            "link": "https:\/\/www.robertsgallery.net\/exhibition\/eliza-kozurno\/"
+            "link": "https://www.robertsgallery.net/exhibition/eliza-kozurno/"
           }
         },
         "column_AQX9Yc": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/artist_project_logo.png",
+            "image": "shopify://shop_images/artist_project_logo.png",
             "title": "April 11 - 14, 2024",
-            "text": "<p>It was a pleasure to meet so many artists and art lovers again this year!<\/p>",
+            "text": "<p>It was a pleasure to meet so many artists and art lovers again this year!</p>",
             "link_label": "",
             "link": ""
           }
@@ -293,9 +293,9 @@
         "column_bqPgAA": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Roberts_Logo_75th-colour.png",
+            "image": "shopify://shop_images/Roberts_Logo_75th-colour.png",
             "title": "52nd Annual Artists Choice",
-            "text": "<p>January 27th to Feb 17th, 2024<\/p><p>It was wonderful to participate in my first exhibition at Roberts Gallery together with the many other wonderful artists they represent!<\/p>",
+            "text": "<p>January 27th to Feb 17th, 2024</p><p>It was wonderful to participate in my first exhibition at Roberts Gallery together with the many other wonderful artists they represent!</p>",
             "link_label": "",
             "link": ""
           }
@@ -303,9 +303,9 @@
         "column_iaQTNU": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/AGM_Show.jpg",
+            "image": "shopify://shop_images/AGM_Show.jpg",
             "title": "3rd Annual Juried Exhibition",
-            "text": "<p>November 21, 2023 - January 14, 2024<\/p>",
+            "text": "<p>November 21, 2023 - January 14, 2024</p>",
             "link_label": "",
             "link": ""
           }
@@ -313,9 +313,9 @@
         "column_cmRtwJ": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/earls_court.jpg",
+            "image": "shopify://shop_images/earls_court.jpg",
             "title": "Dwelling in Place Group Show",
-            "text": "<p>November 16, 2023 –– January 6, 2024<\/p><p>Thank you to Earls Court Gallery for a lovely exhibition! It was wonderful to meet the team and talented co-exhibitors.<\/p>",
+            "text": "<p>November 16, 2023 –– January 6, 2024</p><p>Thank you to Earls Court Gallery for a lovely exhibition! It was wonderful to meet the team and talented co-exhibitors.</p>",
             "link_label": "",
             "link": ""
           }
@@ -323,9 +323,9 @@
         "template--21352538112285__ff9b1c52-a209-4155-a2a4-28cbba4b0fab-column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/SG-Logo-Black.png",
+            "image": "shopify://shop_images/SG-Logo-Black.png",
             "title": "August 2023 Oakville Solo Show",
-            "text": "<p>Thank you to all of my friends who came to see my work at this lovely gallery. Thank you to Summer & Grace gallery for being so gracious and hosting my work in such a lovely space.<\/p>",
+            "text": "<p>Thank you to all of my friends who came to see my work at this lovely gallery. Thank you to Summer & Grace gallery for being so gracious and hosting my work in such a lovely space.</p>",
             "link_label": "",
             "link": ""
           }
@@ -333,9 +333,9 @@
         "template--21352538112285__ff9b1c52-a209-4155-a2a4-28cbba4b0fab-column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/toaf_7c5a083e-9402-4eb7-a28e-a69687cb4ee5.png",
+            "image": "shopify://shop_images/toaf_7c5a083e-9402-4eb7-a28e-a69687cb4ee5.png",
             "title": "July 7 to 9, 2023",
-            "text": "<p>I had a wonderful time meeting so many people at TOAF! Thank you for coming to visit me, and special thanks to the wonderful customers who went home with beautiful artworks!<\/p>",
+            "text": "<p>I had a wonderful time meeting so many people at TOAF! Thank you for coming to visit me, and special thanks to the wonderful customers who went home with beautiful artworks!</p>",
             "link_label": "",
             "link": ""
           }
@@ -343,9 +343,9 @@
         "template--21352538112285__ff9b1c52-a209-4155-a2a4-28cbba4b0fab-column-3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/artist_project_logo.png",
+            "image": "shopify://shop_images/artist_project_logo.png",
             "title": "April 13 to 16, 2023",
-            "text": "<p>Thank you to all the friends new and old who came to see me at The Artist Project.<\/p>",
+            "text": "<p>Thank you to all the friends new and old who came to see me at The Artist Project.</p>",
             "link_label": "",
             "link": ""
           }
