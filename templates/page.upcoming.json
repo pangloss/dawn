@@ -22,7 +22,6 @@
       "blocks": {
         "template--21352538112285__361d4d5d-2962-41c3-9e19-2d794da071ee-heading-1": {
           "type": "heading",
-          "disabled": true,
           "settings": {
             "heading": "Current & Upcoming Exhibitions",
             "heading_size": "h1"
@@ -181,14 +180,14 @@
         "template--21352538112285__3f3ef6cf-a734-462b-b548-5392715f71bc-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<a href=\"https://www.artgalleryofmississauga.com/exhibitions/\" title=\"https://www.artgalleryofmississauga.com/exhibitions/\"><em>3rd Annual Juried Exhibition</em>, Art Gallery of Mississauga</a>",
+            "heading": "Artists Choice, Roberts Gallery, Toronto",
             "heading_size": "h1"
           }
         },
         "560ed39a-72ee-42dd-a2d6-fc658e919746": {
           "type": "caption",
           "settings": {
-            "caption": "November 21, 2023 –– January 14",
+            "caption": "January 18, 2024 - February 8",
             "text_style": "caption-with-letter-spacing",
             "text_size": "large"
           }
@@ -198,9 +197,8 @@
         "template--21352538112285__3f3ef6cf-a734-462b-b548-5392715f71bc-heading-1",
         "560ed39a-72ee-42dd-a2d6-fc658e919746"
       ],
-      "disabled": true,
       "settings": {
-        "image": "shopify://shop_images/AGM_Show.jpg",
+        "image": "shopify://shop_images/Artists-Choice-Grid-700x500.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
