@@ -180,8 +180,15 @@
         "template--21352538112285__3f3ef6cf-a734-462b-b548-5392715f71bc-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Artists Choice,Roberts Gallery, Toronto",
+            "heading": "Artists Choice",
             "heading_size": "h1"
+          }
+        },
+        "text_XxqNGz": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Roberts Gallery, Toronto</h2>",
+            "text_style": "body"
           }
         },
         "560ed39a-72ee-42dd-a2d6-fc658e919746": {
@@ -195,6 +202,7 @@
       },
       "block_order": [
         "template--21352538112285__3f3ef6cf-a734-462b-b548-5392715f71bc-heading-1",
+        "text_XxqNGz",
         "560ed39a-72ee-42dd-a2d6-fc658e919746"
       ],
       "settings": {
