@@ -187,7 +187,7 @@
         "text_XxqNGz": {
           "type": "text",
           "settings": {
-            "text": "<h2>Roberts Gallery, Toronto</h2>",
+            "text": "<h2><a href=\"https://www.robertsgallery.net/exhibition/artists-choice-3/\" title=\"https://www.robertsgallery.net/exhibition/artists-choice-3/\">Roberts Gallery, Toronto</a></h2>",
             "text_style": "body"
           }
         },
