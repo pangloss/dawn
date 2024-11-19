@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "2f3c6529-098a-4827-8058-15d0353fb716": {
@@ -15,7 +15,7 @@
         "template--17932971475229__2f3c6529-098a-4827-8058-15d0353fb716-column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/JDAEK-700x438.jpg",
+            "image": "shopify://shop_images/JDAEK-700x438.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -26,7 +26,7 @@
           "type": "column",
           "settings": {
             "title": "Roberts Gallery",
-            "text": "<h2><strong>Eliza Kozurno & John D. Anderson <\/strong><\/h2><p>Join us for the opening on May 4th, 1-4pm.<br\/><a href=\"https:\/\/www.robertsgallery.net\/\" target=\"_blank\" title=\"https:\/\/www.robertsgallery.net\/\">Show runs <strong>May 2nd to 25th<\/strong><\/a>.<br\/><br\/>I've been working hard on several new paintings which will be unveiled at this show.  I am very excited to finally let people see them!<br\/><br\/>631 Dupont Street, Toronto Ontario<\/p>",
+            "text": "<h2><strong>Eliza Kozurno & John D. Anderson </strong></h2><p>Join us for the opening on May 4th, 1-4pm.<br/><a href=\"https://www.robertsgallery.net/\" target=\"_blank\" title=\"https://www.robertsgallery.net/\">Show runs <strong>May 2nd to 25th</strong></a>.<br/><br/>I've been working hard on several new paintings which will be unveiled at this show.  I am very excited to finally let people see them!<br/><br/>631 Dupont Street, Toronto Ontario</p>",
             "link_label": "",
             "link": ""
           }
@@ -75,10 +75,10 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Still Life with War News",
-            "button_link_1": "shopify:\/\/products\/still-life-with-war-news",
+            "button_link_1": "shopify://products/still-life-with-war-news",
             "button_style_secondary_1": true,
             "button_label_2": "Art Gallery of Mississauga",
-            "button_link_2": "https:\/\/www.artgalleryofmississauga.com\/",
+            "button_link_2": "https://www.artgalleryofmississauga.com/",
             "button_style_secondary_2": false
           }
         }
@@ -94,8 +94,8 @@
         ".banner__heading,.banner__text {text-align: left;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/war_news.jpg",
-        "image_2": "shopify:\/\/shop_images\/AGM_Show.jpg",
+        "image": "shopify://shop_images/war_news.jpg",
+        "image_2": "shopify://shop_images/AGM_Show.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "top-right",
@@ -111,7 +111,7 @@
     "image_banner_EjAQ8f": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/C1892707-6E94-4B72-A95F-BC36C99C36B8.jpg",
+        "image": "shopify://shop_images/C1892707-6E94-4B72-A95F-BC36C99C36B8.jpg",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
@@ -130,7 +130,7 @@
         "53637423-3556-4aeb-9229-a82f650a6eb8": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG-0161.heic",
+            "image": "shopify://shop_images/IMG-0161.heic",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -148,7 +148,7 @@
         "slide-2": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_5114_copy.jpg",
+            "image": "shopify://shop_images/IMG_5114_copy.jpg",
             "heading": "",
             "heading_size": "medium",
             "subheading": "",
@@ -166,7 +166,7 @@
         "slide-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_5114.jpg",
+            "image": "shopify://shop_images/IMG_5114.jpg",
             "heading": "",
             "heading_size": "h0",
             "subheading": "",
@@ -205,74 +205,74 @@
         "c46deeb5-d5ca-4e5e-93db-79d9032d75db": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Roberts_Logo_75th-colour.png",
+            "image": "shopify://shop_images/Roberts_Logo_75th-colour.png",
             "title": "Representing Eliza in the Greater Toronto Area",
-            "text": "<p>Roberts Gallery was established in 1842. They represent a current list of contemporary Canadian artists from coast to coast. They have a beautiful gallery at 631 Dupont Street, Toronto.<\/p>",
+            "text": "<p>Roberts Gallery was established in 1842. They represent a current list of contemporary Canadian artists from coast to coast. They have a beautiful gallery at 631 Dupont Street, Toronto.</p>",
             "link_label": "Visit Roberts Gallery",
-            "link": "https:\/\/www.robertsgallery.net\/"
+            "link": "https://www.robertsgallery.net/"
           }
         },
         "817be3dd-eb2f-474c-ab2a-eb3e8f1b372d": {
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/AGM_cropped.jpg",
+            "image": "shopify://shop_images/AGM_cropped.jpg",
             "title": "Art Gallery of Mississauga Juried Show, Nov. 21 to Jan. 14",
-            "text": "<p>Eliza's work has been selected by the jurors to be included in the third annual AGM Juried show! <\/p>",
+            "text": "<p>Eliza's work has been selected by the jurors to be included in the third annual AGM Juried show! </p>",
             "link_label": "Visit the Art Gallery of Mississauga",
-            "link": "https:\/\/www.artgalleryofmississauga.com\/"
+            "link": "https://www.artgalleryofmississauga.com/"
           }
         },
         "column_VbfbXi": {
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/JDAEK-700x438.jpg",
+            "image": "shopify://shop_images/JDAEK-700x438.jpg",
             "title": "John David Anderson & Eliza Kozurno Joint Exhibition",
             "text": "",
             "link_label": "Exhibition Details",
-            "link": "https:\/\/www.robertsgallery.net\/exhibition\/john-david-anderson-eliza-kozurno\/"
+            "link": "https://www.robertsgallery.net/exhibition/john-david-anderson-eliza-kozurno/"
           }
         },
         "c7e8e13c-27f3-49c0-87d1-6dd91f4d687a": {
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/earls_court.jpg",
+            "image": "shopify://shop_images/earls_court.jpg",
             "title": "Earls Court Gallery, Hamilton, Nov 16 - Jan 3",
-            "text": "<p>Eliza will be showing 6 pieces as part of the Dwelling in Place group show at Earls Court Gallery.<\/p>",
+            "text": "<p>Eliza will be showing 6 pieces as part of the Dwelling in Place group show at Earls Court Gallery.</p>",
             "link_label": "Exhibition Details",
-            "link": "https:\/\/www.earlscourtart.com\/collections\/dwelling-in-place"
+            "link": "https://www.earlscourtart.com/collections/dwelling-in-place"
           }
         },
         "007c7095-1ac6-424e-a567-eaba3f23efd9": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/koyman_logo-v2_42404b34-95ec-4937-86a3-6042072df93f.png",
+            "image": "shopify://shop_images/koyman_logo-v2_42404b34-95ec-4937-86a3-6042072df93f.png",
             "title": "Koyman Galleries, Ottawa",
-            "text": "<p>Koyman Galleries was established in 1965 and carries the best in contemporary Canadian artwork.<\/p>",
+            "text": "<p>Koyman Galleries was established in 1965 and carries the best in contemporary Canadian artwork.</p>",
             "link_label": "Visit Koyman Galleries",
-            "link": "https:\/\/koymangalleries.com\/artist\/eliza-kozurno\/"
+            "link": "https://koymangalleries.com/artist/eliza-kozurno/"
           }
         },
         "79d14df6-e54a-4d9f-ab70-2e42be5d5215": {
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/SG-Logo-Black.png",
+            "image": "shopify://shop_images/SG-Logo-Black.png",
             "title": "August 2023 Oakville Solo Show",
-            "text": "<p>Thank you to all of my friends who came to see my work at this lovely gallery. Thank you to Summer & Grace gallery for being so gracious and hosting my work in such a lovely space.<\/p>",
+            "text": "<p>Thank you to all of my friends who came to see my work at this lovely gallery. Thank you to Summer & Grace gallery for being so gracious and hosting my work in such a lovely space.</p>",
             "link_label": "Visit Summer & Grace Gallery",
-            "link": "https:\/\/www.summergracegallery.com\/"
+            "link": "https://www.summergracegallery.com/"
           }
         },
         "68c8067b-c8eb-487e-bc63-9a77948acebf": {
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/toaf.png",
+            "image": "shopify://shop_images/toaf.png",
             "title": "Toronto Outdoor Art Fair, July 7-9 2023",
-            "text": "<p>I had a wonderful time meeting so many people at TOAF! Thank you for coming to visit me, and special thanks to the wonderful customers who went home with beautiful artworks!<\/p>",
+            "text": "<p>I had a wonderful time meeting so many people at TOAF! Thank you for coming to visit me, and special thanks to the wonderful customers who went home with beautiful artworks!</p>",
             "link_label": "",
             "link": ""
           }
@@ -281,32 +281,32 @@
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/artist_project_logo.png",
+            "image": "shopify://shop_images/artist_project_logo.png",
             "title": "April 11 to 14, 2024",
-            "text": "<p>Eliza will be at the Artist Project again this year!<\/p><p>The event is a wonderful opportunity to meet and support many excellent artists.<\/p>",
+            "text": "<p>Eliza will be at the Artist Project again this year!</p><p>The event is a wonderful opportunity to meet and support many excellent artists.</p>",
             "link_label": "More Information",
-            "link": "shopify:\/\/pages\/the-artist-project-2024"
+            "link": "shopify://pages/the-artist-project-2024"
           }
         },
         "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-0": {
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/art_interiors_logo_remade.png",
+            "image": "shopify://shop_images/art_interiors_logo_remade.png",
             "title": "Eliza's previous Toronto gallery",
-            "text": "<p>Thank you to Art Interiors for being the first to show my work!<\/p><p>Established in 1993, Art Interiors is a Toronto based gallery dedicated to making original fine art of all styles, mediums and genres accessible and affordable.<\/p>",
+            "text": "<p>Thank you to Art Interiors for being the first to show my work!</p><p>Established in 1993, Art Interiors is a Toronto based gallery dedicated to making original fine art of all styles, mediums and genres accessible and affordable.</p>",
             "link_label": "Visit Art Interiors",
-            "link": "https:\/\/www.artinteriors.ca\/artists\/eliza-kozurno"
+            "link": "https://www.artinteriors.ca/artists/eliza-kozurno"
           }
         },
         "column_eVfFMM": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/moon_and_dove.webp",
+            "image": "shopify://shop_images/moon_and_dove.webp",
             "title": "Moon & Dove Gallery",
-            "text": "<p>The Ed Samuels family gallery in Coralles, NM.<\/p>",
+            "text": "<p>The Ed Samuels family gallery in Coralles, NM.</p>",
             "link_label": "Visit Moon & Dove",
-            "link": "https:\/\/www.instagram.com\/moon_and_dove\/"
+            "link": "https://www.instagram.com/moon_and_dove/"
           }
         }
       },
@@ -322,6 +322,7 @@
         "template--18299858845981__fa746708-c315-4361-84d3-411ebb4a1e5f-16803877728e61e158-0",
         "column_eVfFMM"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h2",
@@ -345,7 +346,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<a href=\"\/pages\/reflecting-on-reflections\" title=\"Reflecting on Reflections\">The Current Collection<\/a>",
+            "heading": "<a href=\"/pages/reflecting-on-reflections\" title=\"Reflecting on Reflections\">The Current Collection</a>",
             "heading_size": "h1"
           }
         }
@@ -452,8 +453,7 @@
         "template--17932971475229__af47e7c8-5c55-485a-ac02-c6d8ab1dd750-price-1": {
           "type": "price",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "template--17932971475229__af47e7c8-5c55-485a-ac02-c6d8ab1dd750-share-1": {
           "type": "share",
@@ -524,7 +524,7 @@
         "6468c749-5368-414f-8c4f-15bdda430941"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_9274.jpg",
+        "image": "shopify://shop_images/IMG_9274.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -598,7 +598,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Exploring the Work<\/p>"
+            "text": "<p>Exploring the Work</p>"
           }
         },
         "heading": {
@@ -611,7 +611,7 @@
         "d4a1b0a6-2e88-46fb-aad1-132ddf73fac8": {
           "type": "text",
           "settings": {
-            "text": "<p>A beautiful Italian espresso maker whose appearance (if not its coffee) we've enjoyed for many years has finally found a true purpose. It's a wonderful object hiding at the center of many of Eliza's paintings.<\/p>"
+            "text": "<p>A beautiful Italian espresso maker whose appearance (if not its coffee) we've enjoyed for many years has finally found a true purpose. It's a wonderful object hiding at the center of many of Eliza's paintings.</p>"
           }
         }
       },
@@ -643,13 +643,12 @@
         "paragraph": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Join our email list to learn about exclusive showings and new collections.<\/p>"
+            "text": "<p>Join our email list to learn about exclusive showings and new collections.</p>"
           }
         },
         "form": {
           "type": "email_form",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -696,7 +695,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_8654.jpg",
+        "image": "shopify://shop_images/IMG_8654.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
