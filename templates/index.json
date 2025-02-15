@@ -523,6 +523,7 @@
         "template--18299858845981__f1f69d24-99e8-4715-9a48-aadb39d6097a-1680462061af95c7a1-2",
         "6468c749-5368-414f-8c4f-15bdda430941"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/IMG_9274.jpg",
         "height": "adapt",
@@ -552,6 +553,7 @@
       "block_order": [
         "heading"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -563,6 +565,7 @@
     },
     "featured-collection-1": {
       "type": "featured-collection",
+      "disabled": true,
       "custom_css": [
         ".price {display: none;}"
       ],
@@ -694,6 +697,7 @@
         "caption",
         "button"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/IMG_8654.jpg",
         "height": "adapt",
