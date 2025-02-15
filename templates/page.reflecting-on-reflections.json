@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "1f352860-0379-4ccf-887c-31e2dfbec050": {
@@ -27,7 +36,7 @@
         ".banner__heading,.banner__text {text-align: left;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_5114_copy.jpg",
+        "image": "shopify://shop_images/IMG_5114_copy.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "bottom-left",
@@ -55,7 +64,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>I approached this work as a meditation on the interplay of objects and their reflections. Mirror-like surfaces are juxtaposed against soft lines and intricate textiles in rich colour combinations. The compositions are arranged to create subtle distortions and refractions on which the eye can linger.<\/p>",
+            "text": "<p>I approached this work as a meditation on the interplay of objects and their reflections. Mirror-like surfaces are juxtaposed against soft lines and intricate textiles in rich colour combinations. The compositions are arranged to create subtle distortions and refractions on which the eye can linger.</p>",
             "link_label": "",
             "link": ""
           }
@@ -64,7 +73,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Just as in moments of happiness, the pace of time slows and our sphere narrows, I aim to slow the viewer’s gaze, provoke deeper observation and discovery. These pieces are a reminder of the simple pleasure to be found in colour, texture, light, and the act of focusing on beauty. Through this immersion, the viewer can share my experience of a flow state and gain distance from ordinary consciousness.<\/p>",
+            "text": "<p>Just as in moments of happiness, the pace of time slows and our sphere narrows, I aim to slow the viewer’s gaze, provoke deeper observation and discovery. These pieces are a reminder of the simple pleasure to be found in colour, texture, light, and the act of focusing on beauty. Through this immersion, the viewer can share my experience of a flow state and gain distance from ordinary consciousness.</p>",
             "link_label": "",
             "link": ""
           }
@@ -98,7 +107,7 @@
           "type": "button",
           "settings": {
             "button_label": "View All Paintings",
-            "button_link": "shopify:\/\/collections\/reflecting-on-reflections",
+            "button_link": "shopify://collections/reflecting-on-reflections",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -124,14 +133,14 @@
         "b132cbc9-6f42-4ce9-99f8-6f55c9e88bab": {
           "type": "product",
           "settings": {
-            "product": "copy-of-still-life-with-orchid",
+            "product": "still-life-with-tea",
             "second_image": false
           }
         },
         "template--17945618612509__e3c84bd7-ff5e-4e77-9223-45f068d04475-16820569486ac2dc67-1": {
           "type": "product",
           "settings": {
-            "product": "untitled-aug30_11-24",
+            "product": "still-life-with-brigadeiros",
             "second_image": false
           }
         },
