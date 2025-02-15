@@ -23,7 +23,7 @@
         "template--21352538112285__361d4d5d-2962-41c3-9e19-2d794da071ee-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Current & Upcoming Exhibitions",
+            "heading": "Events & Exhibitions",
             "heading_size": "h1"
           }
         }
@@ -205,6 +205,7 @@
         "text_XxqNGz",
         "560ed39a-72ee-42dd-a2d6-fc658e919746"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Artists-Choice-Grid-700x500.jpg",
         "height": "adapt",
@@ -256,7 +257,7 @@
         "text_M93hw7": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Solo Exhibitions</strong></p><p>2024, Roberts Gallery, Toronto, ON<br/>2023, Summer & Grace Gallery, Oakville, ON</p><p><strong>Joint Exhibitions</strong></p><p>2024, Art Toronto, Toronto, ON<br/>2024, Artist Project, Toronto, ON<br/>2024, Roberts Gallery Artists Choice, Toronto, ON<br/>2023, Art Gallery of Mississauga 3rd Annual Juried Exhibition, Mississauga, ON<br/>2023, Earls Court Dwelling in Place, Hamilton, ON<br/>2023, Toronto Outdoor Art Fair, Toronto, ON<br/>2023, Artist Project, Toronto, ON</p>"
+            "text": "<p><strong>Solo Exhibitions</strong></p><p>2024, Roberts Gallery, Toronto, ON<br/>2023, Summer & Grace Gallery, Oakville, ON</p><p><strong>Joint Exhibitions</strong></p><p>2025, Roberts Gallery Artists Choice, Toronto, ON<br/>2024, Art Toronto, Toronto, ON<br/>2024, Artist Project, Toronto, ON<br/>2024, Roberts Gallery Artists Choice, Toronto, ON<br/>2023, Art Gallery of Mississauga 3rd Annual Juried Exhibition, Mississauga, ON<br/>2023, Earls Court Dwelling in Place, Hamilton, ON<br/>2023, Toronto Outdoor Art Fair, Toronto, ON<br/>2023, Artist Project, Toronto, ON</p>"
           }
         }
       },
