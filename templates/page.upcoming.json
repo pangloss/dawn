@@ -277,6 +277,16 @@
     "ff9b1c52-a209-4155-a2a4-28cbba4b0fab": {
       "type": "multicolumn",
       "blocks": {
+        "column_G3wYak": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/F1DE6237-D745-47BD-AC69-01DE5AB6A202.jpg",
+            "title": "53rd Annual Artists Choice",
+            "text": "<p>January 18th to Feb 8th, 2025</p><p>Artists Choice is a great exhibition because it brings together all of the artists represented by Roberts Gallery. It's wonderful to get to know them better.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_W84XgQ": {
           "type": "column",
           "settings": {
@@ -359,6 +369,7 @@
         }
       },
       "block_order": [
+        "column_G3wYak",
         "column_W84XgQ",
         "column_AQX9Yc",
         "column_bqPgAA",
